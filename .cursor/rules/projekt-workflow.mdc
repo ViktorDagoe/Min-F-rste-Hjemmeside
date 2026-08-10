@@ -1,0 +1,29 @@
+---
+description: Hold projekter i scope og færdiggør leverancer før næste projekt
+globs:
+  - "projects/**"
+alwaysApply: false
+---
+
+# Projekt-workflow
+
+Når brugeren arbejder i `projects/`:
+
+1. Læs `BRIEF.md` først.
+2. Hold dig til scopet.
+3. Skab filerne der allerede er skitseret i mappen.
+4. Stop ikke ved idéer — skriv indhold i filerne.
+5. Afslut med case-note og scoreboard-reminder.
+
+## Definition af færdig
+
+Et projekt er først færdigt når:
+
+- BRIEF-krav er hakket af
+- Leverancefiler er udfyldt
+- QA er kørt
+- Case-note er skrevet
+
+## Hvis brugeren hopper mellem projekter
+
+Bed dem afslutte det aktuelle projekts næste leverance før nyt startes.

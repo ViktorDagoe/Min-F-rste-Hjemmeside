@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Nordkyst VVS — Helsingør</title>
+  <style>
+    :root {
+      --ink: #15202b;
+      --muted: #52606d;
+      --bg: #f6f8fa;
+      --card: #ffffff;
+      --accent: #0b6e4f;
+      --line: #d9e2ec;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "Source Sans 3", "Segoe UI", sans-serif;
+      color: var(--ink);
+      background: var(--bg);
+      line-height: 1.5;
+    }
+    header, section, footer {
+      max-width: 920px;
+      margin: 0 auto;
+      padding: 28px 18px;
+    }
+    header {
+      padding-top: 48px;
+    }
+    .eyebrow {
+      color: var(--accent);
+      font-weight: 700;
+      letter-spacing: 0.02em;
+      margin-bottom: 8px;
+    }
+    h1 {
+      font-size: clamp(1.9rem, 4vw, 2.8rem);
+      line-height: 1.15;
+      margin: 0 0 12px;
+    }
+    .lead {
+      color: var(--muted);
+      font-size: 1.1rem;
+      max-width: 36rem;
+    }
+    .cta {
+      display: inline-block;
+      margin-top: 18px;
+      background: var(--accent);
+      color: #fff;
+      text-decoration: none;
+      padding: 12px 18px;
+      border-radius: 8px;
+      font-weight: 700;
+    }
+    .grid {
+      display: grid;
+      gap: 14px;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    }
+    .item {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      padding: 16px;
+    }
+    h2 { margin: 0 0 12px; font-size: 1.35rem; }
+    h3 { margin: 0 0 6px; font-size: 1.05rem; }
+    ol { padding-left: 1.2rem; }
+    details {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 12px 14px;
+      margin: 8px 0;
+    }
+    footer {
+      color: var(--muted);
+      border-top: 1px solid var(--line);
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="eyebrow">Nordkyst VVS · Helsingør</div>
+    <h1>VVS der svarer hurtigt — og møder op til tiden</h1>
+    <p class="lead">Akut hjælp, badeværelse og varmepumpe-service for boligejere i Helsingør og omegn.</p>
+    <a class="cta" href="tel:+4511223344">Ring og book tid</a>
+  </header>
+
+  <section>
+    <h2>Derfor vælger folk os</h2>
+    <div class="grid">
+      <div class="item">
+        <h3>Klar besked</h3>
+        <p>Du får at vide, hvornår vi kan komme — uden at vente i uvished.</p>
+      </div>
+      <div class="item">
+        <h3>Lokalt team</h3>
+        <p>Vi kører i Helsingør og nærområdet. Korte afstande. Hurtigere hjælp.</p>
+      </div>
+      <div class="item">
+        <h3>Faste hverdagsopgaver</h3>
+        <p>Fra dryppende haner til større badeværelsesarbejde.</p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Ydelser</h2>
+    <div class="grid">
+      <div class="item"><h3>Akut VVS</h3><p>Stop hanen. Skriv eller ring. Vi prioriterer akutte skader.</p></div>
+      <div class="item"><h3>Badeværelse</h3><p>Udskiftning og reparationer — aftalt scope før start.</p></div>
+      <div class="item"><h3>Varmepumpe-service</h3><p>Service og fejlfinding, så du undgår unødige stop.</p></div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Sådan foregår det</h2>
+    <ol>
+      <li>Du ringer eller skriver med problemet.</li>
+      <li>Vi aftaler tid og forventet omfang.</li>
+      <li>Vi udfører opgaven og gennemgår næste skridt.</li>
+    </ol>
+  </section>
+
+  <section>
+    <h2>FAQ</h2>
+    <details>
+      <summary>Kører I akut samme dag?</summary>
+      <p>Ved akutte skader forsøger vi samme dag i Helsingør-området. Skriv “AKUT” i beskeden.</p>
+    </details>
+    <details>
+      <summary>Lager I tilbud før større opgaver?</summary>
+      <p>Ja. Ved ikke-akutte opgaver får du et klart tilbud før vi går i gang.</p>
+    </details>
+    <details>
+      <summary>Hvilke områder dækker I?</summary>
+      <p>Helsingør og omegn. Spørg gerne hvis du er i tvivl.</p>
+    </details>
+    <details>
+      <summary>Kan jeg skrive på SMS?</summary>
+      <p>Ja. Send gerne billede af problemet — det gør diagnosen hurtigere.</p>
+    </details>
+  </section>
+
+  <section>
+    <h2>Kontakt</h2>
+    <p>Telefon: <a href="tel:+4511223344">11 22 33 44</a><br>
+       Mail: hej@nordkyst-vvs.dk<br>
+       Område: Helsingør og omegn</p>
+    <a class="cta" href="mailto:hej@nordkyst-vvs.dk">Skriv for tid</a>
+  </section>
+
+  <footer>
+    <p>Demo-side til AI Skill Workstation — projekt 1. Erstat kontaktinfo med rigtige data før kundebrug.</p>
+  </footer>
+</body>
+</html>
