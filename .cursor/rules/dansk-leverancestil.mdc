@@ -1,0 +1,42 @@
+---
+description: Dansk skrivestil til SMV-leverancer uden marketingfluff
+globs:
+  - "projects/**/*.md"
+  - "sales/**/*.md"
+  - "prompts/**/*.md"
+alwaysApply: false
+---
+
+# Dansk leverancestil
+
+Når du skriver tekst til danske SMV’er:
+
+## Skriv sådan
+
+- Korte sætninger
+- Aktive verber
+- Konkrete gevinster
+- Tydelig CTA
+- Lokal forankring (by, område, responstid)
+
+## Skriv ikke sådan
+
+- “I en verden hvor…”
+- “Skræddersyede løsninger”
+- “Tag jeres brand til nye højder”
+- “Holistisk”
+- “Unikt univers”
+- Opdigtede anmeldelser eller resultater
+
+## Erstatninger
+
+| Undgå | Brug |
+|---|---|
+| Vi brænder for kvalitet | Vi leverer til aftalt tid |
+| Digitale løsninger | Hjemmesidetekst og opslag klar til brug |
+| Optimér jeres tilstedeværelse | Få flere bookinger via klar CTA |
+| Næste level | Hurtigere svar og tydeligere tilbud |
+
+## Før færdig
+
+Kør mental test: Kan en travl ejer forstå det på 20 sekunder?
