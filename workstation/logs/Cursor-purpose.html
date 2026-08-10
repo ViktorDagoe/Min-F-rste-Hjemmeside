@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <title>Cursor purpose</title>
+  <style>
+    :root {
+      --ink: #1a1c18;
+      --muted: #4a4f45;
+      --paper: #f7f4ec;
+      --band: #dfe8d8;
+      --accent: #2f5d3a;
+      --line: #c9d0bf;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
+      color: var(--ink);
+      background:
+        radial-gradient(1200px 600px at 10% -10%, #e8f0df 0%, transparent 55%),
+        radial-gradient(900px 500px at 100% 0%, #efe6d4 0%, transparent 50%),
+        var(--paper);
+      line-height: 1.45;
+    }
+    main {
+      max-width: 40rem;
+      margin: 0 auto;
+      padding: 1.5rem 1.25rem 3rem;
+    }
+    .label {
+      font-family: "Avenir Next", "Segoe UI", sans-serif;
+      font-size: 0.75rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin: 0 0 0.5rem;
+    }
+    h1 {
+      font-size: clamp(2rem, 8vw, 2.75rem);
+      line-height: 1.1;
+      margin: 0 0 0.75rem;
+      font-weight: 700;
+    }
+    .lead {
+      font-size: 1.05rem;
+      color: var(--muted);
+      margin: 0 0 1.5rem;
+    }
+    section {
+      padding: 1.1rem 0;
+      border-top: 1px solid var(--line);
+    }
+    h2 {
+      font-size: 1.2rem;
+      margin: 0 0 0.6rem;
+    }
+    ol, ul { margin: 0.4rem 0 0; padding-left: 1.2rem; }
+    li { margin: 0.35rem 0; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.95rem;
+    }
+    th, td {
+      text-align: left;
+      padding: 0.45rem 0.35rem;
+      border-bottom: 1px solid var(--line);
+      vertical-align: top;
+    }
+    th { color: var(--muted); font-weight: 600; font-family: "Avenir Next", "Segoe UI", sans-serif; font-size: 0.8rem; }
+    code {
+      font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+      font-size: 0.85em;
+      background: var(--band);
+      padding: 0.1em 0.35em;
+      border-radius: 0.25rem;
+    }
+    .steps {
+      background: var(--band);
+      border-radius: 0.75rem;
+      padding: 1rem 1rem 1rem 1.2rem;
+    }
+    .steps ol { margin: 0; }
+    a { color: var(--accent); }
+    footer {
+      margin-top: 1.5rem;
+      font-family: "Avenir Next", "Segoe UI", sans-serif;
+      font-size: 0.85rem;
+      color: var(--muted);
+    }
+    .howto {
+      margin-top: 1.25rem;
+      padding: 0.9rem 1rem;
+      border: 1px dashed var(--line);
+      border-radius: 0.75rem;
+      font-family: "Avenir Next", "Segoe UI", sans-serif;
+      font-size: 0.9rem;
+    }
+    @media print {
+      body { background: white; }
+      .howto { display: none; }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <p class="label">AI Skill Workstation · log 2026-08-10</p>
+    <h1>Cursor purpose</h1>
+    <p class="lead">Cursor er dit arbejdspult — ikke bare en chat. Brug det til filer, projekter, prompts og leverancer.</p>
+
+    <section>
+      <h2>Brug Cursor til</h2>
+      <ol>
+        <li>Skrive og rette filer i dit projekt</li>
+        <li>Bygge små websider og kunde-leverancer</li>
+        <li>Holde arbejde i mapper (ikke løse noter)</li>
+        <li>Genbruge prompts og Cursor-regler</li>
+        <li>Lade AI arbejde <em>i</em> din kodebase</li>
+      </ol>
+    </section>
+
+    <section>
+      <h2>Ikke til</h2>
+      <ul>
+        <li>Erstatning for din egen kvalitetskontrol</li>
+        <li>Endeløs brainstorm uden output</li>
+        <li>Nyt tool hver dag</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Repo-kort</h2>
+      <table>
+        <thead>
+          <tr><th>Mappe</th><th>Formål</th></tr>
+        </thead>
+        <tbody>
+          <tr><td><code>manual/</code></td><td>Lær — dansk manual + 90-dages plan</td></tr>
+          <tr><td><code>workstation/</code></td><td>Planlæg og spor</td></tr>
+          <tr><td><code>prompts/</code></td><td>Genbrugelige instruktioner</td></tr>
+          <tr><td><code>projects/</code></td><td>Byg bevis / portefølje</td></tr>
+          <tr><td><code>sales/</code></td><td>Tilbud + outreach</td></tr>
+          <tr><td><code>.cursor/rules/</code></td><td>Hold AI konkret, dansk, anti-fluff</td></tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section>
+      <h2>Daglig rutine</h2>
+      <div class="steps">
+        <ol>
+          <li>Åbn daglig skabelon / log</li>
+          <li>Åbn én projektmappe</li>
+          <li>Åbn én prompt</li>
+          <li>Byg én synlig leverance</li>
+          <li>Gem / commit</li>
+          <li>Opdater scoreboard</li>
+        </ol>
+      </div>
+    </section>
+
+    <section>
+      <h2>Logging</h2>
+      <ul>
+        <li>Dagslog: <code>workstation/logs/YYYY-MM-DD.md</code></li>
+        <li>Fejl: <code>workstation/fejl-log.md</code></li>
+        <li>Score: <code>workstation/scoreboard.md</code></li>
+        <li>Denne note: <code>workstation/logs/Cursor-purpose.md</code></li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Start i morgen</h2>
+      <ol>
+        <li><code>manual/01-kom-i-gang.md</code></li>
+        <li><code>manual/03-vaerktojsbord.md</code></li>
+        <li><code>projects/projekt-01-lokal-landingsside/</code></li>
+        <li>Tilpas <code>sales/service-tilbud.md</code></li>
+      </ol>
+    </section>
+
+    <footer>
+      <p>Repo: <a href="https://github.com/ViktorDagoe/Min-F-rste-Hjemmeside">ViktorDagoe/Min-F-rste-Hjemmeside</a></p>
+      <p>Workstation: <a href="https://github.com/ViktorDagoe/Min-F-rste-Hjemmeside/pull/1">PR #1</a></p>
+    </footer>
+
+    <p class="howto"><strong>Gem på iPhone:</strong> Del → Gem i Filer → vælg On My iPhone / iCloud Drive. Filnavn: <em>Cursor purpose</em>.</p>
+  </main>
+</body>
+</html>
