@@ -10,6 +10,7 @@ Brug master-skabelonen først. Derefter de specialiserede filer.
 | `03-web-struktur.md` | Sideopbygning / HTML |
 | `04-salg-tilbud.md` | Outreach, tilbud, calls |
 | `05-kvalitetstjek.md` | Før levering |
+| `07-mentor-arkitekten.md` | Dyb læring i podcast-lektioner, én pr. svar (ikke kundearbejde) |
 
 ## Regel
 
