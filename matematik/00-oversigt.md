@@ -18,3 +18,5 @@ Start i aften. Fortsæt i morgen klokken fem. Rækkefølgen er stilladset.
 | Regn / søndag / anden aften | `taenk-paa-papir.md` | Skriv for at tænke. Mærker. Neutral. Ikke efter natte-lektionen |
 
 Kilder til fysiske udsagn: `kilder.md`.
+
+Kopiér til TTS: `tts/index.html` — tryk lektion, tryk den store knap.
