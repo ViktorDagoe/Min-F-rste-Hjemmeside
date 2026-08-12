@@ -426,7 +426,7 @@ Papiret er ikke helligt. Blyanten er ikke hellig. Det, der er helligt, er at næ
 
 Hvis du vågner om natten, er det tilladt at sige de fem tegn én gang og så vende siden til. Det er ikke en mantra-religion. Det er at huske, hvor kortet hænger. Gentagelse uden afgud. Tre gange er nok. Tredive gange er uro. Uro er ikke læring. Uro er egoet, der vil sikre sig. Slip.
 
-I morgen, når den første hydraulik lyder, vil kortet prøve at falde af. Det er normalt. Lyden i øret sætter det op igen. Hånden på papiret, én gang i løbet af formiddagen, slår sømmet i. Uden hånden falder det. Med hånden sidder det. Derfor bad du om at lære at tænke på papir. Derfor får du det, ikke som et ekstra fag, men som den måde, de fem tegn bliver kød.
+I morgen, når den første hydraulik lyder, vil kortet prøve at falde af. Det er normalt. Lyden i øret sætter det op igen. Hånden på papiret, én gang i løbet af formiddagen, slår sømmet i. Uden hånden falder det. Med hånden sidder det. Derfor bad du om at lære at tænke på papir. Derfor får du det i de ti timer som mærker, og som en hel time til hånden — `taenk-paa-papir.md` — ikke i nat. I nat sover bogen. I nat sover du.
 
 · · ·
 

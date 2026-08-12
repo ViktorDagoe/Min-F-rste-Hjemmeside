@@ -15,5 +15,6 @@ Start i aften. Fortsæt i morgen klokken fem. Rækkefølgen er stilladset.
 | Time 8 | `01-ti-timer/08-udfald.md` | Sandsynlighed, forventet værdi |
 | Time 9 | `01-ti-timer/09-systemer.md` | Feedback, renter, tilskyndelse, psykologi |
 | Time 10 | `01-ti-timer/10-syntese.md` | Tal matematik, brint igen, værktøjskassen |
+| Regn / søndag / anden aften | `taenk-paa-papir.md` | Skriv for at tænke. Mærker. Neutral. Ikke efter natte-lektionen |
 
 Kilder til fysiske udsagn: `kilder.md`.

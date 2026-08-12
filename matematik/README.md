@@ -10,6 +10,8 @@ Europa-atlaset er på pause. Ikke glemt.
 
 **I morgen fra 05:00:** `01-ti-timer/01` til `10` i rækkefølge. Ét øre. Øjnene på jorden. Hænderne på maskinen.
 
+**Papir-håndværket:** `taenk-paa-papir.md` — ikke i aften efter natten. Hør den i regn, på en søndag, eller en aften der ikke er søvn-lektionen. Ved bordet må øjnene se siden. I geden: samme kontrakt som timerne.
+
 ## Tænk på papir
 
 Notesbogen er arbejdshukommelse. Du tænker ikke færdigt og skriver bagefter. Du skriver for at tænke.
