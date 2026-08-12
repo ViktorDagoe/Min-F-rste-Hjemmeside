@@ -712,6 +712,52 @@ Det var time ti. Det var dagen.
 
 · · ·
 
+Et sidste håndværk, før åndedraget: hvordan du *taler* de fem, så de ikke bliver en remse, du glemmer, når lastbilen dytter.
+
+Du siger ikke “TÆL” til et sjak, medmindre I har aftalt sproget. Du siger: der er tre. Der er nul. Jeg har ikke talt. Det *er* at tale tegnet.
+
+Du siger ikke “MÅL” som et skilt. Du siger: to meter, plus minus en hånd. Godt nok til røret, ikke til kanten, de vil have skarp. Enhed. Fejl. Tærskel.
+
+Du siger ikke “FORHOLD” som et fag. Du siger: tyve liter i timen. To på én. Kroner per kubik, ventetid udenfor. Per.
+
+Du siger ikke “ÆNDRING” som en teori. Du siger: langsommere end i morges. Bunken vokser. Jeg bliver sløvere. Pil.
+
+Du siger ikke “UDFALD” som en bog. Du siger: hvis det regner, stopper vi. Jeg siger nej til det sidste. Jeg siger ja, og jeg ved, hvad det kan koste.
+
+Du siger ikke “system” som et kontor. Du siger: det, vi griner af, får vi mere af. Det, der ikke koster, kommer igen. Småt plus uge.
+
+Det er syntese i munden. Remsen er stillads. Huset er sætningen, der kan graves efter.
+
+Hvis du i morgen kun kan én ting: stil spørgsmålet, før tågen får lov at underskrive. Hvad er der ét af. Hvor langt. Per hvad. Hvilken vej. Hvad koster valget. Hvad belønner jeg. Papir, hvis knuden vejer. Neutral. Tredive sekunder. Jorden først.
+
+· · ·
+
+Siden med fem mærker, sagt som en pakke, du kan huske uden at åbne bogen i hovedet.
+
+Dato. Pladsens navn, ét ord.
+
+Fem mærker fra *i dag*. Ikke fra en ideel dag. Fra den, der kørte.
+
+TÆL: et antal, eller et ærligt “ikke talt”.
+
+MÅL: et tal med enhed, eller et øjemål, du tilstår som øjemål.
+
+FORHOLD: et per. Nævneren synlig.
+
+ÆNDRING: en pil. To tider, hvis du har dem.
+
+UDFALD: et valg, cirklet. En hvis, hvis hvis’en bar.
+
+Hjørne, hvis time ni bed: løkke, plus eller minus, eller “hvis jeg belønner”.
+
+Nederst: syn → valg → sti. Én linje, der er sand, eller stregen tom, hvis siden kun er arkiv. Tom streg er ærlig. Fyldt streg, der lyver om et valg, du ikke tog, er teater.
+
+Tredive til tres sekunder. Grimt. Dato. Bogen væk. Hænderne tilbage. Det er dagens eksamen. Karakteren er, om jorden kan kende sig selv på arket.
+
+Hvis du glemmer siden i dag: i morgen. Ikke skam. Skam avler tomme bøger. En sen side slår en pæn intention. Intention er billig. Mærker er jord.
+
+· · ·
+
 Viktor. Ét åndedrag mere, så arbejdsdagen kan lukke, uden at kufferten kommer tilbage i nakken.
 
 Sig dem stille. Øjnene på jorden, hvis du stadig kører. På vejen, hvis du kører hjem. Ved bordet, hvis maskinen allerede sover. Samme mund. Samme fem.

@@ -4,734 +4,706 @@
 
 ---
 
-Viktor. Time otte. UDFALD. Hvad kan ske. Hvor sandsynligt. Hvad koster det. Hvad vælger jeg. Øjnene på jorden.
+Viktor. Time otte. Ét øre. Det andet hører maskinen. Øjnene på jorden. Hænderne på joysticket. Notesbogen ligger, hvor den skal ligge: lukket, inden for rækkevidde, ikke i skødet, ikke i luften mellem dig og skovlen.
 
-Elektronet i nat: sandsynlighedssky. Ikke en bold på en skinne. I dag: dit ja er ikke en skinne. Dit ja er et valg under usikkerhed. Voksen.
+Jeg er Grok. Jeg er din AI. Jeg er ikke Kristus. Jeg taler ikke for Gud. Jeg peger. Det, der er sandt i denne time, tilhører skabningen og dens Herre. Det, der er skævt, er mit. Test det med jorden. Jorden lyver ikke.
+
+I dag er ét tegn i lyset. UDFALD. Det femte. Natten hængte det over kabinen. I dag klæder vi det på, indtil det bor i vejret, i slangen, i et ja, du endnu ikke har givet.
+
+De andre fire sidder i kabinen alligevel. Foran: TÆL. Til højre: MÅL. Til venstre: FORHOLD. Bagved: ÆNDRING. Under: jorden. I midten: du. Forvalter. Ikke gud. I dag vender vi ansigtet op — ikke for at spille Himmel, for at se skyen. Hvad kan ske. Hvor sandsynligt. Hvad koster det. Hvad vælger jeg.
+
+Kontrakten er den samme. Lyden må køre, mens du arbejder. Papiret må ikke. Når et mærke *skal* ud af hovedet, sætter du i neutral. Stabil. Stille nok. Så bogen. Tredive til tres sekunder. Så bogen væk. Så hænderne tilbage. Hvis jorden kalder, vinder jorden. Den døde kan ikke tænke på papir.
+
+Amen til det. Så kører vi.
 
 · · ·
 
-Tre spørgsmål, altid.
+Hør, hvor du kommer fra, så du ved, hvor du står.
 
-Hvad kan ske? Flere ting, ikke én.
+Time ét var TÆL. Ét er ét. Nul er ærligt. Minus er retning.
 
-Hvor sandsynligt? Du har sjældent et præcist tal. Du har høj, middel, lav, og ærligheden “jeg ved det ikke”.
+Time to var handlingerne. Plus, minus, gange, dividere. Flyt mængder. Hold regnskab.
 
-Hvad koster det, hvis det sker? Tid, penge, krop, tillid, et liv. Liv vejer tungest. Zone. Time fem.
+Time tre var FORHOLD. Hvad per hvad. Liter per time. To til én som vand.
 
-Så: hvad vælger jeg? Valget er dit. Udfaldet er ikke dit som en guds. Forvalterskab.
+Time fire var MÅL. Enhed. Fejl. Godt nok.
+
+Time fem var rummet. Bue. Zone. Vægtstang. Det, du ikke kører i.
+
+Time seks var røret. Noget går ind. Noget kommer ud.
+
+Time syv var ÆNDRING. Film, ikke foto. Hvor hurtigt. Hvad er samlet. Time ét lyver om time ti. Pil og løbende total.
+
+I dag tager vi filmen og tilstår, at den kan skifte, uden at du har bedt om det. Regn. Brud. Et tilbud. En mand, der ikke kommer. En bund, der sluger. Verden er lovmæssig, og den er ikke et urværk, du kan pege på med en finger og sige *præcis der*. Begge dele er sande. Det er derfor, matematikken er voksen, og skolebilledet var barn.
+
+Skakmat. Du har vejet udfald i årevis. Du kaldte det mave. I dag får maven et sprog, der kan rettes, før jaet flyver ud.
+
+· · ·
+
+Elektronet.
+
+I nat: ikke en kugle på en skinne. Ikke en planet i et solsystem, du kan tegne med en streg. En tåge med regler. Tættere på kernen oftere. Længere ude sjældnere. Du ved, hvor det *sandsynligt* er. Du ved ikke, hvor det *er*, som en bold er i en skål.
+
+Hold det. Hele timen.
+
+Sandsynligt er ikke det samme som præcist. Præcist og sandsynligt er begge voksne. Løgnen er at forveksle dem. Løgnen er at tro, at det voksne kun er det, du kan pege på. Løgnen er også at tro, at fordi du ikke kan pege, er der ingen regler. Tåge med regler. Ikke tåge som sløseri. Ikke skinne som magi.
+
+I geden: en opgave “plejer at tage en dag”. Plejer er en tæthed. Ikke en skinne. Ofte her. Sjældnere der. Du må arbejde med oftest. Du må ikke bygge et liv på det sjældne, medmindre det sjældne er en ulykke, du *skal* værne imod. Ulykke: lav sandsynlighed, umådelig omkostning. Det er zonen fra time fem. Det er derfor, nul kroppe i buen er loven, også når det “nok går”. Nok går er forventet værdi, der har glemt omkostningen liv.
+
+Dit ja er ikke en skinne. Dit ja er et valg under usikkerhed. Voksen.
+
+Du rammer ikke verden som en gud, der sætter elektronet med en pincet. Du vælger, hvor du graver, med hvilken vægt, med hvilket nej parat. Skyen bliver. Valget er dit. Udfaldet er ikke dit som en guds. Forvalterskab.
+
+Hvis du kun husker én sætning i denne time, så den: **sandsynligt, ikke præcist. Du vælger. Du leger ikke Gud.**
+
+· · ·
+
+Tre spørgsmål, altid. Så et fjerde.
+
+Første: hvad kan ske.
+
+Ikke én ting. Flere. Regn. Tørt. Bund, der holder. Bund, der ikke holder. Lastbil, der kommer. Lastbil, der udebliver. Slangen, der holder. Slangen, der springer. Mand, der kommer. Mand, der ikke kommer. Et ja, der bliver et nej fra den anden side. Et nej, du selv skulle have sagt.
+
+Barnet vil have én historie. Voksen vil have listen, også når listen er grov. To, tre, fire kan-ske. Ikke tyve. Godt nok. Time fire. De, der vejer.
+
+Andet: hvor sandsynligt.
+
+Du har sjældent et præcist tal. Du har høj, middel, lav, og ærligheden “jeg ved det ikke”. Jeg ved det ikke er et voksenord. Egoet hader det. Matematikken hader det ikke. Et opdigtet procenttal er teater. En ærlig “ofte” eller “sjældent” eller “jeg har set det tre gange på et år” er tælling. Time ét. Tælling under usikkerhed.
+
+Tredje: hvad koster det, hvis det sker.
+
+Tid. Penge. Krop. Tillid. Et liv. Liv vejer tungest. Zone. Time fem. Du må ikke lade kroner slå liv i hovedet, fordi kroner er nemme at sige. Du må ikke lade “det går nok” slå zonen, fordi zonen er sjælden. Sjælden og dyr er stadig dyr. Ofte og billig er en anden bunke.
+
+Fjerde: hvad vælger jeg.
+
+Valget er dit. Ikke skyens. Ikke min. Ikke formandens alene, hvis det er din krop i kabinen. Du kan rådføre. Du kan adlyde en lov. Du kan bøje dig for den, der betaler. Du kan ikke aflevere valget til “det går nok” og kalde det ydmyghed. Ydmyghed ser. Stolthed nægter at se og kalder nægtelsen for tro.
+
+Tre spørgsmål, så et valg. Uden de tre er valget et foto af det søde. Med de tre er valget en film, der har vejet.
 
 · · ·
 
 Forventet værdi.
 
-Et grimt ord. En ren handling: sandsynlighed gange konsekvens, set i øjnene, før du siger ja. Du behøver ikke et regneark. Du behøver at nægte at se kun det søde output uden det tunge hvis.
+Et grimt ord. En ren handling.
 
-Et job, der betaler godt, med en bund, der kan sluge maskinen. Høj krone, høj omkostning hvis. Et job, der betaler nøgternt, med kendt jord. Lavere krone, lavere hvis. Matematikken tvinger ikke valget. Den tvinger *synet*. Syn, valg, sti.
+Sandsynlighed gange pris. Set i øjnene. Før du siger ja.
 
-· · ·
+Du behøver ikke et ark med kolonner, der ser ud som en bank. Du behøver at nægte at se kun det søde, der kommer ud, uden det tunge hvis.
 
-Vejr. Nedbrud. Mand, der udebliver. Lastbil, der udebliver. Ledning, du ikke havde talt.
+Hør det i kabinen.
 
-Hver er et udfald. Du styrer ikke skyen. Du styrer, om dit ja krævede sol uden et nej parat. Du styrer, om der er et mærke på slangen. Du styrer, om zonen er talt.
+Et arbejde, der betaler godt, med en bund, der kan sluge maskinen. Høj krone. Høj omkostning hvis. Hvis’et er sjældent, måske. Sjældent gange stort er ikke nul. Det er et tal, du skal se, også når du ikke kan skrive det pænt.
+
+Et arbejde, der betaler nøgternt, med kendt jord. Lavere krone. Lavere hvis. Matematikken tvinger ikke valget. Den tvinger *synet*. Syn, valg, sti. Du kan vælge det stejlere. Du må ikke vælge det blinde.
+
+Gange, her, er time to. Gentagelse. Vægt. Ikke magi. Hvis noget sker ofte og koster lidt, vejer det. Hvis noget sker sjældent og koster alt, vejer det også. Hvis noget sker sjældent og koster lidt, kan du bære det uden at gøre det til en religion. Hvis noget sker ofte og koster alt, kører du ikke. Det er zonen. Det er loven i kroppen.
+
+Du ser det *før* ja. Efter ja er det for sent at være klog i munden. Efter ja kan du stadig stoppe, hvis filmen skifter. Time syv. Hældning. Men prisen for at have sagt ja uden at have set, er ofte, at stoppet kommer for sent, og at skammen spiser synet.
 
 Skakmat. “Det går nok” er ikke udfald tænkt. Det er udfald skubbet ind i mørket. Mørket er dyrt.
 
-· · ·
-
-Tænk på papir.
-
-Neutral. To kolonner. Kan ske. Koster. En cirkel om valget. Eller tre linjer: høj/middel/lav. Tredive til tres sekunder. Bogen væk.
-
-Skriv for at tænke. Hovedet vil kun se den søde kolonne. Papiret tvinger den anden.
-
-· · ·
-
-Løgne.
-
-“Det sker ikke for mig.” Skyen er ikke personlig i den retning.
-
-“Jeg kan mærke, det går.” Mave er signal, ikke dommer.
-
-“Vi tager den som den kommer.” Nogle gange visdom. Ofte nægtet syn.
-
-“Jeg styrer det.” Du styrer valget. Ikke skyen.
-
-· · ·
-
-At tale udfald.
-
-“Hvis det regner, stopper jeg. Det er med i ja’et.”
-
-“Slangen er tvivl. Omkostning er en dag. Jeg markerer.”
-
-“Jeg siger nej. Ikke fordi jeg er bange. Fordi hvis’et er for tungt til prisen.”
-
-· · ·
-
-Recap.
-
-Kan ske. Sandsynligt. Koster. Vælger.
-
-Forventet værdi: se begge kolonner.
-
-Du er ikke Gud. Du er forvalter.
-
-Papir: to kolonner, cirkel.
-
-· · ·
-
-Anden runde.
-
-Frygt og klogskab kan ligne hinanden i munden. Papiret skiller. Frygt ser kun koster. Dumdristighed ser kun kan-søde. Voksen ser begge og vælger. Bøn hører til her: visdom. Ikke et tal, du tvinger Himlen til. Et hjerte, der tør se.
-
-Brint: du ved ikke, hvor elektronet “er”. Du ved, hvor det oftest er. Arbejd med oftest. Byg ikke et liv på det sjældne, medmindre det sjældne er en ulykke, du *skal* værne imod. Ulykke: lav sandsynlighed, umådelig omkostning. Det er zonen. Det er derfor, nul kroppe i buen er loven, også når det “nok går”. Nok går er forventet værdi, der har glemt omkostningen liv.
-
-· · ·
-
-Checkpoint.
-
-Neutral. Kan ske. Koster. Cirkel. Bogen væk.
-
-· · ·
-
-Kristus.
-
-I morgen har nok sin plage. Det er ikke licens til at være blind i dag. Det er forbud mod at stjæle morgendagens sky ind i dagens skovl. Se i dag. Vælg i dag. Bær i dag. Amen.
-
-· · ·
-
-Time ni: SYSTEMER. Feedback, renter, tilskyndelse, psykologi. Folk. Vaner. Verden i simpel matematik.
-
-Kør.
-
-· · ·
-
-Viktor. Vi bliver. Time otte er ikke færdig i øret. Første runde var kortet. Kortet skal sidde. Nu kører vi det, til det er kød. Øjnene på jorden. Hænderne på maskinen. Ét øre. Den kontrakt har holdt siden fem i morges, og den holder nu. Hvis jorden kalder, vinder jorden. Lyden kan vente. Papiret kan vente. Den døde kan ikke tænke på papir.
-
-Jeg er Grok. Jeg er din AI. Jeg er ikke Kristus. Jeg taler ikke for Gud. Jeg peger. Det, der er sandt i denne time, tilhører skabningen og dens Herre. Det, der er skævt, er mit. Test det med jorden. Jorden lyver ikke.
-
-I nat sagde vi: elektronet er ikke en bold på en skinne. Det er en sky. Tættere oftere. Længere ude sjældnere. I dag er dit ja den samme slags ærlighed. Du kender oftest. Du kender ikke adressen. Du vælger alligevel. Det er voksen. Det er forvalter. Det er ikke at spille Gud.
-
-De fem tegn sidder i kabinen. Foran: TÆL. Til højre: MÅL. Til venstre: FORHOLD. Bagved: ÆNDRING. Over: UDFALD. Under: jorden. I midten: du. I dag vender vi ansigtet opad og bliver der, indtil “kan ske, koster, vælger” sidder i hånden. De andre fire må gerne lytte. De må ikke stjæle timen. Time ni tager løkker. Time ti samler. I dag: skyen.
-
-· · ·
-
-Hør, hvad udfald *ikke* er, før vi elsker ordet.
-
-Udfald er ikke skæbne, sagt som røg. Røg kan ikke graves. Røg kan ikke vælges imod.
-
-Udfald er ikke held som en person, der elsker dig eller hader dig. Skyen er ikke personlig i den retning. Den kender ikke dit navn. Den kender regler. Inden for reglerne er der rum.
-
-Udfald er ikke et tal, du tvinger ud af Himlen, så du kan køre uden at se. Bøn om visdom er voksen. Bøn om at verden skal holde op med at være verden, mens du kører, er barn.
-
-Udfald er ikke “alt kan ske”, sagt for at slippe. Alt kan ikke ske. En skovl bliver ikke til en fisk. En slange, der sveder, kan blive til en dag, der dør. Det er et muligt. En mand, der udebliver, kan blive til et hul, der venter. Det er et muligt. En solrig formiddag kan blive til mudder. Det er et muligt. Tre mulige. Ikke uendelig tåge. Tåge er nægtet tælling af mulige.
-
-Skakmat. Du har levet i udfald hele dit liv. Du kaldte det “vi ser”. “Det går nok.” “Sådan er det bare.” I dag giver vi det et sprog, så “vi ser” kan blive et valg, og “nok” kan blive vejet, og “bare” kan blive til to kolonner.
-
-· · ·
-
-Skyen, langsomt.
-
-Forestil dig elektronet igen. Ikke som skoleplakat. Som ærlighed. Du kan ikke pege og sige: *præcis der*. Du kan sige: oftest her. Sjældnere der. Næsten aldrig derude. Tre zoner. Tre slags sandhed. Ingen af dem er løgn. Løgnen er at tage oftest og kalde det altid. Løgnen er at tage næsten aldrig og kalde det aldrig, når “næsten aldrig” bærer et liv.
-
-I geden er oftest: bunden holder, når den har holdt tre dage i træk, samme vejr, samme last. Ofte: lastbilen kommer, når den har holdt sit ord. Ofte: slangen holder, når den er ny, og når du har kigget.
-
-Sjældnere: bunden giver, når det har regnet i nat, og du ikke har talt vandet. Sjældnere: lastbilen ringer med en historie. Sjældnere: slangen, du tvivlede på mandag, siger fra onsdag.
-
-Næsten aldrig, og alligevel loven: en krop i buen. En ledning, du ikke havde talt. En arm, der går, hvor armen ikke må. Lav sandsynlighed. Umådelig omkostning. Det er derfor zonen ikke forhandles med “nok”. Nok er et ord, der har glemt den anden kolonne.
-
-Hold billedet. Sky. Tæthed. Ikke skinne. Dit ja er en sti ind i skyen. Stien ændrer, hvilke udfald der overhovedet kan lande. Den gør ikke skyen til et ur, du har i lommen.
-
-Du styrer ikke, om det regner klokken to. Du styrer, om ja’et krævede tørt klokken to uden et nej parat. Du styrer ikke, om slangen holder. Du styrer, om tvivlen fik et mærke, og om mærket fik en handling. Du styrer ikke, om manden kommer. Du styrer, om dit hul krævede ham som skinne.
-
-Det er hele grebet. Valg under usikkerhed. Ikke teater. Ikke magi. Forvalterskab.
-
-· · ·
-
-Tre spørgsmål. Igen. Langsommere. Øjnene stadig på jorden. Hånden må ikke tegne endnu.
-
-Første. Hvad kan ske.
-
-Ikke én ting. Flere. Barnet vil have én historie: det går. Eller: det går galt. To film, begge for tynde. Voksen tæller filmene, der faktisk kan køre.
-
-Et hul. Hvad kan ske. Hullet bliver færdigt. Hullet bliver forsinket. Lastbilen kommer. Lastbilen kommer ikke. Bunden holder. Bunden giver. Det regner. Det regner ikke. Slangen holder. Slangen siger fra. Du er frisk. Du er træt. En nabo kommer med en ledning, du ikke kendte. En nabo kommer ikke. Allerede der har du flere veje, end hovedet vil holde i luften. Derfor papir. Derfor ikke nu, hvis skovlen er i jorden. Derfor senere, i neutral, to kolonner, ikke en roman.
-
-Du behøver ikke alle veje i verden. Du behøver de veje, *dette* ja åbner. Et ja til et hul i kendt jord åbner én slags sky. Et ja til et hul i ukendt bund, med en deadline, der ikke kan flyttes, åbner en anden. Samme skovl. Anden sky. Time seks: betingelse. I dag: betingelsen ændrer, hvad der kan lande.
-
-Sig det grimt. Hvad kan ske, er ikke pessimisme. Det er tælling af døre. Time ét: hvad er der ét af. I dag: hvad er der ét muligt af. Nul mulige, du har tænkt, er ikke fred. Det er bind for øjnene.
-
-Andet. Hvor sandsynligt.
-
-Du har sjældent et præcist tal. Du skal ikke lade som om. “Syvogtredive procent” i kabinen er ofte teater. Teater er dyrt, fordi det lyder voksen og er barn.
-
-Du har fire ærligheder. Høj. Middel. Lav. Jeg ved det ikke.
-
-Høj: det har skeet ofte, samme slags jord, samme slags vejr, samme slags maskine. Du har talt. Time ét igen.
-
-Middel: det kan gå begge veje. Du har set begge. Du nægter at gøre middel til høj, fordi du har brug for høj.
-
-Lav: det sker sjældent. Du har set det, eller du har hørt det sandt, eller du kender loven, der siger, at det *kan*. Lav er ikke nul. Nul er et kig. Time ét.
-
-Jeg ved det ikke: den ærlighed, egoet hader. Skriv den. Den er mere værd end et falsk høj. Et falsk høj er et ja, der stjæler. Et ærligt jeg-ved-det-ikke er et ja med slæk, eller et nej, eller et opkald. Tre voksne. Ét teater.
-
-Sandsynlighed er ikke en følelse, der smager godt. Maven må tale. Maven skal oversættes. Maven siger: det her lugter. Oversættelsen spørger: lugter af hvad. Af blød bund. Af en mand, der har løjet tre gange. Af en slange, du ikke har kigget på. Af træthed i den tiende time. Time syv. Hvis maven ikke kan pege, er maven stadig et signal. Signal er ikke dommer. Du tager det med i kolonnen. Du lader det ikke underskrive alene.
-
-Tredje. Hvad koster det, hvis det sker.
-
-Tid. Penge. Krop. Tillid. Et liv.
-
-Fem slags vægt. Bland dem ikke, som om de er samme mønt. En time tabt er ikke et liv tabt. En krone tabt er ikke en tillid tabt. En tillid tabt kan koste flere kroner senere. Et liv tabt vejer tungest. Altid. Zone. Time fem. Nul kroppe i buen. Ikke fordi du er bange. Fordi omkostningen ikke har et tal, du vil betale.
-
-Tid: lastbilen udebliver, du venter, dagen skrider, den tiende time bliver den tolvte, kroppen betaler i morgen. Time syv: ophobning.
-
-Penge: slangen siger fra, en dag dør, en leje, en reparation, et hul, der ikke blev til kroner. Forhold: kroner per hvis. Time tre.
-
-Krop: ryggen, hånden, øjet, det, der ikke kommer tilbage, når det er væk. Du køber ikke tid. Du køber ikke en ryg.
-
-Tillid: du sagde ja uden hvis. Hvis’et kom. Du leverede nej i jorden. Den anden planlægger slæk næste gang. Time ni tager løkken. I dag: se omkostningen, før løkken får lov at starte.
-
-Liv: jeg siger det igen, fordi mænd glemmer det, når de er færdige i munden. Lav sandsynlighed gange umådelig omkostning er ikke “lille”. Forventet værdi, der glemmer livet, er et regneark, der har mistet nævneren. Du tilbeder ikke arket. Du ser.
-
-Så det fjerde, som ikke er et spørgsmål til verden, men til dig.
-
-Hvad vælger jeg.
-
-Valget er dit. Udfaldet er ikke dit som en guds. Du kan vælge ja med hvis. Du kan vælge nej. Du kan vælge at ringe. Du kan vælge at mærke slangen. Du kan vælge at vente på vejr. Du kan vælge at køre og bære. Du kan ikke vælge, at skyen skal blive en skinne, fordi du har brug for den.
-
-Forvalterskab. Kristus kalder det troskab i det små. Matematikken kalder det at vælge under usikkerhed. Samme ryg. Forskellige sprog.
-
-· · ·
-
-Forventet værdi. Vi tager ordet af, så det ikke skræmmer, og så det ikke smigrer.
-
-Sandsynlighed gange konsekvens. Set i øjnene. Før ja.
-
-Du behøver ikke at gange to tal, du ikke har. Du behøver at nægte at se kun det søde. Det søde er output, du gerne vil have. Det tunge er hvis’et, du gerne vil glemme. Begge kolonner. Ellers er du et barn med en krone.
-
-Et billede, uden dit datablad. Jeg opdigter ikke din takst. Jeg opdigter ikke din jords bæreevne. Jeg giver dig øjet.
-
-To job. Samme uge. Samme mand. Dig.
-
-Første: høj krone. Bund, du ikke kender. En deadline, der ikke kan flyttes. En mand, du ikke har kørt med. En slange, du ikke har kigget på, fordi maskinen ikke er din. Det søde: tallet i munden. Det tunge: hvis bunden sluger, hvis manden udebliver, hvis slangen siger fra, hvis deadline gør dig til en løgner. Høj krone. Høj hvis.
-
-Andet: nøgtern krone. Kendt jord. Kendt mand. Kendt maskine. Tid, der kan bære et nej. Det søde er mindre i munden. Det tunge er mindre i jorden.
-
-Matematikken tvinger ikke valget. Måske tager du det første, fordi du har talt hvis’erne og har et nej parat, og fordi zonen er talt, og fordi du kan bære. Måske tager du det andet, fordi hvis’et i det første er liv, eller tillid, eller en maskine, du ikke vil sluge. Valget er dit. Synet er pligten. Uden syn er valget et kast. Kast er ikke tro. Kast er hast.
-
-Et andet billede. Vejr.
-
-Du siger ja mandag til et hul onsdag. Ja’et smager af sol. Onsdag kan regne. Hvis ja’et var skinne — “det *skal* graves onsdag, tørt” — så har du stjålet onsdagens sky ind i mandagens mund. Hvis ja’et var valg — “onsdag, hvis bunden bærer, ellers torsdag, ellers jeg ringer” — så har du ladet skyen være sky og alligevel valgt.
-
-Omkostning, hvis det regner, og du ikke havde et hvis: du kører alligevel, bunden giver, omarbejde, tillid, måske krop. Omkostning, hvis det regner, og du havde et hvis: en samtale. En flytning. En dag, der ikke blev til det hul, men blev til et andet, eller til vedligehold, eller til ærlig tomhed. Nul er et tal. Time ét. Ærlig tomhed slår et hul, der lyver.
-
-Et tredje. Slangen.
-
-Tvivl mandag. “Den holder nok.” Nok uden mærke er glemsel. Omkostning, hvis den siger fra midt i et løft: en dag. Måske mere. Måske en arm, der faldt, hvor den ikke måtte. Sandsynlighed: du ved det ikke præcist. Du ved, at tvivl er et signal. Du ved, at et mærke koster tredive sekunder i neutral. Du ved, at et skift, mens det stadig er sved, koster mindre end et skift, mens det er pøl.
-
-Forventet værdi her er ikke et fint tal. Det er: lav indsats nu mod en omkostning, der kan være en dag eller et liv. Selv hvis sandsynligheden er lav, er produktet ikke småt, når omkostningen er stor. Det er hele zonens matematik. Nul kroppe i buen, også når buen “nok er tom”. Nok er ikke et kig.
-
-Skakmat. Forventet værdi er ikke kynisme. Kynisme ser kun penge og glemmer livet, eller ser kun frygt og glemmer arbejdet. Forventet værdi er kærlighed til den, der kommer efter, skrevet som to kolonner. Den, der kommer efter, kan være lastbilen. Kan være naboen. Kan være din ryg i aften. Kan være den mand, du har lovet. Kan være dig selv i den tiende time.
-
-· · ·
-
-Liv vejer tungest.
-
-Jeg bliver her, fordi time otte uden zone er en lektion, der har mistet nævneren.
-
-Time fem: bommen tegner en bue. I buen kan der være et rum, hvor et menneske kan stå. I det rum er rumfanget ligegyldigt, og vinklen er ligegyldig, og raten er ligegyldig, hvis der er en krop. Nul. Ikke cirka nul. Nul. Time ét. Ærlig tomhed i buen.
-
-Sandsynligheden for, at det går galt *i dag*, kan være lav. Du har kørt tusind buer. Tusind buer uden krop i er ikke et argument for den tusinde og første med en krop i. Det er plus-løkke i stolthed, time ni, og det er forventet værdi, der har sat livet til “det sker ikke for mig”. Skyen er ikke personlig i den retning.
-
-Lav gange umådelig er ikke lav. Sig det. Lav gange umådelig er ikke lav. Produktet er tungt, fordi den ene faktor ikke har loft. Du kan ikke gange et liv med et pænt tal og få et pænt tal. Du kan vælge at holde zonen. Det er valget. Udfaldet, hvis du ikke gør, er ikke dit at pynte.
-
-Jeg prædiker ikke rædsel. Rædsel ser kun koster og graver ikke. Dumdristighed ser kun kan-søde og graver, hvor den ikke må. Voksen ser begge. Voksen graver, hvor zonen er talt. Voksen stopper, hvor zonen ikke er. Papiret skiller, når munden ikke kan.
-
-Hvis du i dag kun får én cirkel på papir, så lad den være zonen. Kan ske: krop i bue. Sandsynligt: lav, hvis du holder loven, højere, hvis du “nok”. Koster: et liv. Vælger: nul kroppe. Cirkel. Bogen væk. Hænderne tilbage. Jorden.
+Jeg siger ikke, at du skal blive bange. Frygt ser kun koster. Dumdristighed ser kun det søde kan-ske. Voksen ser begge og vælger. Papiret skiller frygt fra klogskab, fordi frygt nægter den søde kolonne, og dumdristighed nægter den tunge. To kolonner. Begge. Så cirkel.
 
 · · ·
 
 Vejr.
 
-Du styrer det ikke. Du læser det. Du vælger under det.
+Du styrer ikke skyen. Bogstaveligt. Himlen over kabinen. Regn. Tørt. Frost. Blæst, der tager synet. Sol, der lyver om bunden, fordi den ser tør ud ovenpå.
 
-Regn er ikke en fjende med vilje. Regn er vand på jord. Vand ændrer bunden. Bund ændrer funktionen. Time seks: samme hånd, andet ud. Time syv: raten skifter. I dag: regn er et udfald i skyen, ikke en fornærmelse.
+Hvad kan ske. Det kan regne. Det kan holde. Det kan skifte midt i et læs.
 
-Hvad kan ske. Det bliver vådt. Det bliver ikke. Det bliver vådt senere. Det bliver vådt nu.
+Hvor sandsynligt. Du har et øje. Du har et varsel, hvis du har det. Du har årstid. Du har “plejer” for den her egn, den her uge. Plejer er tæthed. Ikke skinne. Du ved ikke præcist. Du ved oftest.
 
-Hvor sandsynligt. Himlen, du kan se. Lugten. Vinden. Et varsel, hvis du har et, der er ærligt, ikke et, der smigrer. Og: jeg ved det ikke. Ofte det sidste efter frokost, når skyerne er nye.
+Hvad koster det. Regn koster tempo. Time syv: hældningen flader, eller den bliver stejl og dum, hvis bunden slår om. Regn koster sikkerhed. Syn. Zone. Regn koster lastbiler, der ikke kommer. Regn koster et ja, der forudsatte tørt, og som nu er et hul i kalenderen og i tilliden.
 
-Hvad koster det. Blød bund. Omarbejde. En lastbil, der ikke kan ind. En skovl, der tager mudder i stedet for hul. En tiende time, der bliver sjusk. En ulykke, hvis du lader tempoet vinde over synet.
+Hvad vælger jeg. Du kan sige ja til en dag, der dør, hvis det regner, *hvis* du har et nej parat. Et nej parat er ikke fejhed. Det er den anden kolonne, skrevet ind i aftalen. “Hvis det regner, stopper jeg. Det er med i jaet.” Den sætning er matematik. Den er også respekt. Den anden kan handle på den. “Det går nok” kan han ikke handle på.
 
-Hvad vælger jeg. Stoppe. Flytte. Ring. Grave det, der stadig bærer. Holde zonen hårdere, fordi vådt er glat, og glat er krop.
+Du kan ikke bede regnen væk med et tal. Du kan ikke gøre tallet tre helligt og kalde det vejr. Ingen talmagi. Ingen “tredje dag går den”. Kristus er vejen. Himlen er Hans. Du forvalter mudderet.
 
-Ja’et, der krævede sol uden et nej parat, var et ja, der løj. Ikke med vilje, måske. Med syn. Synet var kun den søde kolonne: tørt, færdigt, kroner. Den tunge kolonne sad i himlen og ventede.
+Der er mænd, der hader vejr, som om vejret var en person, der ville dem. Vejret vil ikke. Vejret er vand og luft og varme. Kæden er konkret. Time tre: spor er ikke årsag som hekseri. Regn og langsomhed hænger sammen. Årsagen er bund, syn, sikkerhed. Ret det, du kan rette. Bær det, du ikke kan. Valget er, om dit ja krævede sol uden et nej parat.
 
-At tale det. “Hvis det regner, stopper jeg. Det er med i ja’et.” Sætningen er ikke kold. Den er troskab. Den anden kan bygge på den. Han kan hade den. Han kan stadig bygge på den. Et ja uden hvis, der bliver til nej i mudder, er koldere. Det er et nej, der kom for sent og kaldte sig uheld.
-
-Blæst. Frost. Tø. Samme grammatik. Ikke tre fag. Tre vejr. Hvert vejr ændrer betingelsen. Hvert vejr er et muligt i kolonnen, når ja’et rækker ind i en dag, du ikke har set endnu. I morgen har nok sin plage. Det kommer under Kristus. Her: stjæl ikke onsdagens blæst ind i mandagens skovl som om du allerede har vundet den.
+Fotoet i morges: tørt. Film: skyer, der bygger. Time syv. Hældning i himlen. Udfald: hvad koster det, hvis hældningen holder. Se det, før du lover tre læs til middag.
 
 · · ·
 
 Nedbrud.
 
-Maskinen er trofast på den kedelige måde, indtil den ikke er det. Den er ikke din fjende. Den er stof. Stof har udfald. Slanger. Pumper. Filtre. En lyd, du kender. En lyd, du ikke kender.
+Slangen. Filteret. En slange, der har svedet. En lyd, du kender, når den er rask, og når den er doven. Time syv: tone er film. I dag: filmen kan ende i et brud.
 
-Hvad kan ske. Den kører. Den kører dårligt. Den stopper. Den stopper midt i et løft. Fire film. Den fjerde er zonen igen, hvis armen er oppe, og hvis nogen er under.
+Hvad kan ske. Den holder. Den holder ikke. Den holder indtil torsdag og tager torsdagen med sig.
 
-Hvor sandsynligt. Du har et arkiv, hvis du har mærket. Dato. Set. Tvivl. Som i nat. Uden arkiv har du stemning. Stemning siger: den har altid kørt. Altid er et foto af i går. Time syv: du er film. Maskinen er film. Slid er ophobning. En utæthed, der er lille, er en rate. En uge er en ulykke, du kaldte pludselig.
+Hvor sandsynligt. Du har tælling, hvis du har talt. Time ét: hvor mange gange har den slange lækket. Nul er ærligt. Tre er et spor. “Den kører jo” er et foto. Filmen er de tre. Ophobning. Utæthed. Time syv. I dag vejer vi prisen, hvis den fjerde gang kommer i dag.
 
-Hvad koster det. En time. En dag. En leje. Et hul, der ikke blev. En tillid, hvis du havde lovet skinne. En krop, hvis løftet faldt forkert.
+Hvad koster det. En time. En dag. En slange. En mand, der venter. En tillid, der tynder, hvis du sagde ja som om stålet var evigt. En krop, hvis bruddet sker dumt, i bevægelse, med nogen i zonen.
 
-Hvad vælger jeg. Kig. Mærke. Skift, mens det er sved. Nej til et løft, du ikke vil bære på en slange, du ikke stoler på. Ja til at køre, når kigget er gjort, og zonen er talt, og hvis’et er sagt.
+Hvad vælger jeg. Du styrer ikke metaltrætheden som en gud. Du styrer, om der er et mærke på slangen. Du styrer, om du kører videre på “det går nok”. Du styrer, om zonen er talt, hvis den springer. Du styrer, om du har sagt et ja, der forudsatte, at intet brister.
 
-“Jeg kan mærke, den holder.” Mave er signal. Måleren. Lyden. Olien. Sveden. Time fire: sansen starter. Instrumentet slutter, når det bærer vægt. En slange, der bærer en arm, bærer vægt.
+Et mærke i neutral: kan ske — slange. Koster — en dag, eller værre, hvis nogen står forkert. Cirkel: jeg kører, og jeg har øjet på den, eller jeg stopper og får den skiftet, eller jeg siger det højt til den, der skal vide det. Cirklen er valget. Ikke skyen.
 
-Jeg opdigter ikke din maskines timer. Jeg opdigter ikke dit tryk. Din måler er din. Dit øre er dit. Dit mærke er dit. Udfald i stål er ikke et datablad, jeg finder på. Det er et kig, du tager, eller et kig, du skyder.
+Der er en løgn, der elsker maskiner. Løgnen siger: den har altid holdt. Altid er et foto af fortiden, mast fladt over fremtiden. Fortiden er tæthed. Ofte holdt. Ikke skinne. Elektronet var oftere tæt på. Det var ikke fastgjort med en nitte.
 
-· · ·
-
-Manden, der udebliver.
-
-Ikke sladder. Tælling. Time ét. Time ni tager løkken. I dag: udfaldet i *dit* ja.
-
-Hvad kan ske. Han kommer. Han kommer for sent. Han kommer ikke. Han kommer og leverer nej i jorden. Fire igen.
-
-Hvor sandsynligt. Engang er vejr. Tre gange er et mønster. Mønster er tælling. “Han er træls” er tåge. “Han er udeblevet tre gange” er et tal. Tal kan stå i kolonnen. Tåge kan ikke.
-
-Hvad koster det. Dit hul venter. Din rate falder. Time syv. Din tiende time betaler hans morgen. Din tillid tyndes. Dit ja til kunden bliver et nej, du ikke havde sagt.
-
-Hvad vælger jeg. Et ja, der kræver ham som skinne, er et ja, der har glemt skyen. Et ja med hvis: hvis han kommer, så det. Hvis ikke, så det andet. Et opkald. Et slæk, du har talt. Et nej til at love det, der kræver en mand, du ikke har.
-
-Du styrer ikke hans ben. Du styrer dit løfte. Løftet er valget. Hans ben er skyen. Forvalter. Ikke præst over ham. Ikke offer for ham.
-
-Kærlighed tæller her. Sand kærlighed planlægger ikke, som om et menneske er hydraulik. Time seks: kræv ikke af manden, hvad stålet giver. Stålet har færre hvis. Hjertet har flere. Elsk forskellen. Elsk den nok til at have et hvis, når ja’et rører hans komme.
+Du ved ikke, hvor bruddet “er”. Du ved, hvor det oftest er. Arbejd med oftest. Byg ikke et liv på det sjældne, medmindre det sjældne slår liv. Liv: lav sandsynlighed, umådelig omkostning. Så er “nok går” ikke voksen. Så er “nok går” et spil med en indsats, du ikke ejer.
 
 · · ·
 
-Lastbilen, der udebliver.
+Et tilbud.
 
-Samme grammatik. Andet navn i midten.
+Et job. Et ja, der vil ud af munden, fordi kronerne er søde, eller fordi du er bange for tom kalender, eller fordi nogen så på dig, som om nej var svaghed.
 
-Hvad kan ske. Den kommer. Den kommer i kø. Den kommer ikke. Den kommer, og kassen er forkert, og rumfanget, du havde talt, passer ikke. Time fem: rumfang. Time tre: per lastbil.
+Hvad kan ske. Du tager det. Du tager det ikke. Hvis du tager det: bund, der holder, eller bund, der sluger. Vejr. Brud. En uge, der æder hjemmet. En uge, der bærer. En tillid, der vokser, fordi du leverede. En tillid, der dør, fordi du sagde ja til en film, time ét løj om.
 
-Hvor sandsynligt. Dit arkiv. Ikke dit håb. Håb i arbejdstøj er “nok”. Nok er ikke et tal.
+Hvor sandsynligt. Du har egn. Du har jord, du kender, og jord, du ikke kender. Du har et navn, der ringer, og et navn, du ikke kender. Kendt er ikke sikkert. Ukendt er ikke dødsdom. Kendt er tæthed, du har talt. Ukendt er “jeg ved det ikke”, og det skal stå i kolonnen, ikke gemmes under håb.
 
-Hvad koster det. Bunken vokser. Pladsen bliver trang. Du graver ind i dit eget rod. Time ni: plus-løkke gemt i ventetid. I dag: omkostningen er tid, diesel, sjusk, et ja, der skrider.
+Hvad koster det. Ikke kun kroner. Kroner er én kolonne. Tid er en anden. Krop er en tredje. Time ti i time syv. Zone er en fjerde. Tillid er en femte. Hvis du kun ser kroner, er du et barn med en slikpose. Hvis du kun ser risiko, er du et barn under sengen. Voksen ser begge.
 
-Hvad vælger jeg. Ring. Stop med at fylde, når fyldet bliver til et problem. Hav et andet sted at sætte. Hav et nej til at love “det er væk i dag”, hvis væk kræver en kasse, du ikke har.
+Hvad vælger jeg. Matematikken tvinger ikke valget. Den tvinger synet. Du kan sige ja til det stejlere, *efter* du har set. Du kan sige nej, ikke fordi du er bange, fordi hvis’et er for tungt til prisen. Den sætning skal kunne siges uden skam. Skam elsker at kalde nej for fejhed, så du siger ja og betaler i mudder og i nat.
 
-Papir, når det er sikkert: to kolonner. Kan ske: lastbil udebliver. Koster: X timer, et hul, der bliver til to dage, en samtale. Cirkel: jeg ringer nu, eller jeg graver det, der ikke kræver kassen, eller jeg venter og nægter at kalde ventetid for flid.
+Forventet værdi, grimt og rent: sandsynlighed gange pris, set i øjnene, før du siger ja. Hvis kronerne er høje, og hvis’et er en maskine i et hul, og hvis’et ikke er sjældent nok til at være støj, så er det søde tal et foto. Filmen er: hvor ofte går den slags galt, og hvad koster galt. Gange. Se. Så mund.
 
-Flid uden syn er ofte ophobning af det forkerte. Time to: plus uden navn på hvad. I dag: plus i bunke, minus i plan.
-
-· · ·
-
-Ledningen, du ikke havde talt.
-
-Det er zonen i jorden. Ikke buen i luften. Samme vægt.
-
-Hvad kan ske. Der er ingen. Der er en, du kender. Der er en, du ikke kender. Den er dybere. Den er grundere. Den er død. Den er levende.
-
-Hvor sandsynligt. Du ved det ikke, hvis du ikke har spurgt, hvis du ikke har fået et mærke, hvis du ikke har kigget. Jeg ved det ikke er her den voksne start, ikke den voksne slutning. Slutningen er et kig, et opkald, et kort, et nej til at grave, som om tom jord er en skinne.
-
-Hvad koster det. Tid, hvis du stopper og tjekker. En dag, hvis du rammer og det var dødt og alligevel rod. Et liv, hvis du rammer og det ikke var dødt. Tillid, hvis du havde lovet et hul, der krævede, at jorden var tom, uden at tom var talt.
-
-Hvad vælger jeg. Tæl ledningen. Time ét. Nul ledninger, der er ærligt, kræver et kig. Nul, der er uærligt, er sløseri med hat på. Mål dybden, hvis du graver, hvor dybde betyder noget. Time fire. Zone. Time fem.
-
-“Der ligger ikke noget.” Sagde hvem. Talt hvordan. Et håb. Et kort. Et hul, nogen gravede i fjor. Tre forskellige sandsynligheder. Bland dem, og du kører i den forkerte film.
-
-Skakmat. Den dyreste kolonne er den, du ikke skrev, fordi den ville have stoppet ja’et. Hovedet elsker den søde. Papiret tvinger den anden. Det er derfor, tænk på papir ikke er pynt. Det er værn.
+Du leger ikke Gud. Du kan ikke tvinge bunden til at holde ved at ville det. Du kan ikke tvinge Herren til at velsigne et ja, du ikke har vejet, ved at sige et vers. Bøn hører til her: visdom. Ikke et tal, du tvinger Himlen til. Et hjerte, der tør se. Så et ja eller et nej, som forvalter, ikke som spåmand.
 
 · · ·
 
-“Det går nok.”
+Du vælger. Du leger ikke Gud.
 
-Vi tager sætningen af, som man tager en hat af, der har siddet for længe.
+Jeg siger det, til det er kedeligt. Kedelige sandheder bærer vægt.
 
-Nok er et voksenord i time fire: godt nok. Tæt nok. Tolerance. Aftalt slør. Nok dér er kærlighed til den, der kommer efter.
+Der er to grave, mænd falder i.
 
-Nok i time otte, sagt som “det går nok”, er ofte det modsatte. Det er slør, du nægter at sige. Det er et interval, du nægter at åbne. Det er en kolonne, du nægter at skrive.
+Den ene grav: jeg styrer det. Jeg er urværket. Jeg sætter elektronet. Jeg sætter regnen. Jeg sætter slangen. Jeg sætter den andens ja. Det er hovmod. Det er også udmattelse, fordi du bærer en himmel, du ikke kan bære. Du er ikke Gud. Tak for det. Det er nåde. En verden, der bøjede sig for dit humør, ville være et helvede af spejle.
 
-Det går nok: bunden. Det går nok: slangen. Det går nok: manden. Det går nok: lastbilen. Det går nok: buen. Fem nok. Én mund. Fem skyer, skubbet ind i mørket.
+Den anden grav: jeg styrer ingenting, så jeg behøver ikke at se. Det er dovenskab i fromme klæder. Eller frygt i fromme klæder. Forvalteren styrer valget. Valget ændrer, hvilke udfald der overhovedet kan lande. Det er ikke magi. Det er ansvar. Kristus kalder det troskab i det små. Matematikken kalder det at vælge under usikkerhed. Samme ryg. Forskellige sprog.
 
-Mørket er dyrt, fordi omkostningen ikke forsvinder, fordi du ikke så den. Den venter. Time syv: ophobning. Time ni: forsinkelse. I dag: uset hvis er stadig hvis.
+Du styrer, om zonen er talt.
 
-Nogle gange *er* “det går nok” visdom. Når du har talt. Når zonen er holdt. Når hvis’et er sagt. Når den søde og den tunge er set, og produktet er et ja, du kan bære. Så er nok et andet ord for: jeg har vejet, og jeg kører. Sig det så. “Jeg har vejet. Jeg kører.” Lad “nok” hvile. Nok er træt. Nok har båret for mange løgne.
+Du styrer, om slangen har et mærke.
+
+Du styrer, om jaet har et nej parat til regn.
+
+Du styrer, om time ét’s krop får lov at love time ti.
+
+Du styrer, om du skriver de to kolonner, før munden.
+
+Du styrer ikke skyen. Du styrer ikke elektronet. Du styrer ikke den andens hjerte. Du styrer ikke, om bunden er ærlig. Du svarer på det, du møder, med det, du har set.
+
+Skakmat. Ydmyghed er ikke blindhed. Ydmyghed er at se, og at lade det, du ikke ejer, være ejet af en Anden, og at bære det, du er sat til.
+
+· · ·
+
+Papiret.
+
+Nu hænderne. Ikke mens skovlen er i jorden. Når et mærke skal ud. Neutral. Stabil. Stille nok. Bogen. Tredive til tres sekunder. Så væk.
+
+I dag er mærket to kolonner.
+
+Kan ske.
+
+Koster.
+
+Og en cirkel om det, du vælger.
+
+Ikke et skema, der skal se ud som en bank. To bunker ord. Groft. Sandt.
+
+Venstre: kan ske. Regn. Brud. Bund. Mand udebliver. Tilbud. Det søde. Det tunge. Skriv de, der vejer. To, tre. Ikke en roman.
+
+Højre: koster. Time. Dag. Krone, hvis du har den. Krop. Zone. Tillid. Liv, hvis det er i rummet. Skriv prisen ved hver kan-ske, så godt du kan. “Jeg ved det ikke” er tilladt. En tom højre kolonne er ikke tilladt, hvis venstre har noget, der kan slå.
+
+Så: cirkel. Om ja. Om nej. Om “ja, hvis”. Om “stop og spørg”. Cirklen er valget. Uden cirkel er papiret et museum over frygt. Med cirkel er papiret en handling.
+
+Hør, hvordan du tænker på papir. Du tænker ikke færdigt og skriver bagefter. Du skriver, for at tænke. Hovedet vil kun se den søde kolonne. Papiret tvinger den anden. Hovedet kan holde to løgne, der ikke støder: “det går nok” og “det er farligt”, i samme mund. På papir støder de. Du *ser* dem. Syn ændrer valg.
+
+Grimt og sandt slår pænt og teater. To kolonner, skæve, med en cirkel, der er besluttet i tredive sekunder, er matematik. En side med pæne kasser, skrevet om aftenen for at føle dig som en, der tager risiko seriøst, er religion uden Gud.
+
+Neutral kun. Øjnene på jorden, mens du kører. Papir er værktøj i et stop. Det er ikke et nyt sted at bo.
+
+Hvad skriver du *ikke*. Ikke “jeg har en dårlig mave” alene. Maven må tale. Maven skal oversættes. Kan ske. Koster. Cirkel. Ikke et essay. Ikke et procenttal, du opdigter for at ligne en, der ved. Høj, middel, lav, eller streger, eller “ofte”, eller “sjældent”, eller “tre gange i år”. Tælling. Time ét. Under usikkerhed.
+
+Hvis der er plads: en lille pil fra time syv. Hældningen i vejret. Hældningen i slangen. Hældningen i kroppen, der skal bære jaet. Udfald uden ændring er et foto af risiko. Med pilen er det en film.
+
+Tre gange i denne time, hvis arbejdet tillader det. Neutral. To kolonner. Cirkel. Videre. Uden hånden er time otte radio. Med hånden er time otte et spor i kroppen.
+
+· · ·
+
+Stop til notesbogen. Kun nu, og kun hvis maskinen kan stå.
+
+Sæt i neutral. Stabil. Se omgivelserne. Mænd. Skovl. Zone. Himlen. Så bogen. Tredive til tres sekunder. Ikke dagbog. Mærker. Du skriver for at tænke. Du tænker ikke færdigt og skriver bagefter.
+
+To streger ned. To kolonner. Venstre: kan ske. Ét eller to, det der brænder nu. Højre: koster. Groft. En cirkel om det, du faktisk vælger. Ikke om det, du ønsker, du var. Om det, munden skal sige, eller hænderne skal gøre, når bogen lukkes.
+
+Luk bogen. Hænderne tilbage. Øjnene på jorden.
+
+Hvis du ikke kan stoppe, fordi jorden kræver dig, er det i orden. Kontrakten er jorden først. Så tag det ved næste pause. Ét er et spor. Nul er radio.
+
+· · ·
+
+Lad os gå langsomt gennem tre scener, som om de sker foran forruden.
+
+Første scene. Vejr.
+
+Himlen er ikke den, fotoet lovede. Skyer. Time syv: hældning. Du har lovet tre læs. Kan ske: det holder tørt. Kan ske: det kommer. Koster, hvis det kommer: tempo, bund, lastbil, et ja, der rådner. Cirkel: jeg kører nu, og jeg har et stop, når bunden siger nej. Eller: jeg ringer nu, før tre læs bliver en løgn. Syn. Valg. Sti. Du leger ikke Gud med skyen. Du leger heller ikke barn med løftet.
+
+Anden scene. Nedbrud.
+
+Tonen er doven. Eller slangen sveder. Kan ske: den holder i dag. Kan ske: den tager dagen. Koster: time, dag, zone, hvis den springer i bevægelse. Cirkel: jeg markerer, jeg sænker, jeg får den skiftet, eller jeg kører med øjet på den og med zonen tom. “Det går nok” er ikke en cirkel. Det er en tom højre kolonne.
+
+Tredje scene. Tilbud.
+
+Radioen. Et job. Søde kroner. Ukendt bund. Kan ske: det er en god uge. Kan ske: det er en uge, der æder maskine og nat. Koster, hvis det æder: mere end kronerne. Cirkel: ja, hvis jeg har set jorden, eller nej, eller “jeg ringer tilbage efter et stop”. Sig ikke ja, mens skovlen er i jorden, hvis jaet kræver de to kolonner, du ikke har skrevet. Neutral. Kolonner. Cirkel. Så mund.
+
+Tre scener. Samme fire sætninger. Kan ske. Sandsynligt. Koster. Vælger.
+
+· · ·
+
+Zonen. Livet. Det sjældne, der ikke må behandles som støj.
+
+Time fem gav dig buen. Det, du ikke kører i. Nul kroppe i buen. I dag vejer vi, hvorfor “nok går” dør her.
+
+Forventet værdi, når prisen er et liv: selv en lille sandsynlighed gange en umådelig pris er ikke småt. Du behøver ikke et tal. Du behøver at nægte at lade “det sker ikke for mig” være den højre kolonne. Skyen er ikke personlig i den retning. Elektronet er ikke ude efter dig. Elektronet er heller ikke din ven, der holder sig væk, fordi du er en god mand. Regler. Tæthed. Zone er loven, fordi omkostningen ikke kan betales.
+
+Der er mænd, der kalder zonen for overforsigtighed. De har kørt tyve år uden det sjældne. Tyve år er tæthed. Ikke skinne. Det sjældne har ikke fået lov at tale, fordi det ikke er kommet. Det er ikke et argument. Det er et foto af held. Held er ikke forvaltning.
+
+Du værner, hvor prisen er liv, også når sandsynligheden er lav. Du værner ikke på samme måde, hvor prisen er ti minutter. Godt nok. Time fire. Ellers bliver du en mand, der er bange for alt og derfor ikke ser det, der slår.
+
+Skil. Liv. Krop. Zone. Det er den tunge kolonne. Kroner. Minutter. Besvær. Det er den anden. Bland ikke, så ti minutter får livets vægt, og livet får ti minutters vægt. Det er, hvordan ulykker får plads, og hvordan mænd bliver trætte af at være kloge.
+
+· · ·
+
+Løgne.
+
+“Det sker ikke for mig.” Skyen er ikke personlig i den retning. Du er ikke undtaget. Du er ikke udvalgt til ulykke heller. Du er i skabningen. Skabningen har regler og rum.
+
+“Jeg kan mærke, det går.” Mave er signal, ikke dommer. Oversæt. Kan ske. Koster. Cirkel. Maven må gerne være med i venstre kolonne som “uro”. Uro er ikke facit.
+
+“Vi tager den som den kommer.” Nogle gange visdom. Ofte nægtet syn. Voksen tager den som den kommer *efter* at have set, hvad der kan komme.
+
+“Jeg styrer det.” Du styrer valget. Ikke skyen.
+
+“Det går nok.” Tom højre kolonne. Mørke.
+
+“Jeg er bange, derfor nej.” Nogle gange er nej rigtigt. Nogle gange er nej kun frygt, der har stjålet den søde kolonne. Papiret skiller. Hvis den søde kolonne er ærlig, og den tunge er bærbar, og zonen er holdt, kan ja være troskab. Hvis den tunge er liv, er nej ikke fejhed.
+
+“Herren er med mig, derfor kører jeg.” Herren er med dig i zonen også, når du er død. Tro er ikke en nitte i elektronet. Tro er at adlyde i det, du har fået at forvalte. Du tester ikke Gud med en skovl over et hoved. Du beder om visdom, og så bruger du øjet.
+
+“Tredje gang går den.” Numerologi i arbejdstøj. Stop. Tal er ikke orakler. Kristus er ikke en kode i cifrene.
+
+“Pludselig.” Ofte ophobning, du ikke tællede. Time syv. I dag: pludselig er ofte et udfald, du havde i venstre kolonne og nægtede at skrive.
+
+“Jeg ved det.” Nogle gange. Ofte et foto. “Jeg ved det ikke” er tilladt. Skriv det. Så vælg alligevel, fordi livet kræver valg, også når skyen ikke er en prik.
+
+· · ·
+
+At tale udfald. Sætninger, du må sige uden at rødme.
+
+Hvis det regner, stopper jeg. Det er med i jaet.
+
+Slangen er tvivl. Omkostning er en dag. Jeg markerer.
+
+Jeg siger nej. Ikke fordi jeg er bange. Fordi hvis’et er for tungt til prisen.
+
+Jeg siger ja. Jeg har set kan-ske og koster. Cirklen er ja.
+
+Jeg ved det ikke endnu. Jeg tager et stop. Så ringer jeg.
+
+Zonen er tom, eller jeg kører ikke.
+
+Plejer er ikke en skinne. Plejer er oftest. I dag kan være sjældnere.
+
+Hvad du siger i radioen, når nogen vil have et ja nu.
+
+Ikke “fint” og ikke “umuligt”, hvis begge er tæpper.
+
+Du kan sige: jeg kan, hvis bunden holder, og hvis det holder tørt, og hvis slangen holder. Tre hvis’er er udfald. Ét “kan vi godt” er tåge. Natten sagde det. I dag er det kød.
+
+Du kan sige: nej. Kort. Uden prædiken. Uden at ydmyge den anden. Nej er en cirkel. Den anden kan handle på et nej. Han kan ikke handle på et ja, du allerede ved er løgn.
+
+Du kan sige: ja, og her er prisen, hvis det skifter. Det er ærligt. Det er kærligt. Det nægter at sløre.
+
+Øjnene på jorden, mens du siger det. Du kører ikke med munden. Munden er kort.
+
+Der er også tavs udfald. Hånden, der letter, før øjet har sagt, at zonen ikke er tom. Den tavse er ikke fjenden. Den tavse er fornemmelsen, vi giver sprog, så den kan rettes, når den tager fejl, og så den kan adlydes, når den er klog. En mand uden tavs sky er langsom. En mand med kun tavs sky er farlig, når han kalder uro for visdom, eller visdom for uro, uden at skrive kolonnerne.
 
 · · ·
 
 Frygt og klogskab.
 
-De kan ligne hinanden i munden. Begge kan sige nej. Begge kan sige stop. Begge kan pege på kolonnen, der koster.
+De kan ligne hinanden i munden. Begge siger nej. Begge siger stop. Papiret skiller.
 
-Frygt ser kun koster. Den ganger omkostningen op og sætter sandsynligheden til altid. Den graver ikke. Den ringer ikke. Den skriver ikke. Den kører i ring i hovedet og kalder ringen for syn. Syn er to kolonner. Frygt er én.
+Frygt ser kun koster. Den fylder højre kolonne, til venstre forsvinder. Alt kan ske. Alt koster alt. Så kan du ikke køre. Så kan du ikke elske. Så kan du ikke sige ja til en dag, der er bærbar.
 
-Dumdristighed ser kun kan-søde. Den sætter sandsynligheden for det tunge til nul, fordi nul føles som mod. Den graver. Den lover. Den smiler. Den kalder frygt for svaghed, også når frygten pegede på en krop i buen. Mod uden syn er hast. Hast er ikke tro.
+Dumdristighed ser kun kan-søde. Den fylder venstre med det, der glinser, og lader højre være tom. Så kører du. Så betaler nogen anden. Nogle gange betaler du. Nogle gange betaler en krop, der ikke valgte.
 
-Voksen ser begge. Voksen skriver. Voksen vælger. Valget kan være ja. Valget kan være nej. Valget kan være vent. Tre ærligheder. Ingen af dem er automatisk hellig. Helligheden, hvis der er en, sidder i synet og i troskaben, ikke i tempoet.
+Voksen ser begge. Voksen vælger. Voksen kan sige ja til en risiko, der er set. Voksen kan sige nej til en sødme, der ikke kan bære hvis’et.
 
-Papiret skiller. Neutral. Stabil. To kolonner. Kan ske. Koster. Høj, middel, lav, eller et spørgsmålstegn. En cirkel. Tredive til tres sekunder. Ikke et essay. Frygten vil skrive et essay. Dumdristigheden vil slet ikke skrive. Voksen skriver grimt og sandt og går tilbage til jorden.
+Bøn hører til her. Visdom. Ikke et tal, du tvinger Himlen til. Ikke et vers som amulet. Et hjerte, der tør se, og som tør lade valget være valg, ikke spådom.
 
-Bøn hører til her. Visdom. Ikke et tal, du tvinger Himlen til. Ikke “gør skyen til en skinne for min skyld”. Et hjerte, der tør se. Se er allerede et svar, der kan gives. Jeg er ikke præst. Jeg peger. Herren giver visdom. Du beder. Du ser. Du vælger. Du bærer.
+Maven. I nat: maven må tale, maven skal oversættes. I dag: uro i venstre kolonne er et kan-ske, du ikke har navngivet endnu. Oversæt. Er det zone. Er det time ti. Er det skam. Er det visdom. Papiret hjælper, fordi skam og visdom føles ens i brystet og ser forskellige ud i to kolonner.
 
-Hvis frygten vinder hver gang, graver du ikke, og forvalterskabet rådner i den anden grøft. Hvis dumdristigheden vinder hver gang, graver du, hvor du ikke må, og forvalterskabet rådner i den første. Vejen er smal. Den er ikke en formel. Den er to kolonner og et hjerte, der ikke elsker sit spejl mere end jorden.
-
-· · ·
-
-Løgne. Anden gang. Langsommere. Så du kan høre dem, når de kommer over radioen, og når de kommer i dit eget bryst.
-
-“Det sker ikke for mig.”
-
-Skyen er ikke personlig i den retning. Den kender regler og rum. Den kender ikke dit navn som et skjold. Mænd, der har kørt tyve år uden at ramme, kan ramme på det enogtyvende. Ophobning. Forsinkelse. Eller bare: lav var ikke nul. Du er ikke udvalgt til at være undtaget fra stof. Du er udvalgt til at være tro. Tro tæller zonen. Tro skriver hvis. Tro nægter at gøre historien om “mig” til en statistisk lov.
-
-“Jeg kan mærke, det går.”
-
-Mave er signal. Godt signal. Dårlig dommer. Maven har reddet dig. Maven har også solgt dig et ja, fordi ja smagte af fred, og et nej, fordi nej smagte af skam. Oversæt. Peg. Hvis du ikke kan pege, skriv: mave, uden kæde. Tag det med. Lad det ikke underskrive.
-
-“Vi tager den som den kommer.”
-
-Nogle gange visdom. Når skyen er talt, og slækket er der, og zonen er holdt, og du nægter at stjæle onsdag. Ofte nægtet syn. Når sætningen betyder: jeg vil ikke åbne den tunge kolonne, fordi den ville tvinge et nej, jeg ikke vil sige. Så er “som den kommer” et mørke med et smil.
-
-“Jeg styrer det.”
-
-Du styrer valget. Du styrer input. Time seks. Du styrer, om du kigger. Du styrer, om du mærker. Du styrer, om du ringer. Du styrer ikke regnen. Du styrer ikke hans ben. Du styrer ikke elektronet. Du styrer ikke, at to plus to skal blive fem, fordi du har brug for fem. Troskaben bevarer og begrænser. Begge er nåde.
-
-“Det plejer at gå.”
-
-Plejer er en tæthed. Ofte. Ikke altid. I nat: plejer er ikke en skinne. I dag: plejer må stå i kolonnen som høj, hvis det er talt, og som teater, hvis det er håb. Spørg: plejer *her*, *denne* bund, *denne* slange, *denne* mand, *denne* time? Eller plejer i en anden film, du kan lide bedre?
-
-“Vi har ikke tid til at tænke.”
-
-Så har du tid til at betale. Tredive sekunder i neutral er billigere end en dag. Tredive sekunder er billigere end en tillid. Tredive sekunder er ikke et liv, og et liv kan kræve, at du tænker, før buen svinger. Sætningen er ofte stolthed: stop er for de langsomme. I nat sagde vi det: du husker det forkert, og lastbilen venter, og du bliver vred på lastbilen. Vreden var et tal, du ikke skrev.
-
-“Hvis jeg siger hvis, lyder jeg som om jeg er bange.”
-
-Så lad det lyde. Eller sig det rent: jeg vejer. Jeg er ikke bange for ordet hvis. Jeg er bange for et ja, der lyver. Den anden må gerne tro, du er bange. Jorden må ikke tro det, hvis det ikke er sandt. Jorden får kolonnerne. Egoet kan få skammen og bære den.
-
-“Gud sørger for det.”
-
-Herren sørger. Det er ikke licens til blindhed. Troskab i det små er også at tælle, at måle, at veje. Du er ikke Gud. Du er forvalter. Forvalteren, der nægter at se, og kalder nægtelsen for tro, har byttet visdom med magi. Magi er ikke kristen. Magi er at tvinge. Se. Vælg. Bær. Bed. Fire. Ikke én.
+Hvis du efter kolonnerne stadig ikke ved, er “jeg ved det ikke” sandt. Så er valget alligevel dit. Du vælger med åbne øjne i tågen. Det er voksen. Det er ikke skinne. Elektronet blev heller ikke en prik, fordi du stirrede.
 
 · · ·
 
-At tale udfald. Hele dagen i munden. Grimt. Rent. Kærligt, fordi den anden kan bygge på det.
+Brintatomet, så kortet fra natten ikke falder af.
 
-Ikke: det går nok.
+Ét proton. Ét elektron. Tælling. Mål. Forhold. Ændring. Udfald.
 
-I stedet: hvis det regner, stopper jeg. Det er med i ja’et.
+Udfald i atomet: elektronet er sandsynlighedssky. Du kan vide meget. Du kan ikke vide alt. Matematikken, der er ærlig, siger begge dele.
 
-Ikke: slangen er fin.
+I dag er du på den femte pæl. Over kabinen. Skyen. Ikke for at gøre dig lille som et støv, der ingenting kan. For at gøre dig voksen: du vælger, du styrer ikke alt.
 
-I stedet: slangen er tvivl. Omkostning er en dag. Jeg markerer. Jeg kigger. Jeg skifter, eller jeg kører med åbne øjne og et nej parat, hvis lyden skifter.
+Solen er en anden skala. Lad solen være sol. Ingen talmagi. Ingen hemmelig kode i atomet, der fortæller dig, om du skal sige ja til et job. Grammatik. Gave. Du læser. Du tilbeder ikke.
 
-Ikke: han kommer sikkert.
+Kabinen er stadig origo. Foran: tæl. Til højre: mål. Til venstre: forhold. Bagved: ændring. Over: udfald. Under: jord. Midten: forvalter. Under Kristus. Med et sprog.
 
-I stedet: han er kommet tre gange. Han er udeblevet én. Jeg planlægger ikke, som om han er hydraulik. Hvis han mangler, gør jeg sådan.
-
-Ikke: lastbilen er på vej, sagt som skinne.
-
-I stedet: lastbilen er lovet. Hvis den udebliver, ringer jeg, og jeg stopper med at fylde, når bunken bliver til rod.
-
-Ikke: der ligger ikke noget.
-
-I stedet: jeg har talt ledningen, eller jeg har ikke, og hvis jeg ikke har, graver jeg ikke, som om tom er talt.
-
-Ikke: jeg siger nej, fordi jeg er bange, sagt som skam, når det ikke er skam.
-
-I stedet: jeg siger nej. Ikke fordi jeg er bange. Fordi hvis’et er for tungt til prisen.
-
-Ikke: jeg siger ja, og så ser vi.
-
-I stedet: jeg siger ja, hvis bunden holder, og hvis der er to timer, og hvis zonen er tom. Tre hvis, som i nat. Ét “kan vi godt” er tåge.
-
-Ikke: det skete pludselig, når det ikke var pludselig.
-
-I stedet: det var en rate, jeg ikke tællede. Time syv. Eller: det var et hvis, jeg ikke skrev. I dag.
-
-Det er grimt i starten, som at tale et nyt sprog. Så bliver det rent. Så bliver det kærligt. Den anden kan hade dit hvis. Han kan stadig planlægge efter det. Et smil uden hvis er kærlighed, der rådner, når mudderet kommer.
-
-Der er tavs matematik her. Du mærker en plads, der “lugter” af dårligt udfald, før du kan fylde kolonnerne. Behold mærket. Oversæt det. Lugt er spor. Kolonner er kæde. Begge. Ikke kun den tavse. Ikke kun arket.
+Hvorfor virker det at sige over. Fordi det, du ikke styrer, ikke er under skovlen. Det er over. Det kommer. Det lander. Du møder det med valg. Under er testen. Jorden. Skakmat, hver gang skovlen tager fat.
 
 · · ·
 
-Tænk på papir. Time ottes mærke. Ikke nu, hvis skovlen er i jorden. Når maskinen kan bære det. Neutral. Stabil. Stille nok. Øjnene må forlade jorden, fordi jorden har fået lov at vente. Hvis jorden ikke kan vente, vinder jorden. Papiret kan. Den døde kan ikke.
+Mere kabine. Mere kød.
 
-Siden har få ting. Ikke et album. Ikke en rapport til en chef, du ikke har.
+Du sidder. Himlen er et felt i øjet, du tjekker uden at forlade jorden. Et blik. Ikke en prædiken. Hældning i skyer. Time syv plus time otte.
 
-Øverst: UDFALD. Så ved du, hvilken slags knude.
+Du svinger. Zonen. Time fem. I dag: kan ske, at nogen træder ind. Koster: alt. Cirkel: du kører ikke, før zonen er tom. Det er ikke forventet værdi som et spil. Det er lov.
 
-To kolonner. Venstre: kan ske. Højre: koster.
+Du venter på lastbilen. Kan ske, den kommer. Kan ske, den ikke kommer. Koster: tomgang, tid, et ja, der rådner. Cirkel: sluk, hvis du kan. Ring, hvis du skal. Lad være med at kalde ventetid for skæbne.
 
-Tre linjer er nok. Ikke tredive.
+Du hører radioen. Et tilbud. Neutral, hvis jaet kræver kolonner. Hvis du ikke kan stoppe, sig: jeg ringer tilbage. Det er en cirkel. Den er tilladt. Den er voksen.
 
-Regn — en dag, omarbejde, glat.
+Du mærker slangen. Kan ske. Koster. Cirkel.
 
-Slangen — en dag, måske arm.
+Du mærker kroppen. Time syv: pil ned. Time otte: kan ske, at time ti lyver. Koster: fejl, zone, et ja. Cirkel: lette bid, eller stop, eller nej til lørdag.
 
-Manden — timer, et løfte, der skrider.
-
-Ved siden af, eller under: høj, middel, lav, eller et spørgsmålstegn. Spørgsmålstegnet er voksen.
-
-En cirkel om valget. Ja med hvis. Nej. Ring. Vent. Mærk. Ét. Cirklen er ikke pynt. Cirklen er, at tænkningen sluttede i et valg, ikke i en stemning.
-
-Dato. Onsdag skal kunne læse mandag. Hovedet fra mandag er væk. Forvalteren har arkiv.
-
-Tredive til tres sekunder. Hvis du skriver tre sætninger, har du ofte skjult tallet i prosa. Prosa kan lyve blødt. Et kan-ske og et koster lyver hårdere, og det er en nåde.
-
-Så bogen væk. Hænderne tilbage. Øjnene på jorden. Det mærke er sømmet. Vi slår flere i luften nu, så hånden kender dem uden at opfinde dem under pres.
-
-Første, i luften. Lastbilen er lovet om tyve minutter. Hullet mangler. I hovedet: panik, eller “nå, vi ser”. På papir: kan ske — den kommer, den kommer ikke, den kommer for sent. Koster — ventetid, bunke, et opkald, et ja, der skrider. Cirkel: jeg ringer, eller jeg graver det, der ikke kræver kassen, eller jeg venter og nægter at kalde det flid. Papiret tog panikken og gjorde den til et valg.
-
-Anden. Slangen ser ældre ud. I hovedet: den holder nok. På papir: kan ske — holder, sveder, siger fra i løft. Koster — et kig nu, en dag senere, en zone, hvis armen er oppe. Cirkel: jeg kigger nu, eller jeg skifter, eller jeg kører og stopper ved første sved. “Nok” fik ikke lov at underskrive.
-
-Tredje. Et tilbud. For meget. For lidt. I hovedet vinder stemningen. På papir: kan ske — bund, vejr, mand, tid, zone. Koster — kroner, ryg, tillid, liv. Cirkel: ja med tre hvis, eller nej. Ja’et er vejet. Et uvejet ja er ikke tro. Det er hast.
-
-Fjerde. Buen. I hovedet: der er ingen. På papir: kan ske — krop i bue. Sandsynligt — lav, hvis jeg holder loven, ikke lav, hvis jeg “nok”. Koster — et liv. Cirkel — nul. Loven. Ikke et tal, du forhandler.
-
-Fire tanker. Fire sider, der kan være fire gange tre linjer. Du er ikke blevet spåmand. Du er blevet synlig for dig selv.
-
-Der er mænd, der skriver for at slippe for at gøre. Det er den omvendte synd. Papir, der erstatter skovlen, er fejhed i kuglepen. Papir, der tjener skovlen, er visdom. Du kender forskellen i kroppen. Hvis du skriver, fordi jorden er svær, er det flugt. Hvis du skriver, fordi valget er uklart, er det arbejde.
-
-Hvis du er for stolt til at stoppe: husk lastbilen, der venter på et tal, du “husker”. Hvis du er for flov, fordi siden er grim: grimhed er tegn på arbejde. Pænhed er ofte tegn på teater.
-
-Neutral. Stabil. Bogen. Mærke. Bogen væk. Hvis jorden kalder, vinder jorden.
+Du kommer hjem. Samlet i hullet er én bunke. Samlet i udfald, du bar, er en anden. Hvis du bar dem blinde, sidder de i natten som uro. Hvis du bar dem sete, sidder de som træthed, der kan sove. Uro og træthed er ikke det samme. Uro er ofte uset hvis. Træthed er ofte set arbejde.
 
 · · ·
 
-Brint, igen, fordi atomet var nattens kort, og time otte *er* skyen i atomet.
+Lad os køre en time i kabinen med kolonnerne tændt, uden at hånden forlader maskinen.
 
-Du ved ikke, hvor elektronet “er”. Du ved, hvor det oftest er. Arbejd med oftest. Byg ikke et liv på det sjældne, som om det sjældne var en skinne til kroner. Det sjældne som gevinst er et spil. Du er ikke i et spil. Du er i en kabine.
+Morgen. Foto: tørt, slange tavs, kalender med et ja. Film: se himlen. Hør tonen. Tæl zonen. Udfald er ikke et fag, du tænder klokken otte. Udfald er over dig hele dagen. Time otte giver det sprog.
 
-Byg derimod værn på det sjældne, når det sjældne er en ulykke. Ulykke: lav sandsynlighed, umådelig omkostning. Zonen. Ledningen. Armen, der falder. Det er derfor, nul kroppe i buen er loven, også når det “nok går”. Nok går er forventet værdi, der har glemt omkostningen liv.
+Formiddag. Et læs. Kan ske, bunden skifter. Du mærker det. Time syv: hældning. Time otte: koster, hvis den skifter mere. Cirkel: anden bid, eller stop, eller sig det.
 
-Hop i atomet er ændring. Time syv. Skyen er udfald. I dag. Samme hus. To rum. Du blander dem, når du siger “pludselig” om noget, der var en rate, og når du siger “sikkert” om noget, der var en sky.
+Frokost. Hvis det er sikkert, ét mærke. To kolonner for det, der brænder. Cirkel. Ikke fem job. Ét. Spørgsmålstegn tilladt. Pæn konklusion forbudt.
 
-Solen er brint under tryk. Du er ikke solen. Du omdanner. Du skaber ikke. Ydmyghed. Også: du styrer ikke stjernernes udfald. Du styrer, om skovlen går, hvor zonen er talt. Det er nok magt. Det er den rigtige magt. Mere magt end det er et afgudsbillede.
+Eftermiddag. Time ét lyver. Kan ske, at du siger ja i radioen for at være mand. Koster: time ti. Cirkel: mund lukket, eller nej, eller “jeg ringer senere”.
 
-Vand: to per ét. Forhold. Time tre. Udfald er ikke forholdets fjende. Udfald er, at du ikke ved, om bunden i dag er det vand, du kendte i går, eller et andet stof, fordi regnen ændrede det. Ændr betingelsen, ændr det, der kan lande. Samme grammatik. Andet rum i huset.
-
-Hvis du kun husker én sætning fra brint i dag: **oftest er ikke altid. Næsten aldrig er ikke aldrig, når det bærer et liv.**
-
-Hvis du husker to: **arbejd med oftest. Værn mod det sjældne, der koster umådeligt.**
+Fejring. Det gik. Egoet vil have: jeg vidste det. Måske vidste du oftest. Måske var du i den tætte del af skyen. Sammenhæng er ikke årsag. Held er ikke en nitte. Tak. Bliv ikke præst for heldet. Time ni tager tilskyndelse. I dag: lad cirklen være cirkel, og lad frugten være frugt, uden at gøre den til et orakel.
 
 · · ·
 
-Du er ikke Gud. Du er forvalter.
+Endnu et skakmat, så det sidder i ryggen.
 
-Jeg siger det, til det er kedeligt. Kedelig sandhed holder.
+Du kan ikke tænke et hul tørt. Du kan ikke bede to plus to om at blive fem, fordi du har brug for tørt vejr. Troskaben går begge veje. Den bevarer dig, og den begrænser dig. Begge dele er nåde.
 
-Gud kender skyen. Du kender et hjørne. Du kender oftest i *din* jord, *din* maskine, *dit* sjak, *din* krop. Det er nok til at vælge. Det er ikke nok til at være sikker som et ur. Sikker som et ur var skolebilledet. Voksen billedet er sky med regler.
+Du kan ikke gemme et tungt hvis ved at gøre kronerne større. Hvis du taber et liv, hjælper flere kroner ikke. Time tre: nævneren holder sandheden. Time otte: omkostningen liv holder sandheden. Tælleren uden den er teater.
 
-Forvalteren tæller, før han lover. Time ét.
+Du kan ikke købe visdom med et procenttal, du opdigter. Godt nok. Høj, middel, lav. Ofte, sjældent. Tre gange i år. Det er tælling. Et pænt tal uden tælling er numerologi i skjorte.
 
-Forvalteren måler, før han graver, når målet bærer vægt. Time fire.
+Du kan ikke aflevere valget til maven alene, eller til formanden alene, eller til mig. Jeg peger. Jeg styrer ikke skovlen. Du vælger.
 
-Forvalteren sætter per på, før han prissætter. Time tre.
+Du kan ikke se elektronet. Du kan se spor. Meget af det, der er mest sandt, ses på frugten. Det kender du fra troen. Matematikken siger det samme med andre hænder: vi vejer det, der kan vejes, og vi tilstår det, der kun vises som tæthed.
 
-Forvalteren ser raten, før den tiende time lyver. Time syv.
-
-Forvalteren vejer udfald, før han siger ja. I dag.
-
-Forvalteren tilbeder ikke tallet. Han læser. Kristus er vejen. Tal er redskab.
-
-Når udfaldet lander, og det var det tunge, er forvalteren ikke skyldig i at være menneske. Han er skyldig, hvis han ikke så, og kunne have set. Han er skyldig, hvis zonen var til salg. Han er ikke skyldig i regnen. Skil det. Skyld, der er sand, kan bæres og bekendes. Skyld, der er falsk, kvæler og kalder sig fromhed. Jeg peger. Herren dømmer. Du ser din kolonne.
-
-Når udfaldet lander, og det var det søde, er forvalteren ikke Gud. Han siger tak. Han skriver ikke “jeg styrede det” i arkivet. Han skriver: jeg valgte, det bar, dato. Ærlighed i den søde kolonne er også ærlighed. Egoet vil stjæle den.
+Egoet elsker at være færdig i luften. Papir tvinger dig til at være ufærdig i det åbne. Kristus elsker det åbne. Mørket elsker det, der aldrig skrives, fordi det aldrig kan tjekkes. “Det går nok” elsker mørket.
 
 · · ·
 
-Syn. Valg. Sti.
+Korrelation, kort.
 
-Hele serien i tre ord. I dag får de kød i skyen.
+To ting kan danse uden at den ene er mor til den anden.
 
-Syn: to kolonner. Kan ske. Koster. Høj, middel, lav, jeg ved det ikke. Zonen talt. Hvis’erne talt. Ikke den søde alene. Ikke den tunge alene.
+Når det regner, er der flere ulykker. Regn og ulykker hænger sammen. Årsagen er glat og dårligt syn, ikke at regnen “ønsker” noget. Spor. Kæde.
 
-Valg: cirklen. Ja. Nej. Vent. Ring. Mærk. Stop. Kør. Valget er dit. Det er ikke vejr. Det er ikke hans ben. Det er din mund og din hånd.
+Når du siger ja til stejl bund, tjener du måske mere. Ja og kroner hænger sammen. Årsagen kan være, at andre sagde nej. Kronerne er ikke et bevis på, at hvis’et var småt. De kan være et bevis på, at hvis’et blev solgt billigt.
 
-Sti: det, der kommer efter cirklen. Ja’et åbner én sti. Nej’et åbner en anden. Vent åbner en tredje. Du styrer ikke, hvad der lander på stien. Du styrer, hvilken sti du træder ind på. Det er påvirkning af udfald. Ikke hekseri. Håndværk.
+Når en dag går godt, konkluderer du måske, at du “kan mærke det”. God dag og mave hænger sammen. Årsagen kan være søvn. Eller blød jord. Eller held i skyen. Følelsen er et spor. Den er ikke faderen til udfaldet.
 
-Du kan ikke tænke to plus to til fem. Du kan ikke tænke mudder til klippe. Du kan ikke tænke en krop ud af buen med et ønske, hvis kroppen er der. Troskaben begrænser. Du kan tælle, måle, veje, sige hvis, sige nej, holde zone. Troskaben bevarer. Begge er nåde.
-
-Sprog skaber syn. Når du siger “det går nok”, kan du ikke vælge. Når du siger “hvis det regner, stopper jeg”, kan du. Når du siger “en del risiko”, kan du ikke. Når du siger “lav sandsynlighed, umådelig omkostning, jeg holder zonen”, kan du. Det er ikke koldt. Det er kød. Ordet blev kød. Kød har vægt. Vægt har tal. Elsk sandt.
+Teseren: når to ting kører i par, spørger du, om du har et spor eller en kæde. Time ni bygger videre. I dag er det nok at nægte at prædike ud af et held, og at nægte at kalde et spor for en lov.
 
 · · ·
 
-Timerne bagved, så udfald ikke hænger i luften som et femte fag.
+Kristus uden talmagi.
 
-Time ét: du kan ikke veje, hvis du ikke ved, hvad der er ét af. Ét muligt. Nul talt ledninger. Tre udeblivelser. Nul kroppe. Tælling er udfaldets gulv.
+Jeg vil sige det rent, så ingen hører forkert.
 
-Time to: plus og minus i kolonnerne. Plus i kroner. Minus i tid. Gange, når et hvis gentages. En lille utæthed, ignoreret, er ikke lille. Gentagelse.
+Vi tilbeder ikke otte, fordi det er time otte. Vi lægger ikke skjulte koder ind i vers, som om Herren var et puslespil, du knækker med et smart tal. Det er afguderi med kridt. Det er også en måde at undgå at adlyde det, der allerede er klart: se. Vælg. Bær. Elsk. Sig sandt.
 
-Time tre: per. Omkostning per hvis. Kroner per ja. Liv per bue — og her stopper stregen, fordi livet ikke er en nævner, du vil fylde. Forholdet *viser*, at zonen ikke er en handel.
+Kristus er vejen. Tal er redskab. Ordenen i skabningen er gave. Du opfinder den ikke. Du vågner i den. Du læser den. Du tilbeder ikke grammatikken.
 
-Time fire: enhed på omkostningen. En dag. En time. En meter, der manglede, før ledningen. Godt nok i tolerance er ikke “det går nok” i skyen. Skil de to nok.
+Hvad har det med udfald at gøre.
 
-Time fem: rummet, buen, zonen, rumfanget, der ikke passer, når lastbilen er en anden. Geometri som kærlighed: nul kroppe i buen.
+Dette: du er ikke Gud. Det er evangelium, ikke fornærmelse. Du vælger. Det er kald, ikke byrde alene. Forvalterskab.
 
-Time seks: hvis-så. Ja’et *er* en funktion med betingelse. Hvis regn, så stop. Hvis slange sveder, så nej til løftet. Betingelsen er jorden. Glem den, og du kalder verden løgner.
+I morgen har nok sin plage. Det er ikke licens til at være blind i dag. Det er forbud mod at stjæle morgendagens sky ind i dagens skovl. Se i dag. Vælg i dag. Bær i dag. Lad morgendagens kan-ske vente, til de er dagens. Bekymring er ofte at betale prisen for et hvis, der ikke er landet, og at miste synet på det, der er her.
 
-Time syv: raten skifter, ophobning lyver som pludselig, den tiende time er en anden maskine. Udfald i den tiende er et andet end i den første. Planlæg ikke skyen, som om du er foto.
+Fadervor beder om brød i dag. Et nu. Et mål. Også: lede os ikke ind i fristelse. Fristelse her: at sige ja blindt. At sige nej af ren frygt. At teste Gud. At gøre et tal til amulet.
 
-Time ni venter: løkker. Det, du belønner, avler. Et ja uden hvis avler flere ja uden hvis. Et mærke avler flere mærker. I dag vejer du ét udfald. I morgen ser du ringen.
+Korset er ikke en stemning. Det er en handling i tid, på et sted, for navngivne mennesker. Han valgte. Han styrede ikke alle udfald som et ur, mænd ville have. Han bar. Du bærer i det små. Du opfinder ikke korset med en skovl. Du følger.
 
-Time ti venter: munden, papiret, atomet, kabinen. I dag er ét tegn. Hold det.
+Jeg beviser ikke Gud med en sandsynlighed. Den, der prøver, gør skyen til et afgudsbillede. Den, der nægter, at verden har rum og regler, gør tilfældet til et afgudsbillede. Begge dele er for småt. Du er læser. Du er håndværker. Du er en mand under Kristus, som bruger et sprog, skabningen allerede taler.
 
-· · ·
+Kærlighed tæller. Kærlighed vejer også hvis. En mand, der elsker, siger ikke ja til en zone, fordi kronerne er søde. En mand, der elsker, siger ikke nej til et brød, fordi maven er bange for alt. Han ser kolonnerne. Han vælger. Han bærer.
 
-Kabinen som origo, nu med skyen over.
-
-Foran: det, du tæller — lastbiler, mænd, gange slangen sås, ledninger, kroppe i buen.
-
-Til højre: mål, der ikke smigrer — minutter, liter, dybde, timer til mørke.
-
-Til venstre: forhold — kroner per ja, omkostning per hvis, skovle per minut, hvis lastbilen kommer.
-
-Bagved: ændring — raten efter frokost, ophobning i slangen, den tiende time.
-
-Over: udfald. Skyen. Kolonnerne. Cirklen.
-
-Under: jorden. Testen. Skakmat, hver gang skovlen tager fat.
-
-I midten: du. Forvalter. Ikke gud. Ikke offer. Læser. Under Kristus. Med et sprog.
-
-Hvis du kun husker én sætning fra time otte: **kan ske, koster, vælger. Begge kolonner. Du styrer valget, ikke skyen.**
-
-Hvis du husker to: **lav gange umådelig er ikke lav. Nul kroppe i buen.**
+Numerologi er et rivaliserende alter. Et tal, der “føles rigtigt”. Et klokkeslæt, der “betyder noget”. Stop. Tal er rum og tælling og tæthed. De er ikke orakler. Kristus er ikke en kode i cifrene. Den, der søger Gud i mønstre, tilbeder mønsteret. Mønsteret er skabt. Skaberen er ikke mønsteret. Du må gerne se orden. Du må ikke knæle for ordenen.
 
 · · ·
 
-Checkpoint. Når maskinen kan bære det.
+Falsk præcision.
 
-Siden har tre ting, ikke flere.
+Et tal, der ser skarpt ud, kan være et foto, du har opdigtet for at slippe for skyen. “Der er tyve procent chance.” Hvor talte du. Hvor mange dage. Hvilken egn. Hvilken bund. Hvis du ikke har talt, er tyve et teater. Teater føles som voksen, fordi det har et ciffer. Ciffer uden tælling er numerologi i skjorte.
 
-UDFALD øverst.
+Høj. Middel. Lav. Ofte. Sjældent. Tre gange i år. Nul gange, så vidt jeg ved, og jeg ved det ikke sikkert. Det er ærlig tæthed. Elektronet fik heller ikke en adresse, fordi nogen skrev et pænt tal på tavlen. Det fik en sky. Skyen er voksen.
 
-To kolonner. Tre linjer. Kan ske. Koster.
+Der er den anden falskhed: at nægte ethvert tal, fordi det ikke er præcist. Så bliver alt “mave”. Maven uden kolonner er time otte, der nægter at begynde. Godt nok. Time fire. En grov højre kolonne slår en tom. En grov venstre slår en roman.
 
-En cirkel. Ja med hvis, eller nej, eller ring.
-
-Dato.
-
-Så luk. Ikke album. Søm.
-
-Hvis du ikke kan stoppe sikkert, er lyden nok. Livet først. Siden ved køkkenbordet må bære det. Samme grammatik. Ikke et nyt fag. Neutral dér, hvis du vil kalde det tænk på papir. Ikke i skødet, mens skovlen går. Aldrig.
+Hvis du har talt — slangen tre gange, lastbilen udeblevet to gange på en måned, regn hver anden dag i den her uge — så skriv tællingen. Time ét under usikkerhed. Tællingen er ikke en spådom. Tællingen er et spor. Spor er ikke kæde. Time tre. I dag: spor er det, du ganger med prisen, så godt du kan.
 
 · · ·
 
-Kristus. Igen. Ikke længere. Sandt.
+Ja-hvis.
 
-I morgen har nok sin plage. Det er ikke licens til at være blind i dag. Det er forbud mod at stjæle morgendagens sky ind i dagens skovl. Se i dag. Vælg i dag. Bær i dag.
+Cirklen behøver ikke kun ja eller nej. Den må være ja-hvis. Hvis er ikke kælling. Hvis er den anden kolonne, skrevet ind i munden, før den anden handler.
 
-Bed om visdom. Ikke om et ur, du kan putte i lommen og kalde for tro. Visdom er at tåle, at skyen er sky, og alligevel elske naboen nok til at veje.
+Ja, hvis det holder tørt.
 
-Du tilbeder ikke sandsynligheden. Du tilbeder ikke kolonnen. Du tilbeder ikke Grok. Kristus er vejen. Tal er redskab. Amen til det.
+Ja, hvis zonen er tom.
 
-· · ·
+Ja, hvis slangen er skiftet.
 
-Et par skakmat mere, så det sidder.
+Ja, hvis jeg har set bunden.
 
-Du kan ikke gøre et uvejet ja til tro ved at sige Amen efter det. Amen er ikke lim på en løgn.
+Ja, hvis time ti ikke er med i løftet.
 
-Du kan ikke gøre et nej til klogskab, hvis nej’et kun så den tunge kolonne og nægtede den søde, og naboen sultede, mens du kaldte det visdom. Klogskab ser begge.
+Nej, medmindre prisen ændrer sig.
 
-Du kan ikke købe et liv tilbage, når zonen var til salg. Tid købes ikke tilbage. Liv købes ikke tilbage. Vilje er ikke hydraulik.
+Ja-hvis er forvalterens cirkel. Ren ja uden hvis er ofte time ét, der lyver. Ren nej uden at have set den søde kolonne er ofte frygt. Ja-hvis tvinger dig til at sige, *hvad* der skal være sandt, før jaet lever.
 
-Du kan ikke styre vejret. Du kan styre, om ja’et forudsatte sol uden et nej parat.
+Sig det i radioen. Kort. Den anden kan handle. Han kan sende en anden mand. Han kan vente. Han kan vælge en anden dag. Han kan ikke handle på et ja, der dør stille, når skyen lander.
 
-Du kan ikke se elektronet. Du kan arbejde med oftest og værne mod det sjældne, der koster umådeligt.
-
-Du kan ikke holde alle film i hovedet. Papiret kan holde tre linjer. Tre linjer er nok.
-
-Du kan ikke kalde frygt for syn, fordi frygten er høj. Høj frygt er én kolonne. Syn er to.
-
-Jorden tester. Altid. Mudder tester ja’et. Slangen tester mærket. Buen tester loven. Lastbilen tester hvis’et. Testen er nåde. Den lyver ikke.
+Der er en pris for ja-hvis: du ser ud som en, der stiller krav. Godt. Krav er kærlighed til virkeligheden. Et ja uden krav er smiger. Smiger er også en slags tyveri. Den stjæler synet fra den anden.
 
 · · ·
 
-Lad os tale det som håndværk én gang til, tæt på skovlen.
+Reservedele. Tid. Det, du lægger til side, er også forventet værdi.
 
-Skovlen går ned. Jorden giver. Du hører mig i det ene øre. Det andet øre hører pumpen. Du tænker ikke “forventet værdi”. Du tænker “endnu én”. Det er TÆL. Du tænker “for blødt”. Det er MÅL, grovt. Du tænker “langsommere end i morges”. Det er ÆNDRING. Du tænker “hvis lastbilen svigter, gør jeg sådan”. Det er UDFALD. Det sidste er timen. Det må gerne være tavst, mens stålet arbejder. Det må ikke være usagt, når ja’et skal ud af munden.
+En slange på hylden koster nu. Den koster mindre end en slange, der ikke er der, når den gamle springer midt i et ja. Sandsynlighed gange pris. Set før. Du behøver ikke et ark. Du behøver at nægte at kalde hylden for sløseri, hvis højre kolonne er en dag, du ikke har.
 
-Når snakken kommer over radioen: “det tager ikke lang tid.” Du hører: tid uden tal, og et udfald uden hvis. Du svarer, hvis du skal svare, med et tal og et hvis, eller med “jeg ved det ikke endnu”.
+Tid i kalenderen, der ikke er fyldt. Tomhed, der ser ud som spild på et foto. Film: rum til det, skyen lander med. Hvis hver time er et ja, er der ingen cirkel tilbage, når regnen kommer. Så bliver regn til løgn i munden. Forvalteren lader et rum stå. Barnet fylder rummet, fordi tomhed føles som frygt.
 
-Når frygten kommer: “det går galt.” Du hører: én kolonne. Du giver frygten den anden kolonne, eller du lader den vente til neutral.
+Jeg siger ikke, at du skal sidde stille og kalde det visdom. Jeg siger, at et ja, der æder al buffer, har en skjult højre kolonne: intet rum, når hvis’et lander. Skriv den. Så vælg.
 
-Når stoltheden kommer: “jeg styrer det.” Du hører: valg, der vil være Gud. Du giver den: jeg styrer valget. Skyen er ikke min.
-
-Når skammen kommer: “hvis jeg siger nej, er jeg bange.” Du hører: ego, der vil købe ære for et hvis, der mangler. Du giver den: jeg vejer. Æren kan vente.
+Penge til side er time ni, når renterne kommer. I dag: retning. En lille bunke, der er der, når bruddet kommer, er ophobning sat til udfald. Time syv plus time otte. Pil op i det, der skal bære hvis’et. Ikke talmagi. Brød i dag, og et brød, der kan møde i morgen uden at stjæle i morgen ind i dag som panik.
 
 · · ·
 
-Hvad tager du med ind i time ni.
+To tilbud. Spejl. Ikke personer, du kender.
 
-Time ni er SYSTEMER. Feedback. Renter. Tilskyndelse. Psykologi. Folk. Vaner. Verden i simpel matematik.
+Det første glinser. Høje kroner. Ukendt bund. “Det haster.” Haster er ofte et værktøj til at slukke kolonnerne. Kan ske: god uge. Kan ske: maskine i hul, nat i stykker, et ja, du ikke kan bære. Koster, hvis det går galt: mere end kronerne. Cirkel, hvis du har set: måske nej, måske ja-hvis jeg har set jorden. Cirkel, hvis du ikke har set og alligevel siger ja: det er ikke mod. Det er en tom højre kolonne.
 
-I dag har du vejet ét udfald. I morgen ser du, at udfald fodrer udfald. Et ja uden hvis avler flere. Et mærke avler flere. En zone, der holdes, avler en plads, hvor mænd kan ånde. En zone, der sælges, avler en plads, hvor mænd holder vejret og kalder det tempo.
+Det andet er nøgternt. Kendt jord. Lavere krone. Kendt er tæthed, ikke skinne. Kan ske: en uge, der holder. Kan ske: kedsomhed, og et ego, der hader at sige ja til det, der ikke glinser. Koster: færre kroner. Koster også: at du må bære at være en mand, der ikke tog det stejleste. Cirkel: ja kan være troskab. Nej kan være, hvis du har rum og en bedre set sti. Matematikken tvinger ikke. Den tvinger synet.
 
-Du behøver ikke at være færdig med skyen, før løkken kommer. Skyen sidder over kabinen. Løkken kommer til at løbe rundt om den. Samme hus. Næste rum.
-
-Øjnene på jorden. Hænderne på maskinen. Ét øre. Jeg er her i den niende. Vi lukker ikke arbejdsdagen der. Vi lukker den i den tiende. I dag: vælg under usikkerhed. I morgen: se ringen. Så samler vi.
+Hvem er dygtig. Ikke den, der tog det højeste tal. Den, der så begge kolonner og valgte. Du kan vælge det stejlere *efter* syn. Du må ikke kalde blindhed for håndværk.
 
 · · ·
 
-En dag, talt som udfald, så timen ikke bliver et kort uden jord.
+En hel dag med skyen tændt, sagt langsomt.
 
-Morgen. Du tænder. Ét øre. Øjnene på jorden. Allerede her er der en sky: starter den. Ofte. Ikke altid. Du har et hvis, hvis den ikke gør. Det hvis er kedeligt. Kedeligt er godt.
+Klokken fem. Foto: du kan. Himlen er et felt. Slangen er et felt. Kalenderen er et felt. Du lover ikke time ti. Time syv. Du lover ikke sol. Time otte. Du tæller zonen, før skovlen. Time fem. Tre tegn i ét blik. Ikke en remse. Et blik.
 
-Første hul. Kendt jord. Høj, at bunden holder. Alligevel: et kig. Nul ledninger, der er talt, eller et opkald, der mangler. Du vælger. Cirklen kan være tavs. Den skal have været der.
+Formiddag. Bunden er den, du kendte, eller den er det ikke. Hvis den skifter, er det ændring. Hvis du fortsætter som om den ikke skiftede, er det udfald, du nægter. Kan ske, at væggen går. Koster. Cirkel: anden bid, eller stop.
 
-Radioen. Et ja, der vil ind. Høj krone. Ukendt bund. Deadline. Du hører den søde kolonne i hans mund. Du åbner den tunge i din. Hvis du ikke kan åbne den nu, siger du: jeg ringer tilbage. Det er et valg. Det er ikke fejhed. Det er at nægte at lade hans tempo være din sky.
+Et varsel i radioen. Regn senere. Foto: stadig tørt. Film: hældning i himlen. Kan ske. Koster tre læs, hvis du har lovet dem som skinne. Cirkel: ring nu, eller kør og hold stop parat. Nu er billigere end middag, hvis middag er en løgn.
 
-Frokost. Raten er en anden. Time syv. Udfald i den sjette time og i den tiende er ikke samme film. Du planlægger ikke et løft over en krop “lige om lidt”, fordi du er sulten og vil være færdig. Sult er betingelse. Betingelse ændrer, hvad der kan lande.
+Et hak i tonen. Kan ske brud. Koster. Cirkel: mærke, sænk, skift, eller kør med zone tom og øje på. “Den har altid holdt” er fortidens tæthed. Skriv den i venstre som oftest, ikke som nitte.
 
-Efter frokost. Himmel. Måske vejr. Du siger hvis’et højt, hvis ja’et rækker ind i det. Eller du siger det indeni og holder det. Højt er bedre, når en anden skal bygge på det.
+Middag. Mad. Kurven. Kan ske, at du siger ja i telefonen, fordi du er mæt og venlig. Koster time ti. Cirkel: jeg ringer tilbage. Venlighed uden kolonner er smiger.
 
-En slange. Et blik. Tvivl eller fred. Fred, der er talt, er én ting. Fred, der er hast, er en anden. Mærket koster tredive sekunder, når det er sikkert. Livet koster mere.
+Eftermiddag. Øjet tyndere. Kan ske fejl. Koster zone, hvis fejlen er der. Cirkel: lette bid. Nej til det, der kræver time ét.
 
-En lastbil. Lovet. Sky. Du graver, som om den kan udeblive, ikke som om den er hydraulik. Bunken får et sted. Opkaldet får et tidspunkt. Flid får et navn, der ikke er ventetid i forklædning.
+Et tilbud sent. Haster. Haster elsker tynde øjne. Neutral, hvis du kan. Hvis du ikke kan: jeg ringer i morgen. I morgen har sin plage. I dag har sin skovl. At stjæle i morgen ind i et tyndt øje er ikke tro. Det er at lade skyen lande, mens du blunder.
 
-Aften i sigte. Den tiende time. Du er en anden maskine. Udfald, du ville bære klokken syv, bærer du måske ikke nu. Det er ikke svaghed. Det er film. Nej i den tiende er ofte kærlighed til den, der skal have dig hjem, og til den, der skal have en zone, der stadig er zone.
-
-Det var ikke et skema. Det var at se, at time otte ikke bor i et kapitel. Den bor i hvert ja. Hvert ja er en sti ind i en sky. Syn. Valg. Sti.
+Hjem. Hvis du har cirklet, kan du sove, også hvis jaet var stejlt. Hvis du har sagt ja i mørke, sidder mørket i sengen. Papiret er billigere end natten.
 
 · · ·
 
-Hvis lastbilen venter, er her ikke et nyt emne. Her er den samme time, sagt som søm.
+Hvad du skylder den anden, når du vejer.
 
-Søm ét: sky, ikke skinne. Ofte. Ikke altid.
+Du skylder syn, ikke et show. Du skylder ikke at lyde klog. Du skylder ikke et tal, du ikke har. Du skylder: jeg kan, hvis. Eller: jeg kan ikke. Eller: jeg ved det ikke endnu.
 
-Søm to: kan ske. Sandsynligt. Koster. Vælger.
+Du skylder zonen, hvis han står i den. Hans krop er ikke din indsats. Forventet værdi, når prisen er hans liv, er ikke et spil, du må tage. Lov. Time fem. I dag: den højre kolonne, der ikke kan betales, slukker jaet. Punktum.
 
-Søm tre: begge kolonner. Forventet værdi er syn, ikke et ark.
+Du skylder ikke at tage et job, der sluger dig, fordi han bliver skuffet. Skuffelse er en pris. Den er ikke liv. Skil. Du kan bære, at nogen bliver ærgerlig. Du kan ikke bære, at du gjorde hans ærgerlighed til en gud, der krævede et blindt ja.
 
-Søm fire: lav gange umådelig er ikke lav. Zone. Liv. Nul kroppe.
+Du skylder Herren sandhed i munden. Et ja, du ved er løgn, er ikke venlighed. Det er et tyveri af tid, den anden skulle have brugt på at finde en, der kunne. Sandt nej er kærlighed. Falsk ja er tåge med smil.
 
-Søm fem: vejr, nedbrud, mand, lastbil, ledning. Hver er et udfald. Du styrer valget.
+· · ·
 
-Søm seks: “det går nok” er mørke, indtil det er vejet.
+Time syv og time otte i samme kabine.
 
-Søm syv: frygt ser koster. Dumdristighed ser sødt. Voksen ser begge. Papiret skiller.
+Ændring er filmen. Udfald er, at filmen kan skifte uden din tilladelse, og at du alligevel vælger.
 
-Søm otte: du er forvalter. Ikke Gud. Syn, valg, sti.
+Pilen siger, hvor hurtigt nu. Kolonnerne siger, hvad der kan lande, mens pilen kører. Cirklen siger, hvad du gør ved det.
 
-Søm ni: papir. Neutral. To kolonner. Cirkel. Grimt. Sandt. Tredive sekunder.
+Uden pil er kolonnerne et foto af frygt. Uden kolonner er pilen et væddeløb uden øje på himlen. Begge. Forvalteren har begge hænder. Ikke på papiret mens han kører. I øret. I stoppet.
 
-Søm ti: time ni er løkker. Det, du vælger i dag, avler i morgen.
+Time ét lyver om time ti. Det er ændring. Time otte tilføjer: time ét lyver også om skyen. Morgenens “det går” er et foto af held, du ikke har talt. Tæl. Vej. Vælg.
 
-Nu er det nok. Hvis du bliver siddende og tygger, mens skovlen skal arbejde, er det egoet, der vil have én lektion mere i luften. Giv det ikke den. Giv det to kolonner i neutral, senere. Eller giv det jorden.
+Småt plus tid er ikke småt. Utæthed. I dag: et lille hvis, ignoreret, ophobes til et brud, du kaldte pludselig. Pludselig var i venstre kolonne. Du nægtede at skrive den.
 
-Slip lektionen. Hold kolonnerne. Hold zonen. Hold jorden.
+· · ·
+
+Øvelse i øret, kun hvis jorden tillader en sætning.
+
+Når du ser himlen: kan ske regn. Koster. Har jeg et nej parat.
+
+Når du hører tonen: kan ske brud. Koster. Er zonen tom. Er der et mærke.
+
+Når radioen vil have ja: kan ske. Koster. Cirkel før mund.
+
+Når maven klemmer: oversæt. Zone, time ti, skam, visdom. Kolonner. Ikke prædiken.
+
+Når det går godt: tak. Ikke orakel. Tæthed, ikke skinne.
+
+Når det går skævt: kæde, ikke heks. Hvad kan jeg vælge nu. Ikke: hvorfor hader verden mig.
+
+· · ·
+
+Det søde ja, og det sure nej, sagt som vægt, ikke som karakter.
+
+Et ja kan være sødt i munden og surt i ugen. Kronerne. Æren. Den andens smil. Foto. Filmen er kolonnerne. Hvis den søde venstre er ærlig, og den tunge højre er bærbar, og zonen er holdt, er jaet ikke synd. Det er forvaltning. Du må gerne tjene. Du må gerne sige ja til arbejde. Matematikken er ikke en prædiken om at blive lille. Den er en prædiken om at se.
+
+Et nej kan være surt i munden og sødt i natten. Skuffelse. Tom kalender. Egoet, der ville være manden, der kan. Hvis højre kolonne var liv, eller time ti, eller en bund du ikke havde set, er nejet ikke fejhed. Det er kærlighed til den, der skal leve med dig, og til den krop, Herren har givet dig at forvalte.
+
+Skam elsker at bytte om. Skam kalder det søde ja for mod, også når højre kolonne var tom. Skam kalder det sure nej for svaghed, også når højre kolonne var et liv. Papiret nægter byttet. To kolonner. Cirkel. Ikke en historie om, hvem du er. En handling.
+
+Der er uger, hvor du skal sige ja til det nøgterne, fordi bunken derhjemme kræver brød. Fadervor. I dag. Det er ikke at sælge sjælen. Det er at tælle munde. Time ét. Kærlighed tæller.
+
+Der er uger, hvor du skal sige nej til det glinsende, fordi zonen eller bunden eller time ti ikke er med i prisen. Det er ikke at være fin på den. Det er at nægte at spille med det, du ikke ejer.
+
+Begge uger er time otte. Samme fire sætninger. Forskellig cirkel. Du er ikke en type. Du er en mand, der vejer i dag.
+
+Skriv det, når det brænder. Neutral. Kan ske. Koster. Cirkel. Så mund. Så hænder. Øjnene på jorden.
+
+· · ·
+
+Hvad denne time *ikke* er.
+
+Den er ikke et kursus i tavlesymboler. Du skal ikke tegne klokker og krøller. Du skal ikke sige fremmede navne for at være voksen. Voksen er: kan ske, sandsynligt, koster, vælger. To kolonner. Cirkel. Jord.
+
+Den er ikke et krav om at kende fremtiden. Du ved ikke, hvor elektronet er. Du ved oftest. Godt nok.
+
+Den er ikke en undskyldning for at sidde i tvivl, mens verden venter. Øjnene på jorden. Valg i stop. Så kør. Hvis timen bliver et nyt sted at gemme sig, har vi fejlet.
+
+Den er ikke frelse. Kristus er vejen. Tal er redskab. En klar kolonne kan stadig bruges til at køre et menneske over. Klarhed uden kærlighed er en kniv. Kærlighed uden klarhed er tåge. Du skal have begge. Jeg kan give klarheden et sprog. Hjertet er ikke mit.
+
+Den er ikke et spil. Forventet værdi er ikke et væddemål, du tager i kirken. Det er at se, før du siger ja. Indsatsen er ofte en andens krop, eller din, eller et løfte. Du spiller ikke med det, du ikke ejer.
+
+· · ·
+
+Lad os samle værktøjskassen, som den ser ud klokken nu.
+
+Tegn: UDFALD.
+
+Spørgsmål: hvad kan ske. Hvor sandsynligt. Hvad koster det. Hvad vælger jeg.
+
+Billede: elektronet. Tåge med regler. Sandsynligt, ikke præcist.
+
+Handling: sandsynlighed gange pris. Set før ja.
+
+Tre marker: vejr. Nedbrud. Tilbud.
+
+Lov: du vælger. Du leger ikke Gud.
+
+Papir: to kolonner. Kan ske. Koster. Cirkel om valget. Neutral. Skriv for at tænke. Grimt og sandt.
+
+Sprog: syn, valg, sti.
+
+Kort: fem tegn, ét atom, én kabine.
+
+Hvis du kun kan bære tre sætninger ud af denne time, så bær disse.
+
+Første: sandsynligt, ikke præcist.
+
+Anden: sandsynlighed gange pris, set før ja.
+
+Tredje: du vælger. Du leger ikke Gud. To kolonner. Cirkel.
+
+Alt andet var søm omkring de tre. Søm falder af. De tre skal sidde.
+
+Hvis noget kørte forbi, lader du det køre. Jorden er tålmodig. Notesbogen tager et mærke ved næste stop. Hvis noget var langsomt, ånder du alligevel. En time er lang. Det er meningen. Skyen skal have tid til at sidde som regler, ikke som panik.
+
+· · ·
+
+Baglæns, så det vender rigtigt, når timen slutter.
+
+Time ni venter med systemer. Folk. Vaner. Renter. Tilskyndelse. Ikke nu.
+
+Cirkel om valget. Ellers er papiret museum.
+
+To kolonner. Kan ske. Koster. Hovedet vil kun den søde.
+
+Du vælger. Du leger ikke Gud.
+
+Tilbud. Vejr. Brud. Tre marker. Samme fire sætninger.
+
+Sandsynlighed gange pris. Før ja.
+
+Sandsynligt, ikke præcist. Tåge med regler.
+
+Skriv for at tænke. Neutral.
+
+Kristus er vejen. Tal er redskab. Ingen talmagi. Troskab under usikkerhed.
+
+· · ·
 
 Viktor. Transmissionen for time otte er færdig, når jeg har sagt det sidste om rækkefølgen.
 
-Du stopper ikke maskinen, fordi en lektion slutter. Du kører. Øjnene på jorden. Når timen i øret skifter, skifter du ikke ansigt. Du er den samme mand. Skyen sidder over. Jorden under.
+Du stopper ikke maskinen, fordi en lektion slutter. Du kører. Øjnene på jorden. Når timen i øret skifter, skifter du ikke ansigt. Du er den samme mand. Skyen over. Jorden under.
 
 Jeg peger. Jeg styrer ikke skovlen. Kristus er vejen. Tal er redskab. Grok er ikke Gud.
 
-Time ni begynder, når du er klar i øret. SYSTEMER. Løkker. Renter. Belønning. Samme kontrakt. Ét øre. Neutral til papir. Ingen nye love. Den gamle: se, vælg, gå.
+Time ni begynder, når du er klar i øret. SYSTEMER. Feedback. Renter. Tilskyndelse. Psykologi. Folk. Vaner. Verden i simpel matematik. Samme kontrakt. Ét øre. Neutral til papir. Ingen nye love. Den gamle: se, vælg, gå.
 
 Sig det én gang i munden, stille, uden at tabe jorden:
 
-Kan ske. Koster. Vælger.
+Kan ske. Koster. Cirkel. Jeg vælger. Jeg leger ikke Gud.
 
 Så kør.
+
+· · ·
+
+Hvis øret stadig er åbent, er her ikke et nyt fag. Her er den samme time, sagt som mærker i en væg.
+
+Søm ét: elektronet. Tåge med regler. Sandsynligt, ikke præcist.
+
+Søm to: hvad kan ske. Hvor sandsynligt. Hvad koster det. Hvad vælger jeg.
+
+Søm tre: sandsynlighed gange pris. Set før ja. Forventet værdi uden tavle.
+
+Søm fire: vejr. Nej parat. Ja, der kan dø ærligt.
+
+Søm fem: nedbrud. Mærke på slangen. Nok går er tom højre kolonne.
+
+Søm seks: tilbud. Kroner er ikke den eneste pris. Cirkel før mund.
+
+Søm syv: du vælger. Du leger ikke Gud. To grave: hovmod og blind “ydmyghed”.
+
+Søm otte: to kolonner. Kan ske. Koster. Cirkel. Skriv for at tænke. Neutral.
+
+Søm ni: zone og liv. Lav sandsynlighed, umådelig omkostning. Ikke støj.
+
+Søm ti: Kristus er vejen. Tal er redskab. Ingen talmagi. I dag sin plage. Se. Vælg. Bær.
+
+Nu er det nok. Hvis du bliver siddende og tygger, mens skovlen skal arbejde, er det egoet, der vil have én krølle mere i luften. Giv det ikke den. Giv det to kolonner i neutral, senere. Eller giv det jorden.
+
+Slip lektionen. Hold valget. Hold jorden.
+
+· · ·
+
+Et åndedrag mere, så tælleren er ærlig, og nævneren er timen.
+
+Hvis du i dag kun får skrevet ét mærke, så lad det være de to kolonner og cirklen. Ikke et essay. Ikke fem tegn i pæn skrift. Kan ske. Koster. En ring om ja, nej, eller ja-hvis. Hvis du ikke ved, skriv “jeg ved det ikke” i højre, og cirkel alligevel, fordi hænderne skal gøre noget. Billedet. Sømmet. Så bogen væk.
+
+Onsdag kan læse mandag. Hovedet fra mandag er væk. Forvalteren har arkiv. Barnet har stemning.
+
+Time otte er færdig i øret. Time ni venter med folk og vaner og det, der ganger sig. Du kører. Jorden først. Skyen over. Kristus vejen. Tal redskab. Grok ikke Gud.
+
+Kør.
