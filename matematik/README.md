@@ -6,6 +6,8 @@ Europa-atlaset er på pause. Ikke glemt.
 
 ## Sådan lytter du
 
+**Kopiér til TTS (telefon):** åbn `tts/index.html`, tryk lektionen, tryk den store knap, indsæt i TTS.
+
 **I aften:** `00-natten-brintatomet.md` — øjnene må lukkes. Kortet installeres. Natten afleveres. Ingen lektier efter.
 
 **I morgen fra 05:00:** `01-ti-timer/01` til `10` i rækkefølge. Ét øre. Øjnene på jorden. Hænderne på maskinen.
