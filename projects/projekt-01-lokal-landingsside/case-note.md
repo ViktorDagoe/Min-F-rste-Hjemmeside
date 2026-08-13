@@ -49,13 +49,18 @@ En boligejer med utæt hane eller stoppet afløb skal på 20 sekunder forstå: h
 
 **Leverance-accept:** Godkendt som **portefølje-demo**. Ikke kunde-klar til rigtig VVS, før kontakt og CVR er rigtige.
 
-### Live-link
+### Live-link og screenshot
 
 Når branchen er pushet:  
 `https://raw.githack.com/ViktorDagoe/Min-F-rste-Hjemmeside/cursor/landingsside-nordkyst-a706/projects/projekt-01-lokal-landingsside/index.html`
 
 Efter merge til `main`:  
 `https://viktordagoe.github.io/Min-F-rste-Hjemmeside/projects/projekt-01-lokal-landingsside/`
+
+Screenshots i mappen:
+
+- `screenshot-mobil.png`
+- `screenshot-desktop.png`
 
 ### Antagelse
 
