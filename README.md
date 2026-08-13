@@ -4,12 +4,16 @@ Komplet lærings- og indtjeningsstation for begyndere, der vil bruge AI til **ri
 
 Denne mappe er dit arbejdsbord. Du læser manualen, træner i workstation, bygger projekter, genbruger prompts, og sælger en simpel service.
 
+**Offentlig side:** `index.html` — Viktor Dagø, Kickstart for lokale virksomheder i Horsens.  
+**Intern hub:** `workstation.html` — manual, prompts og projekter.
+
 ## Start her (5 minutter)
 
-1. Åbn `manual/00-indholdsfortegnelse.md`
-2. Læs `manual/01-kom-i-gang.md`
-3. Kopiér dagens skabelon fra `workstation/daglig-skabelon.md`
-4. Kør projekt 1 i `projects/projekt-01-lokal-landingsside/`
+1. Åbn den offentlige side: `index.html`
+2. Læs `manual/00-indholdsfortegnelse.md`
+3. Læs `manual/01-kom-i-gang.md`
+4. Kopiér dagens skabelon fra `workstation/daglig-skabelon.md`
+5. Kør projekt 1 i `projects/projekt-01-lokal-landingsside/`
 
 ## Mappestruktur
 
