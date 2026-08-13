@@ -3,57 +3,108 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Nordkyst VVS i Helsingør. Akut VVS, badeværelse og varmepumpe-service. Ring eller skriv for tid.">
+  <meta name="theme-color" content="#0b6e4f">
   <title>Nordkyst VVS — Helsingør</title>
   <style>
     :root {
       --ink: #15202b;
       --muted: #52606d;
-      --bg: #f6f8fa;
+      --bg: #f4f6f8;
       --card: #ffffff;
       --accent: #0b6e4f;
+      --accent-ink: #fff;
       --line: #d9e2ec;
+      --warn: #8a5a00;
+      --warn-bg: #fff6e5;
     }
     * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
     body {
       margin: 0;
-      font-family: "Source Sans 3", "Segoe UI", sans-serif;
+      font-family: "Segoe UI", system-ui, sans-serif;
       color: var(--ink);
       background: var(--bg);
       line-height: 1.5;
+      padding-bottom: 76px;
+    }
+    .skip {
+      position: absolute;
+      left: -999px;
+      top: 8px;
+      background: var(--accent);
+      color: #fff;
+      padding: 8px 12px;
+      z-index: 20;
+    }
+    .skip:focus { left: 8px; }
+    .demo {
+      background: var(--warn-bg);
+      color: var(--warn);
+      text-align: center;
+      font-size: 0.9rem;
+      padding: 8px 14px;
+      border-bottom: 1px solid #f0d9a0;
     }
     header, section, footer {
       max-width: 920px;
       margin: 0 auto;
       padding: 28px 18px;
     }
-    header {
-      padding-top: 48px;
-    }
+    header { padding-top: 36px; }
     .eyebrow {
       color: var(--accent);
       font-weight: 700;
-      letter-spacing: 0.02em;
       margin-bottom: 8px;
     }
     h1 {
-      font-size: clamp(1.9rem, 4vw, 2.8rem);
+      font-size: clamp(1.85rem, 4.4vw, 2.7rem);
       line-height: 1.15;
       margin: 0 0 12px;
     }
     .lead {
       color: var(--muted);
-      font-size: 1.1rem;
+      font-size: 1.08rem;
       max-width: 36rem;
+      margin: 0;
+    }
+    .cta-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 20px;
     }
     .cta {
       display: inline-block;
-      margin-top: 18px;
       background: var(--accent);
-      color: #fff;
+      color: var(--accent-ink);
       text-decoration: none;
       padding: 12px 18px;
       border-radius: 8px;
       font-weight: 700;
+      border: 2px solid var(--accent);
+    }
+    .cta:focus-visible,
+    .cta-ghost:focus-visible,
+    a:focus-visible,
+    summary:focus-visible {
+      outline: 3px solid #f4d35e;
+      outline-offset: 2px;
+    }
+    .cta-ghost {
+      display: inline-block;
+      background: transparent;
+      color: var(--accent);
+      text-decoration: none;
+      padding: 12px 18px;
+      border-radius: 8px;
+      font-weight: 700;
+      border: 2px solid var(--accent);
+    }
+    .trust {
+      margin-top: 16px;
+      color: var(--muted);
+      font-size: 0.98rem;
     }
     .grid {
       display: grid;
@@ -66,9 +117,30 @@
       border-radius: 10px;
       padding: 16px;
     }
-    h2 { margin: 0 0 12px; font-size: 1.35rem; }
+    h2 { margin: 0 0 14px; font-size: 1.32rem; }
     h3 { margin: 0 0 6px; font-size: 1.05rem; }
-    ol { padding-left: 1.2rem; }
+    p { margin: 0; }
+    .steps {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      display: grid;
+      gap: 12px;
+    }
+    .steps li {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      padding: 14px 16px;
+      display: grid;
+      grid-template-columns: 2rem 1fr;
+      gap: 10px;
+      align-items: start;
+    }
+    .n {
+      font-weight: 800;
+      color: var(--accent);
+    }
     details {
       background: var(--card);
       border: 1px solid var(--line);
@@ -76,87 +148,142 @@
       padding: 12px 14px;
       margin: 8px 0;
     }
+    summary { cursor: pointer; font-weight: 700; }
+    details p { margin-top: 8px; color: var(--muted); }
+    address { font-style: normal; }
     footer {
       color: var(--muted);
       border-top: 1px solid var(--line);
-      margin-top: 20px;
+      margin-top: 12px;
+      font-size: 0.95rem;
+    }
+    .sticky {
+      position: fixed;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: #fff;
+      border-top: 1px solid var(--line);
+      padding: 10px 12px calc(10px + env(safe-area-inset-bottom));
+      display: flex;
+      gap: 8px;
+      z-index: 10;
+    }
+    .sticky .cta,
+    .sticky .cta-ghost {
+      flex: 1;
+      text-align: center;
+      padding: 11px 10px;
+    }
+    @media (min-width: 760px) {
+      body { padding-bottom: 0; }
+      .sticky { display: none; }
     }
   </style>
 </head>
 <body>
+  <a class="skip" href="#indhold">Spring til indhold</a>
+  <div class="demo">Demo-side til portefølje. Telefon og mail er fiktive — skift dem før kundebrug.</div>
+
   <header>
-    <div class="eyebrow">Nordkyst VVS · Helsingør</div>
-    <h1>VVS der svarer hurtigt — og møder op til tiden</h1>
+    <p class="eyebrow">Nordkyst VVS · Helsingør</p>
+    <h1>VVS i Helsingør — vi møder til tiden</h1>
     <p class="lead">Akut hjælp, badeværelse og varmepumpe-service for boligejere i Helsingør og omegn.</p>
-    <a class="cta" href="tel:+4511223344">Ring og book tid</a>
+    <div class="cta-row">
+      <a class="cta" href="tel:+4511223344">Ring 11 22 33 44</a>
+      <a class="cta-ghost" href="#kontakt">Skriv for tid</a>
+    </div>
+    <p class="trust">Ingen anonyme stjerner her. Du taler med den, der kommer.</p>
   </header>
 
-  <section>
-    <h2>Derfor vælger folk os</h2>
-    <div class="grid">
-      <div class="item">
-        <h3>Klar besked</h3>
-        <p>Du får at vide, hvornår vi kan komme — uden at vente i uvished.</p>
+  <main id="indhold">
+    <section aria-labelledby="fordele">
+      <h2 id="fordele">Derfor vælger folk os</h2>
+      <div class="grid">
+        <article class="item">
+          <h3>Klar besked</h3>
+          <p>Du får et tidspunkt, før vi kører. Ingen venten i uvished.</p>
+        </article>
+        <article class="item">
+          <h3>Kort vej</h3>
+          <p>Vi kører i Helsingør og omegn. Kortere tur, hurtigere hjælp.</p>
+        </article>
+        <article class="item">
+          <h3>Tre faste opgaver</h3>
+          <p>Akut VVS, badeværelse og varmepumpe. Ikke 20 ydelser på én side.</p>
+        </article>
       </div>
-      <div class="item">
-        <h3>Lokalt team</h3>
-        <p>Vi kører i Helsingør og nærområdet. Korte afstande. Hurtigere hjælp.</p>
+    </section>
+
+    <section aria-labelledby="ydelser">
+      <h2 id="ydelser">Ydelser</h2>
+      <div class="grid">
+        <article class="item">
+          <h3>Akut VVS</h3>
+          <p>Brud, stoppet afløb, utæt hane. Stop vandet. Ring eller skriv “AKUT”.</p>
+        </article>
+        <article class="item">
+          <h3>Badeværelse</h3>
+          <p>Udskiftning og reparation. Du får omfang og pris, før vi går i gang.</p>
+        </article>
+        <article class="item">
+          <h3>Varmepumpe-service</h3>
+          <p>Service og fejlfinding, så anlægget ikke står stille unødigt.</p>
+        </article>
       </div>
-      <div class="item">
-        <h3>Faste hverdagsopgaver</h3>
-        <p>Fra dryppende haner til større badeværelsesarbejde.</p>
+    </section>
+
+    <section aria-labelledby="proces">
+      <h2 id="proces">Sådan foregår det</h2>
+      <ol class="steps">
+        <li><span class="n">1</span><span>Du ringer eller skriver — gerne med et foto.</span></li>
+        <li><span class="n">2</span><span>Vi aftaler tid og forventet omfang.</span></li>
+        <li><span class="n">3</span><span>Vi udfører opgaven og siger, hvad der er næste skridt.</span></li>
+      </ol>
+    </section>
+
+    <section aria-labelledby="faq">
+      <h2 id="faq">FAQ</h2>
+      <details>
+        <summary>Kører I akut samme dag?</summary>
+        <p>Ved akutte skader i Helsingør-området forsøger vi samme dag. Skriv “AKUT” i beskeden. Samme dag er et forsøg — ikke et løfte.</p>
+      </details>
+      <details>
+        <summary>Lager I tilbud før større opgaver?</summary>
+        <p>Ja. Ved ikke-akutte opgaver får du et klart tilbud, før vi går i gang.</p>
+      </details>
+      <details>
+        <summary>Hvilke områder dækker I?</summary>
+        <p>Helsingør og omegn. Er du i tvivl, så spørg — så siger vi ja eller nej.</p>
+      </details>
+      <details>
+        <summary>Kan jeg sende SMS med billede?</summary>
+        <p>Ja. Send gerne et foto af problemet. Det gør det hurtigere at sige, hvad der skal ske.</p>
+      </details>
+    </section>
+
+    <section id="kontakt" aria-labelledby="kontakt-titel">
+      <h2 id="kontakt-titel">Kontakt</h2>
+      <address>
+        <p>Telefon: <a href="tel:+4511223344">11 22 33 44</a> (demo)<br>
+        Mail: <a href="mailto:hej@nordkyst-vvs.dk">hej@nordkyst-vvs.dk</a> (demo)<br>
+        Område: Helsingør og omegn</p>
+      </address>
+      <p class="trust">Telefon tages på hverdage. Akut: skriv AKUT. Præcise åbningstider skal bekræftes før kundebrug.</p>
+      <div class="cta-row">
+        <a class="cta" href="tel:+4511223344">Ring og book tid</a>
+        <a class="cta-ghost" href="mailto:hej@nordkyst-vvs.dk">Skriv for tid</a>
       </div>
-    </div>
-  </section>
-
-  <section>
-    <h2>Ydelser</h2>
-    <div class="grid">
-      <div class="item"><h3>Akut VVS</h3><p>Stop hanen. Skriv eller ring. Vi prioriterer akutte skader.</p></div>
-      <div class="item"><h3>Badeværelse</h3><p>Udskiftning og reparationer — aftalt scope før start.</p></div>
-      <div class="item"><h3>Varmepumpe-service</h3><p>Service og fejlfinding, så du undgår unødige stop.</p></div>
-    </div>
-  </section>
-
-  <section>
-    <h2>Sådan foregår det</h2>
-    <ol>
-      <li>Du ringer eller skriver med problemet.</li>
-      <li>Vi aftaler tid og forventet omfang.</li>
-      <li>Vi udfører opgaven og gennemgår næste skridt.</li>
-    </ol>
-  </section>
-
-  <section>
-    <h2>FAQ</h2>
-    <details>
-      <summary>Kører I akut samme dag?</summary>
-      <p>Ved akutte skader forsøger vi samme dag i Helsingør-området. Skriv “AKUT” i beskeden.</p>
-    </details>
-    <details>
-      <summary>Lager I tilbud før større opgaver?</summary>
-      <p>Ja. Ved ikke-akutte opgaver får du et klart tilbud før vi går i gang.</p>
-    </details>
-    <details>
-      <summary>Hvilke områder dækker I?</summary>
-      <p>Helsingør og omegn. Spørg gerne hvis du er i tvivl.</p>
-    </details>
-    <details>
-      <summary>Kan jeg skrive på SMS?</summary>
-      <p>Ja. Send gerne billede af problemet — det gør diagnosen hurtigere.</p>
-    </details>
-  </section>
-
-  <section>
-    <h2>Kontakt</h2>
-    <p>Telefon: <a href="tel:+4511223344">11 22 33 44</a><br>
-       Mail: hej@nordkyst-vvs.dk<br>
-       Område: Helsingør og omegn</p>
-    <a class="cta" href="mailto:hej@nordkyst-vvs.dk">Skriv for tid</a>
-  </section>
+    </section>
+  </main>
 
   <footer>
-    <p>Demo-side til AI Skill Workstation — projekt 1. Erstat kontaktinfo med rigtige data før kundebrug.</p>
+    <p>Nordkyst VVS — demo til AI Skill Workstation, projekt 1. Erstat kontaktinfo med rigtige data før kundebrug. CVR: udfyldes.</p>
   </footer>
+
+  <div class="sticky" aria-label="Hurtig kontakt">
+    <a class="cta" href="tel:+4511223344">Ring</a>
+    <a class="cta-ghost" href="mailto:hej@nordkyst-vvs.dk">Skriv</a>
+  </div>
 </body>
 </html>
