@@ -6,8 +6,8 @@ Opdater dagligt. Hold det ærligt. Tal slår følelser.
 
 | Metrik | Antal |
 |---|---|
-| Dage med leverance | 0 |
-| Projekter færdige | 0 |
+| Dage med leverance | 1 |
+| Projekter færdige | 1 |
 | Outreach sendt | 0 |
 | Svar modtaget | 0 |
 | Samtaler holdt | 0 |
@@ -20,7 +20,7 @@ Opdater dagligt. Hold det ærligt. Tal slår følelser.
 
 | Uge | Leverancedage | Outreach | Calls | Tilbud | Ordrer | Noter |
 |---|---|---|---|---|---|---|
-| 1 | | | | | | |
+| 1 | 1 | | | | | Projekt 1: Nordkyst VVS demo-landingsside |
 | 2 | | | | | | |
 | 3 | | | | | | |
 | 4 | | | | | | |
@@ -36,7 +36,7 @@ Opdater dagligt. Hold det ærligt. Tal slår følelser.
 
 ## Milestone-tjek
 
-- [ ] Første landingsside færdig
+- [x] Første landingsside færdig
 - [ ] Første indholdspakke færdig
 - [ ] Service-tilbud klart
 - [ ] 50 outreach sendt

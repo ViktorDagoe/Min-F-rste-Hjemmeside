@@ -26,14 +26,14 @@ Det er dit første porteføljebevis.
 
 ## Krav til siden
 
-- [ ] Hero med overskrift, undertekst, CTA
-- [ ] 3 fordele
-- [ ] Ydelser
-- [ ] 3-trins proces
-- [ ] FAQ (min. 4)
-- [ ] Kontaktsektion
-- [ ] Ingen fluff-sætninger
-- [ ] Virker på mobilbredde
+- [x] Hero med overskrift, undertekst, CTA
+- [x] 3 fordele
+- [x] Ydelser
+- [x] 3-trins proces
+- [x] FAQ (min. 4)
+- [x] Kontaktsektion
+- [x] Ingen fluff-sætninger
+- [x] Virker på mobilbredde
 
 ## Trin
 
@@ -46,12 +46,17 @@ Det er dit første porteføljebevis.
 
 ## Brief (udfyld)
 
-- Virksomhed:
-- By:
-- Problem kunden har:
-- Primær CTA:
-- Tone:
-- Forbudte formuleringer:
+- Virksomhed: Nordkyst VVS (demo)
+- By: Helsingør
+- Problem kunden har: VVS-opgaven haster eller er uklar — de ved ikke, hvornår nogen kommer, og hvad det koster
+- Primær CTA: Ring eller skriv for tid
+- Tone: Klar, lokal, jordnær
+- Forbudte formuleringer: skræddersyet, digitale løsninger, næste level, vi brænder for, fake anmeldelser
+
+## Antagelse
+
+Linear var ikke tilsluttet i dette miljø (ingen Linear-MCP, ingen `LINEAR_API_KEY`).  
+Siden er bygget efter denne repo-brief — ikke efter et Linear-board.
 
 ## Definition af færdig
 
