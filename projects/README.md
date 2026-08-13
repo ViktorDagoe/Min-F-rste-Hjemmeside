@@ -10,6 +10,7 @@ Fem begynderprojekter. Lav dem i rækkefølge.
 | 4 | Tilbuds-generator | Hurtigere lukning | Intern salgsmotor |
 | 5 | Første betalte opgave | Simulering → rigtig ordre | Indkomst |
 
-## Regel
+## Offentlig side
 
-Ingen projekt-hopping. Færdiggør leverancerne i mappen før næste.
+Viktors egen Kickstart-landingsside ligger i repo-roden: `index.html`.  
+Copy og brief: `landing/`. Demo-firma (Nordkyst VVS) er stadig projekt 1.

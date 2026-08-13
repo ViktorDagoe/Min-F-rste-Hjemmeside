@@ -6,7 +6,7 @@ Opdater dagligt. Hold det ærligt. Tal slår følelser.
 
 | Metrik | Antal |
 |---|---|
-| Dage med leverance | 0 |
+| Dage med leverance | 1 |
 | Projekter færdige | 0 |
 | Outreach sendt | 0 |
 | Svar modtaget | 0 |
@@ -36,7 +36,7 @@ Opdater dagligt. Hold det ærligt. Tal slår følelser.
 
 ## Milestone-tjek
 
-- [ ] Første landingsside færdig
+- [x] Første landingsside færdig (`index.html` — Viktor Dagø, Horsens)
 - [ ] Første indholdspakke færdig
 - [ ] Service-tilbud klart
 - [ ] 50 outreach sendt
