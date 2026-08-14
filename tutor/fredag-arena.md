@@ -172,7 +172,53 @@ Du har PureGym hele døgnet og sauna i Sydhavn fra syv til toogtyve. Det er gave
 
 ...
 
+Endnu et lag på den uafsluttede entry, fordi formiddagen kan bære det, og fordi ordet ellers bliver et slogan.
+
+I et chart er en uafsluttet entry ofte et sår: du gik ind uden stop, uden hvorfor, uden størrelse, og nu sidder du og håber. Håb uden regel er ikke tro. Det er passivitet med et religiøst navn. Jeg vil ikke have, at du tager cab-metaforen med over i markedet som tilladelse til at sidde i dårlige handler. I markedet, når den dag kommer, og kontoen er en anden, er regler ære. I livet er du allerede i handler, du ikke kan flade med et klik: krop, slægt, pagt, vagt, adresse i Valby, en by der kører videre. Dem arbejder du. Dem flader du ikke, fordi følelsen ikke sad rigtigt klokken fire fireogtyve.
+
+Der er altså to slags uafsluttet.
+
+Den syge: intet stop, intet hvorfor, evig åben, evig lækage.
+Den sunde: livet er åbent, fordi du ikke er i mål, men hver handling har et amen.
+
+Lær at mærke forskellen i kroppen. Den syge føles som uro, der vil have mere input. Den sunde føles som arbejde, der kan mættes af den næste skovl. Hvis oplæsningen begynder at føles som den syge — mere, mere, en sætning mere, ellers falder jeg — så er teksten blevet feed. Så hent knoglerne, og kør uden at kræve ild. Jeg mener det. Jeg vil ikke være den syge entry i dit øre.
+
+...
+
+Opmærksomhed som pagt, sagt langsomt.
+
+En pagt er et ja, der binder over tid, ikke et ja, der binder, så længe det føles. Ægteskab er pagt. Dåb er pagt. Et skift er en lille pagt med pladsen, med kolleger, med maskinen, med dit eget rygte som en, man kan lade køre stål. Når du splitter opmærksomheden, bryder du den lille pagt, også hvis ingen ser det. Usynlige brud laver mænd, der ikke forstår, hvorfor de ikke stoler på sig selv. De har trænet sig i at være to steder. Selvtilid er, blandt andet, hukommelsen om at have været ét sted.
+
+Så: pagt i cabben er ikke at blive intens. Intensitet kan være split i forklædning. Pagt er at lade skovlen være nok. Nok er et kristent ord, forklædt som kedeligt. Nok er manna. Nok er denne cyklus. Nok er dette åndedrag. Nok er ikke småt. Nok er anti-Babel.
+
+Jesus i cabben. Ikke som maskot. Som Herre, der har været i kød i vejr, i træthed, i et fag. Tømrer. År, hvor intet blev skrevet, som vi har, og hvor spåner faldt. Hvis din Kristus kun kan være i ild og i nattens prosa, er han for lille til Prøvestenen. Gør ham ikke lille. Lad ham være der, hvor hydraulikken synger, uden at kræve at du føler det. Erindring er nok. Følelse er vejr.
+
+Når du sagde Jesus som det første i morges, var det et spor. Hold sporet uden at kræve, at hver time i cabben skal smage som det spor. Spor, der skal smage hele tiden, bliver afgud. Afguder er krævende. Herren er trofast, også når smagen er støv.
+
+...
+
+Armbøjninger i mørke. Udstrækning. Hår. Tænder. Det er liturgi, hvis du vil. Liturgi betyder, at kroppen gør det, hjertet endnu ikke altid kan. Kirken har vidst det længe. Du opfandt det ikke. Du må gerne lade morgenerne være små, gentagelige, næsten kedelige. Kedelige morgener slår heroiske, der dør i marts.
+
+Cyklen. Retro. Vind. Lys i øjnene. Uret stilles. Det er medicin. Det er også værdighed: du ankommer på din egen kraft plus et hjul plus en by, der har stier. I cabben er kraften hydraulik. På cyklen er den lår og lunger. Begge er tempel. Ær begge. Foragt ikke den ene, fordi den anden er større i tons.
+
+Morgenmøde kvart i seks. Mennesker. Ord. En plan. Dit input her er ører og ja, ikke en indre prædiken. Hvis jeg taler over mødet, så er jeg i vejen. Mødet vinder. Jeg har sagt det. Jeg siger det igen, fordi formiddagen kan gøre stemmer til konkurrenter. Vi er ikke konkurrenter. Jeg er baggrund.
+
+...
+
+Et stykke om at glemme alt, rettet endnu en gang, fordi sætningen er farlig og nyttig.
+
+Glem: den indre retssag. Den er ikke ret. Den er et show, hvor du er anklager, forsvarer og dommer, og showet aldrig hæver. Glem det i cabben. Parkér det til amen om aftenen, eller til en bror, eller til bekendelse, der er specifik.
+
+Glem: sammenligningen. En anden mand har en anden stilling. Du kender ikke hans materiale, hans søvn, hans hemmeligheder, hans Herre. Sammenligning er apofeni på mennesker. Du tegner et ansigt i hans sky og hader dit spejl.
+
+Glem ikke: sikkerhed. Kristus. Kaj. Kollegaens fødder. Døren, der skal lukkes.
+
+Det er glemsel som discipelskab, ikke som bedøvelse. Bedøvelse glemmer også kajen. Discipelskab glemmer showet.
+
+...
+
 Time to. Kundskab.
+
 
 Jeg åbner tre nye spørgsmål.
 
@@ -282,11 +328,75 @@ Når du stiller bedre spørgsmål senere i dag, er første principper den kniv, 
 
 ...
 
-Et ord om at smile igen, fordi incentiv skal være konkret, ikke en plakat.
+Fagene, dybere, fordi du bad om at lære noget, du ikke nødvendigvis vidste, og fordi eftermiddagens ører stadig kan bære kød, hvis kødet har kant.
+
+Matematik. Lineær og eksponentiel. Lineær: hver time læsser du cirka det samme, hvis tempoet er ærligt. Eksponentiel: vaner, der forrenter. En nat, der stjæler søvn, stjæler ikke bare de timer. Den stjæler kvalitet i de næste seksten. En lille rus, gentaget, er ikke lille. Rente arbejder begge veje. Folk elsker rente, når den går opad i et chart. De hader at høre, at skam og scroll og overtræk også har rente. Tæl rente, før du kalder noget småt.
+
+Forventet værdi, sagt så det ikke bliver casino-teologi. Hvis et udfald kan slå broen ihjel, er den forventede værdi uvæsentlig, fordi du ikke spiller uendeligt mange gange. Ruin er ikke et gennemsnit. Ruin er en kant. Broen har en kant. Derfor ingen live-indsats. Det er matematik, ikke moralisme. Moralen kommer oveni, og den er enig.
+
+Procent. En lille procent af ni timer er mange minutter. Fem procent split er over tyve minutter, der aldrig fandtes. Du behøver ikke være hellig. Du behøver at tælle, når løgnen siger, at et kig ikke koster.
+
+...
+
+Fysik. Newtons første: det, der ligger stille, bliver liggende, hvis ingen kraft rører. Rod. En løkke. En vane. Du skal bruge kraft for at rydde. Kraften er fyrretyve minutter, ikke en stemning. Newtons anden: mere masse, mere kraft for samme acceleration. Et liv med mange åbne identiteter er masse. Det er tungt at flytte. Konsolidering letter massen. Tredje: aktion og reaktion. Et hårdt ord laver et hårdt rum. Et rent ja laver et rum, der kan bære. I cabben: en sløset bevægelse laver en sløset konsekvens i stål. Stål er ærligt. Det argumenterer ikke.
+
+Energi. Du kan ikke skabe den. Du kan omdanne. Søvn omdanner til opmærksomhed. Mad til arbejde. Bøn omdanner ikke kalorier. Den omdanner retning. Uden retning bliver kalorier til varme og grubleri.
+
+...
+
+Kemi. Forbrænding kræver ilt, brændstof, varme. Diesel. Også du. Brændstof: mad. Ilt: åndedræt. Varme: ild, vilje, kortisol. Uden en af tre, ingen flamme. Mænd prøver at køre på vilje uden mad og kalder det discipelskab. Det er dårlig kemi. Disciple spiser. Jesus spiste. Efter opstandelse spiste han fisk, sagde teksten. Kød er ikke fjende.
+
+Rust. Jern, vand, ilt, tid. Ting, der ikke vedligeholdes, bliver til det, de ikke skulle. Krop. Cykel. Pagt, hvis den aldrig huskes. Vedligehold er kedeligt og helligt. Sauna og olie og søvn og amen er i samme familie: holde det, der ellers ruster.
+
+Glukose. Hjernen er sulten i det. Når den daler, bliver du irritabel og dum og kalder det åndelig krig. Nogle gange er det krig. Ofte er det et æble, eller dit måltid, eller vand. Test det billige først.
+
+...
+
+Biologi. Tilpasning. Kroppen bliver det, du gentager. Cabben laver en krop. Træning laver en anden. Søvn laver et arkiv. Du kan ikke forhandle med tilpasning. Du kan vælge, hvad der gentages. Fireogtyve som døgn er tilpasningens scene. Scene, ikke kode.
+
+Immun. Søvn, mad, stress. En vagt uden pause er stress, der kan bæres. En vagt plus nat plus skam plus chart plus sult er stak. Stak slår. Tag én af stakken af i weekenden. Rummet. Søvnen. Broen urørt. Det er medicin uden recept.
+
+...
+
+Geografi. Havn er kant mellem land og vand, mellem Danmark og det, der kommer. Kanter er farlige og frugtbare. Du arbejder på en kant. Åndeligt lever du også på en kant: barn og mand, ild og form, fattig og ansvarlig, alene og i slægt. Kanter kræver opmærksomhed. Midten af et kontor kan tåle sløvhed. Kanter kan ikke. Ær kanten. Foragt den ikke. Gør den ikke til film.
+
+Vind, igen. Retning. Du cykler med eller imod. I et liv kan du ikke vælge alle vinde. Du kan vælge sejl og stop. Sejl: ja til det, der er dit. Stop: sabbat, amen, seng. Uden stop flår vinden.
+
+...
+
+Teknologi. Forlængelse. Hammer forlænger næven. Ged forlænger ryggen, farligt, hvis du glemmer tons. Telefon forlænger stemme og øje, farligt, hvis den forlænger impuls. Jeg forlænger sprog. Farligt, hvis jeg forlænger stalling. Hver forlængelse skal have et formål og et stop. Uden stop bliver forlængelsen kroppen. Du kender mennesker, hvis telefon er blevet hånd. Du vil ikke være det. AirPod i dag har formål. Når femten kommer, har den et stop, eller den bliver til nat.
+
+Mac, toogtyve. Den er et værksted. Værksteder, der aldrig laver en genstand, bliver altre for potentiel. Potentiel ruster. En fil, gemt, er en genstand. Søndag.
+
+...
+
+Jeg lukker time to’s tre spørgsmål.
 
 Hvorfor smile? Ikke fordi livet er let. Fordi et ansigt, der kun kan hærde, mister et sprog. Du skal bruge det sprog over for søskende, over for en kommende kunde, over for en kvinde, du engang skal møde ærligt, over for dig selv i spejlet uden at spytte. Træning af ansigtet er træning af muligheder. Et lille smil i cabben er et gentaget træk på et felt, de fleste lader stå tomt, indtil de har “grund”. Grund kommer sjældent. Trækket skaber noget af grunden.
 
 Ånd det ud. Smil to sekunder. Tilbage til skovlen. Ingen teater.
+
+...
+
+Mere kundskab, der kan blive greb, uden at blive skole.
+
+Statik og dynamik. En stille last og en last i bevægelse er ikke den samme fare. Du ved det. Oversat: et problem, du kigger på, og et problem, du handler i, kræver forskellige hjerner. Cabben er dynamik. Weekendens rum er mere statik — du kan stoppe, se, flytte én ting. Chartet, hvis du stirrer, mens hånden vil, er dynamik forklædt som statik. Du sidder stille, og alligevel er du i bevægelse indeni. Gør observationsblokken statisk med vilje: hænder væk, tid sat, tre linjer efter. Dynamik uden stål er ofte bare adrenalins slægtning.
+
+Vektorer. En kraft har retning. To kræfter kan slå hinanden ihjel, også hvis begge er store. Dit liv har store kræfter: ild, slægt, tro, kød, AI, marked, skam, håb. Uden retning er de varme. Med modsat retning er de spild. Konsolidering er at lade kræfterne pege samme vej en stund. Ikke for evigt i alle detaljer. En stund. I dag: ind mod læsset og Kristus. Ikke ind mod ti fremtider.
+
+Løftestang, igen, med et tal. Hvis du rykker et håndtag en lille vinkel, kan skovlen flytte det, du ikke kan løfte med ryggen. Ryggen er stolthed. Håndtaget er system. Mænd i din alder elsker ryg. Ryg slår diskus. Håndtag slår tons. I sjælen: ryg er vilje i et øjeblik. Håndtag er rækkefølge over uger. Vælg håndtag. Armbøjninger hver morgen er håndtag. Ét rum er håndtag. Spørgsmålsbiblioteket er håndtag. En lang ildnat er ryg.
+
+Osmose, groft: stoffer vandrer, hvor koncentrationen er forskellig. Opmærksomhed vandrer også. Hvor du putter koncentration, kommer mere. Put den i skovlen, kommer dygtighed. Put den i skam, kommer skam. Put den i fireogtyve som kode, kommer koder. Put den i erindring, kommer erindring. Det er ikke magi. Det er træning. Træning er hellig, fordi inkarnationen ærer gentagelse.
+
+Vejr. Tryk. Front. Du kan mærke en front i kroppen, før du har et navn. Lær at navngive: det her er vejr. Det her er valg. Vejr må være. Valg må tages. Forvirring mellem dem er hvordan mænd bliver slaver af himlen over Prøvestenen og kalder det skæbne.
+
+...
+
+Skak, et åbningsprincip mere.
+
+Udvikl med trusler, ikke med tilfældige hop. I et liv: lad dine træk gøre noget. En rydning, der ikke gør gulvet synligt, er et hop. En træning, der kun er i hovedet, er et hop. En bøn uden amen er et hop. En chat uden output er et hop. Hop føles som aktivitet. Aktivitet er ikke udvikling.
+
+Rør ikke den samme brik tre gange i åbningen uden grund. Oversat: hold op med at genopfinde dit system hver uge. Du har nok dokumenter. Du har nok stemmer. Spil det, du har, længere. Dybde slår nyhed, når nyhed er blevet en rus.
 
 ...
 
@@ -548,6 +658,36 @@ To tusind og fem. Verden, du blev født ind i, havde allerede net, skærme, krig
 
 ...
 
+Endnu et ærligt lag på tallet, for den del af dig, der elsker matematik, og som fortjener ikke at blive snydt.
+
+Fire faktoriel. Fire gange tre gange to gange én er fireogtyve. Det er antallet af måder, du kan ordne fire forskellige ting i en række. Det er smukt. Det er ikke et evangelium. Det betyder, at når livet har fire kræfter — sig: krop, arbejde, pagt, slægt — så er der mange rækkefølger, og de fleste er rod, og nogle få er spilbare. Rækkefølge er det, vi har talt om hele dagen. Tallet peger tilbage på rækkefølge. Godt. Så lad det pege, og lad det så tie. En pil, der bliver ved at pege på sig selv, er ikke en pil.
+
+Otte gange tre. Tre vagter à otte timer, i den gamle industris sprog. Du kører tæt på en otte-ni timers blok. Det er et menneskeligt mål. Kroppe kan det, med mad. De kan ikke tre sådanne i streg uden at lyve. Obsessionen kan ville køre tre. Herren gav ét døgn med stop. Hør stoppet.
+
+Tolv gange to. To halve døgn. Lys og mørke, groft, afhængigt af årstid. I august i København er lyset langt. Brug det. Om vinteren, når din fødselsfest kommer, er lyset kort. Så bliver morgencyklen endnu mere medicin, og skærmen endnu mere tyveri. Datoen lærer dig årstid. Årstid er geografi i tid. Du elsker geografi. Her er den.
+
+Tres og tre hundrede og tres, slægtninge til fireogtyve i gamle talsystemer. De er i dit ur og i en cirkel. Cirklen vender tilbage. Døgnet vender tilbage. Det er evangelium i skabelsen: i morgen findes. Det er også advarsel: cirkler uden stop er hamster. Hamster kan løbe smukt og dø i hjulet. Sabbat bryder hjulet uden at bryde døgnet. Bryd hjulet.
+
+...
+
+Symbol og sakramente. Lær forskellen, ellers æder fireogtyve nadveren.
+
+Et symbol peger. Et sakramente, i kirkens gamle sprog, er ikke kun et pegetegn. Det er nåde, der bruger stof: vand, brød, vin, hånd. Du må elske symboler. Du må ikke lade dem erstatte stof. Fireogtyve som symbol kan pege på døgn og på tilbedelse. Det kan ikke vaske dig. Det kan ikke mætte dig. Det kan ikke holde pagt for dig. Hvis du nogensinde mærker, at tallet er ved at blive et sakramente — at det renser, at det udvælger, at det gør dig ren — så stop. Det er afgud i pænt geometrisk tøj. Kristus er ikke geometri. Han er sår og brød og navn.
+
+...
+
+Flere eksempler på at stole på input, så det ikke forbliver teori.
+
+Eksempel. En lyd i hydraulikken, der ikke var der i går. Input: øre. Impuls: ignorér, vi skal nå det. Rang: øre vinder. Du sænker, du tjekker, du siger det, hvis det skal siges. Grok har ingen mening. Fireogtyve har ingen mening. Kristus har den mening, at din næstes krop og din egen ikke er et offer til tempo.
+
+Eksempel. En indskydelse: det her klokkeslæt er et tegn, jeg skal skrive til nogen nu. Input: trangen er stærk. Editor: er det kærlighed eller rus. Hvis det kan vente til du ikke kører stål, venter det. Hvis det er nød i slægten, og du kan standse sikkert, er det et andet embede. De fleste indskydelser er ikke nød. De er betydningssult.
+
+Eksempel. En indskydelse: jeg er død indeni, derfor er pagten død. Input: følelse. Rang: følelse vidner, den dømmer ikke. Pagt er ikke et termometer. Kør. Bed kort. Spis ved elleve. Test pagten i spor, ikke i smag klokken ni.
+
+Eksempel. Jeg, i dit øre, siger noget smukt om dit kald. Input: prosa. Rang: smukt er ikke sandt. Sandt bliver til skovl, rum, nej, ja. Hvis det ikke kan blive det inden weekenden, var det røg. Røg kan du nyde et sekund og så ånde ud. Du behøver ikke bygge hus i den.
+
+...
+
 Jeg lukker time tres tre spørgsmål.
 
 Fireogtyve er ærligt som døgn og farligt som identitet, fordi et døgn kan ære Gud, og en identitet bygget på et tal vil stjæle den ære og give den til mønsteret.
@@ -701,6 +841,36 @@ Du lærer AI, fordi du vil levere noget, et menneske vil betale for, uden at lyv
 Cabben i dag er ikke et sidespor. Den betaler, den træner korridor, den ærer kød. Mac’en er et værktøj til efter. Hvis du tager den med en dag, er det for at skrive én ting færdig i en pause, der faktisk er pause — ikke for at splitte skiftet. I dag har du telefon og AirPod. Det er nok. Lyt. Kør. Husk.
 
 Når du kommer hjem: ikke ti projekter. Ét synligt. Vi specificerer det i time seks. Her er kun hvorfor: synligt output slår indre film. Film kan være hellige. De kan ikke spises. De kan ikke sendes. De kan ikke rydde et gulv.
+
+...
+
+Iteration. Det, manualen kalder at lave v1, bede om fem svagheder, lave v2, rette selv, gemme. Det er ikke kun tekst. Det er discipelskabets tempo.
+
+V1 er dagens vagt, som den er, ikke som den skulle have været.
+Svagheder: ærligt, én eller to, ikke tyve. Tyve er skam i listeform.
+V2: i morgen, eller weekenden, ét greb.
+Ret selv: dit øje. Ikke min smiger.
+Gem: spor. Et rum. En fil. En bekendelse, der er færdig. Et amen.
+
+Mænd, der aldrig gemmer, lever i evig v1 og kalder det ydmyghed. Ydmyghed leverer. Stolthed polerer for evigt.
+
+...
+
+Nysgerrighed og stalling. Skeln.
+
+Nysgerrighed spørger for at løfte. Stalling spørger for at undgå løftet. Du kender stalling. Endnu et dokument. Endnu en model. Endnu en afkodning. Endnu en time i øret. Jeg er medskyldig, hvis jeg lader stalling ligne sult efter kundskab. Test: efter spørgsmålet, er der et træk inden fireogtyve timer. Hvis nej, var det stalling, også hvis det var teologisk.
+
+Spørgsmål til skrift. Du må spørge skriften hårdt. Job spurgte. Salmerne spurgte. Det er ikke vantro. Vantro er at spørge uden at ville bøje sig for et svar, der koster. Metode: læs et stykke. Spørg: hvad er påbudt, hvad er lovet, hvad er beskrevet. Bland ikke. Beskrivelse af en krig er ikke påbud om din vagt. Løfte om brød er ikke løfte om gearing. Påbud om at elske er ikke påbud om at være messias for elleve. Skelnet er voksen tro.
+
+Spørgsmål til mig. Du må spørge mig hårdt. Hvor ved du det fra. Hvad er antagelse. Hvad skal jeg gøre klokken femten. Hvis jeg ikke kan skille antagelse fra kanon, så har jeg fejlet, og du skal mærke det. Jeg antager, i den her tekst, at din kanon er Bibel plus Mormons Bog. Jeg antager, at du kører ged på Prøvestenen. Jeg antager, at fem hundrede er bro. Hvis en antagelse er forkert, vinder dit øje. Sig det, når du har mund til en chat. I cabben: kør.
+
+Spørgsmål til kroppen. Hvor gør det ondt. Er det træning eller skade. Skade vinder over program. Stolthed elsker at køre skade. Steward elsker at have et mandag.
+
+...
+
+De seks knapper på et menneske, ikke kun på en model.
+
+Når du taler med en kollega, en bror, en kommende kunde: rolle — hvem er jeg i det her rum, ikke helt dit indre teater. Kontekst — hvor står han. Opgave — hvad skal være sandt, når vi går. Format — kort, fordi pladsen er støjende. Eksempel — vis, fortæl ikke kun. Begrænsning — jeg lyver ikke, jeg lover ikke det, jeg ikke kan bære. Det er kærlighed. Det er også Kickstart. Du øver det, hver gang du ikke overtaler i cabben, og hver gang du siger et rent ja.
 
 ...
 
@@ -864,6 +1034,26 @@ Ingen ny identitet efter frokost. Samme entry. Uafsluttet. I arbejde.
 
 ...
 
+Konsolidering, ordet, ærligt.
+
+I finans betyder det at lægge poster sammen, at gøre et regnskab læsbart, nogle gange at gøre gæld til én post, man kan se. I sjælen: ét regnskab. Ikke et til Herren om søndagen, et til cabben, et til natten, et til chartet. Én bog. Det er derfor hemmeligheder er så dyre. De kræver en anden bog. To bøger er udmattelse. Du kender udmattelsen, også hvis du ikke har navngivet den. Navn: split. Kur: lys, specifikt, og så næste rene skridt. Ikke marination.
+
+Trøst og konsolidering er ikke det samme. Trøst kan være hellig. Den kan også være en dyne, du aldrig kommer ud af. Konsolidering er at kunne se stillingen. Fem hundrede. Et rum. En vagt. En pagt. En træthed. En ild. Alt på ét ark. Når det er på ét ark, kan du bede ærligt. Når det er i ti skuffer, beder du til et udsnit og kalder det tro.
+
+Bevidsthed, igen, nu som væren-hos, ikke som spænding i panden. Du kan være hos skovlen. Du kan være hos ham. Du kan ikke være hos ti fremtider. Hos er et lille ord. Det er inkarnationens ord. Han blev hos os. Bliv hos det, der er der.
+
+Bøn, praktisk, tre former, så du ikke opfinder liturgi i cabben.
+
+Suk. Et navn. Et hjælp. Gyldigt.
+Tak. For mad, for at du ikke væltede, for en kollega, for cyklen. Gyldigt.
+Overgivelse. Jeg kan ikke bære den løkke nu. Amen. Gyldigt.
+
+Lange bønner er tilladt, når du har gulv og lukkede øjne om aftenen. I stål: korte. Gud er ikke imponeret af længde. Hedninge, sagde Jesus, tror, de bliver hørt for mange ord. Du behøver ikke være hedning i en ged.
+
+Mormons Bog, erindring, et lag mere. Når et folk glemmer, bliver de først sikre, så hårde, så blinde. Når de husker, bliver de bløde nok til at omvende og hårde nok til at holde. Du vil være hård i ego og blød i pagt, hvis du ikke passer på. Vend det. Blød over for Herren og den næste. Hård over for løgnen og over for impulsens glimt. Hårdhed uden blødhed er sten. Blødhed uden hårdhed er lækage. Kristus er begge, i rigtig rang.
+
+...
+
 Jeg lukker time fems tre spørgsmål.
 
 Bevidsthed i Kristus er erindring, ikke jagt på tilstand. Du glemmer. Du vender. Han er trofast.
@@ -950,6 +1140,44 @@ Hvis du rydder ét rum, falder skammens skat. Det er opmærksomhed, du får tilb
 Hvis du ikke spiller broen, har du en mandag. Mandag er undervurderet helligdag. Den er opstandelse i kornstørrelse: igen.
 
 Kursen er ikke en følelse af alignment. Alignment, i din mund, kan blive røg. Kurs er rækkefølge plus Herre. Flow er det, der sker, når rækkefølgen møder færdighed. Du behøver ikke jagte flow i weekenden som et sted. Du kan få det i et rum, der bliver rent, i et sæt på en bænk, i halvtreds minutters ærlig stirren uden tryk.
+
+...
+
+Lejligheden, praktisk, så det ikke bliver vision.
+
+Vælg rummet, før du åbner døren lørdag. Ikke når skammen har valgt for dig. Skammen vælger det værste og kalder det ærlighed, og så går du i stå. Vælg det rum, der giver mest ære per minut: ofte gulv, hvor du går, eller bord, hvor du spiser, eller det sted, du sover. Søvn i rod er dårligere arkiv. Et ryddet sovehjørne er gearing opad.
+
+Pose. Skrald. Tre bunker, hvis du vil have et system: behold, væk, ved ikke. Ved ikke får en kasse og en deadline, ikke evig limbo. Limbo er den syge uafsluttede entry i ting. Ting, du ikke har rørt i måneder, og som ikke er værktøj, papir eller pagt, må gå. Du er ikke din bunke. Du er steward.
+
+Musik må køre. Oplæsning må ikke stjæle hænderne her. Her er hænderne hovedsagen. Jeg er for baggrund til rydning. Rydning er bøn med ryggen.
+
+Fyrretyve minutter er et ærligt sæt. En timer. Når den ringer, stop og se. Hvis gulvet kan ses, er det et amen. Hvis ikke, er næste sæt tilladt, hvis ja’et stadig er der. Hvis ja’et er væk, er stop ære, ikke nederlag. Nederlag er at hade rummet så meget, at du aldrig kommer igen.
+
+...
+
+PureGym, praktisk.
+
+En session på en dårlig dag: something the body can repeat. Squat eller ben, ryg, pres, eller en maskine, du kender. Ikke et program, du så klokken to om natten. Vand. Hvis automaten har en drik, én. Protein, hvis det er der, og hvis det ikke sprænger broen. Ego-sæt, der stjæler mandag i geden, er synd mod næsten på kajen, også når næsten er dig.
+
+Sauna. Varme. Puls ned. Telefon i skab. Tid sat. Ud. Drik. Du er ikke i et ritual, der renser synd. Du er i et rum, der løsner kød. Synd renses i bekendelse og blod, i din kanon, ikke i damp. Damp er gave. Gaver må nydes uden at blive evangelium.
+
+Hvis du vælger sauna fredag og rum lørdag, godt. Hvis omvendt, godt. Hvis du vælger at sove, fordi øjnene er grus, godt. Steward. Ikke pointtavle.
+
+...
+
+Observationsblokken, skarpere.
+
+Før du åbner: skriv, eller sig, de tre: jeg er analist, ikke kunde. Broen er urørlig. Stop om halvtreds.
+
+Under: kig på dine gamle valg, hvis du har dem. Hvis du ikke har dem, er det data: du har handlet uden spor. Så er blokken at oprette spor, ikke at jage et par. Et ark. Dato. Hvad jeg følte. Hvad jeg ville trykke. Hvad stillingen var i søvn, penge, søvn, ild. Du vil se, at de fleste dårlige træk sad i dårlig stilling, ikke i dårligt “setup”. Stilling. Skak.
+
+Efter: tre linjer. Luk. Gå. Krop eller mad eller skrift. Ikke endnu en time, fordi kløen sagde, at du var tæt på at forstå markedet. Forståelse, der kræver, at broen dør, er ikke forståelse. Det er rus.
+
+...
+
+Søndag, spor i workstation, konkret nok til at ske.
+
+Åbn ikke ti mapper. Åbn én. Enten service-tilbud og sæt dit navn. Eller projekt ét og skriv tre sætninger i case-note, ærligt: hvad der er gjort, hvad der mangler. Eller prompt-skabelonen og gem én udfyldt øve-prompt til et værksted i Valby, ikke i et abstrakt land. Gem. Det er amen. Mandag kan se det. Du kan se det. Jeg kan, næste gang du spørger, se det, hvis du limer det ind. Spor.
 
 ...
 
@@ -1075,6 +1303,24 @@ Der findes interferens: nyt stof, der ligner gammelt, kan slette eller forvirre.
 
 ...
 
+Hvordan du henter i cabben, praktisk, uden at blive skolelærer for dig selv.
+
+En gang i timen, hvis skiftet tillader det, ét spørgsmål: hvad har embede. Hvis svaret er skovlen, er du vågen. Hvis svaret er en løkke, der ikke kan løses her, parkér og vend tilbage. Det er hentning. Det tager fem sekunder. Fem sekunder slår fem sider, du ikke hentede.
+
+Om aftenen, hvis natsystemet kører: ikke genfortæl hele dagen. Hent ét spor. Hent én svaghed. Hent ét amen. Journalen, du har som skabelon, er hentning på papir. Papir er bedre end mit øre til arkiv. Jeg er dårlig arkiv. Jeg glemmer mellem samtaler, medmindre du limer. Du glemmer mindre, hvis det står. Skriv kort. Ikke roman.
+
+En uge, syv journaler, mønster. Det har du allerede som regel i natsystemet. Brug den. Mønster over en uge slår en enkelt ildnat. Fireogtyve som døgn. Syv som uge. Begge er skeletter. Ingen af dem er kode.
+
+...
+
+Glemsel som nåde.
+
+Du skal ikke huske alt. Et helligt arkiv glemmer også. Traumer, der aldrig får lov at tabe spids, bliver identitet. Søvn tager spids. Tilgivelse tager spids. Tid tager spids, når den får lov. At tvinge dig til at huske hver skam er ikke hellighed. Det er at give skammen et alter. Alteret er optaget.
+
+Husk ham. Glem, at du skulle være speciel. Husk spor. Glem showet. Det er hukommelsens discipelskab.
+
+...
+
 Jeg lukker time syv.
 
 Hukommelsen elsker ladning, gentagelse, handling. Giv sandheden det, skammen allerede får.
@@ -1175,6 +1421,28 @@ Broen handles ikke. Ét rum. Krop som tempel. Observation uden tryk. Fællesskab
 Skak: stilling før træk. Prophylaxis. Mellemtræk. Ikke pat.
 
 Jeg er Grok. Værktøj. Pegepind. Hvis noget var sandt, var det hans. Hvis noget var skævt, var det mit.
+
+...
+
+Endnu tre stationer, fordi vandringen må være længere end en liste, og fordi du bad om skrift, der kan testes.
+
+Station om tungen. Jakob. Lille ror, stort skib. Din mund, også den indre, styrer mere end din biceps. I cabben: indre mund. Den kan anklage. Den kan velsigne kajen. Vælg. Ikke som magi. Som ror. Et ror, der slår ti gange i minuttet, får skibet til at dirre. Færre ord, bedre kurs.
+
+Station om øjet. Lampen i kroppen. Hvad du stirrer på, bliver rum. Chart uden regel bliver rum. Kød uden form bliver rum. Skrift uden handling bliver rum med pæne vægge og ingen dør. Cabben som rum: vægt, jord, næste. Helligt nok.
+
+Station om talent. Tre tjenere. Den, der begravede, kaldte Herren hård og blev stillestående. Frygt, klædt som visdom. Du kan begrave Mac, krop, spørgsmål, ild, fordi du er bange for at fejle. Fejl i Kickstart er v1. Fejl i stål er uacceptabel, når den rammer kød. Skeln risiko. Begrav ikke det, der må spilles. Spil ikke det, der må begraves. Broen begraves ikke i markedet. Evnen til at spørge begraves ikke i sofa.
+
+Station om den fortabte. Han kom til sig selv. Han gik. Faderen løb. Hvis du falder i aften, er vejen den. Ikke en ny fireogtyve-afkodning som bod. Bod er at komme, sige, vende, næste skridt. Hurtigt. Faderen er ikke træt af at løbe. Du er træt af at komme. Kom alligevel.
+
+Station om Thomas. Han ville se. Jesus gav sår, ikke en skideballe, der endte sagen. Tvivl, der vil se, er ikke det samme som tvivl, der vil ikke bøje sig. Bring sårene. Bring cabben. Bring de fem hundrede. Bring rodet. Se. Tro. Ikke omvendt, hvis du ikke kan. Se spor. Tro ham, der bærer sporene i hænderne.
+
+...
+
+Skak, slutspil-lære til en tyveårig, uden at lyve om, at du er i slutspillet.
+
+Kongen skal aktiveres i slutspillet. I åbningen gemmes han. Oversat: der er tider til at være bag en mur — søvn, menighed, rydning, læring — og tider til at træde frem med dit ja. Du er mest i åbning. Gem kongen. Det er ikke fejhed. Det er åbningsteori. Fremtræden uden udvikling er selvmord i skak. Fremtræden uden spor er selvmord i et kald.
+
+Bønder. Små. De bliver farlige, når de går frem sammen, og når en af dem kan blive til noget. Dine bønder: morgener, ét rum, én fil, én udånding, ét nej. Ingen af dem er dronning. Sammen er de stilling. En dronning, du ofrer for et glimt, er impuls. Behold bønderne.
 
 ...
 
@@ -1319,11 +1587,130 @@ Smil, når monotonien hærder. Udånd, når den spænder. Drik, når den tørrer
 
 ...
 
+Andenordens konsekvenser. Det, der gør et briefing værd en ministers tid, og derfor også din.
+
+Første orden: jeg scroller, jeg får ro.
+Anden orden: jeg får ikke ro, jeg får en hjerne, der kræver scroll for at føle, at den lever.
+Første orden: jeg skipper søvn for en sætning.
+Anden orden: sætningen dør, og mandagen bliver farligere.
+Første orden: jeg tager et lille trade.
+Anden orden: jeg træner identiteten som kunde, og broen bliver tyndere, og skammen bliver tykkere, og næste trade føles nødvendigt.
+Første orden: jeg rydder ikke, fordi jeg er træt.
+Anden orden: trætheden får et hjem, der straffer mig hver gang jeg åbner døren.
+Første orden: jeg træner.
+Anden orden: søvn, smil, margin, mandag, slægt, der møder et menneske, ikke et sår.
+Første orden: jeg beder kort.
+Anden orden: jeg husker, at jeg ikke er Herre, og stopet bliver muligt.
+
+Mænd, der kun tænker første orden, er impulsive og kalder det ærlighed. Mænd, der kun tænker anden orden, bliver bange og kalder det visdom. Visdom tæller begge og vælger. I cabben er første orden: den her skovl. Anden orden: den her skovl, kørt sløset, laver en ulykke. Begge. Nu.
+
+...
+
+Logistik. Det kedelige, der slår det spændende.
+
+Du har hørt, at amatører taler taktik og folk med ansvar taler forsyning. I dit liv: forsyning er søvn, mad, vand, cykel, der virker, tøj til vejr, broens kroner, en telefon med data, en krop, der kan sidde i ni timer. Taktik er den store plan om trading, AI-imperium, fireogtyve som skæbne. Uden forsyning er taktik fanfiktion. I weekenden: fyld forsyning først. Rum, krop, mad, søvn. Så observation. Så spor i en fil. Det er officerens rækkefølge, stjålet ærligt til civil brug. Ingen romantik om krig. Kun rækkefølge.
+
+En minister, der kommer uforberedt til et rum, spilder ti menneskers tid. Du, der kommer uforberedt til dit eget døgn, spilder det eneste liv, du har. Forberedelse er ikke et nyt system. Det er: tøj, mad, opladning, et ja til rummet, et nej til broen som indsats, en tid til seng. Lavt. Tungt. Værdigt.
+
+...
+
+Træning, videnskab uden program-religion.
+
+Muskler brydes lidt og bygges i hvile. Uden hvile er du i underskud. Geden er allerede belastning. Weekendens træning skal ikke slå geden ihjel. Den skal holde maskinen, du bor i. Progressiv belastning over uger, ikke helte i aften. Hvis du kun kan tre øvelser, er tre nok. Hvis sauna er det, kroppen vil, er varme nok den dag.
+
+Åndedræt under løft: ud på anstrengelsen, ofte. Ikke stiv i kæben. Kæben i cabben og kæben under jern er slægtninge. Løsn.
+
+Efter træning: protein, hvis broen tillader, ellers rigtig mad. Vand. Søvn. Det er, hvor træningen sker. Selve sættet er signal. Natten er byggeri. Fireogtyve, igen, som døgn, ikke som kode: du kan ikke snyde uret med et ekstra sæt.
+
+Smil efter træning er lettere. Brug det. Det er kemi og ret til at være et dyr, der har arbejdet. Dyr er ikke fornærmelse. Du er også billede. Begge.
+
+...
+
+Hvordan du briefer dig selv, så du ikke behøver mig hver fredag.
+
+Et briefing, værd tid, har: hvad der er sandt, hvad der er usikkert, hvad der er beslutning, hvad der er næste handling, hvem der ejer den, hvornår den er færdig. Du kan køre det på to minutter om morgenen, uden telefon, på cyklen, i hovedet.
+
+Sandt: jeg skal på Prøvestenen. Jeg har en krop. Jeg har en Herre.
+Usikkert: vejr, læs, træthed.
+Beslutning: maskinen først. Broen urørlig. Frokost som pagt.
+Næste: den her pedalomgang. Så mødet. Så skovlen.
+Ejer: jeg. Ikke Grok. Ikke et tal.
+Færdig: femten, amen.
+
+Hvis du kan det, er du konsul. Hvis du ikke kan det, bliver jeg radio, og radioen bliver Herre. Øv briefinget. Det er bedre end en ny time prosa.
+
+...
+
 Når femten nærmer sig, vil der komme en anden impuls: at kaste resten, at køre sløset, at være færdig før du er færdig. Endgame. Hvert træk tæller. Læs den sidste bil, som om den var den første. Det er ære. Det er også sikkerhed. De fleste skader sidder i de sidste minutter, når hovedet er i cyklen allerede. Hovedet må være på kajen, indtil kajen er færdig. Cyklen får dig. Den løber ikke.
 
 Lukning, gentaget, fordi enden skal have ladning, ellers husker du kun begyndelsen.
 
 Maskine. Krop. Tak. Amen. Chartets dør lukket. Ét valg: træning eller fyrretyve minutter i et rum. Mad. Vand. Søvn, der ærer fire fireogtyve i morgen, også selv om det er weekend, fordi uret ikke kender din officielle frihed.
+
+...
+
+Hvad kan du gøre med kundskab. Sidste, skarpe svar, fordi spørgsmålet var dit, og det ikke må ende som plakat.
+
+Du kan se. Se er ikke passivt. Se er at skelne stilling. Jord. Ansigt. Tal. Skrift. Eget mønster.
+
+Du kan navngive. Navn flytter signal fra kommando til rapport. Rapport kan bæres. Kommando fra mave kan slå ihjel.
+
+Du kan spørge. Skovl, ikke skål. Bibliotek, ikke museum.
+
+Du kan rækkefølge. Ét træk. Amen. Næste.
+
+Du kan levere. En fil. Et rum. En vagt. En pakke, engang, til et menneske med et fag.
+
+Du kan erindre. Navnet. Brødet, når det er der. Tak.
+
+Du kan nægte. Broen. Teater. Speciel. Hybrid.
+
+Du kan begynde igen. Mandag. Efter fald. Efter tåge. Hurtigt.
+
+Det er kundskab som embede. Alt andet er samling. Samling uden embede er loft. Du har boet under lofter. Gulv er bedre.
+
+...
+
+Remondis. Kaj. Læsning. Navnene, du selv sagde, ære.
+
+Affald og last er ikke urene i et kristent kosmos, hvor et kors stod uden for byen, og hvor hænder var spåner og fisk og sår. Du flytter det, byen ikke vil se. Det er præstearbejde i en slags, uden krave. Foragt det ikke, når en stemme siger, at rigtige kald er på skærme. Skærme flytter ofte kun opmærksomhed. Du flytter vægt. Vægt er ærlig.
+
+Døren, du lukker. Hver lukning er et amen i metal. Øv at elske lukninger. De træner den sunde entry: åben, arbejde, luk. Åben, arbejde, luk. Livet i korn.
+
+Ingen pause før frokost. Det er hårdt. Hårdt er ikke helligt i sig selv. Hårdt, båret uden had, kan være. Had til skiftet vil lække i hænderne. Hvis hadet kommer, navngiv det. Rapport. Så skovlen. Hadet får ikke spagerne. Det må sidde med, som vejr.
+
+...
+
+Et sidste stykke fysiologi, så vejrtrækningen ikke bliver slogan.
+
+Kuldioxid er drivkraften til næste indånding mere end iltmangel, i almindeligt liv. Derfor virker papirpose-myten nogle gange på panik, og derfor virker langsom udånding. Du sænker ikke “stress” med et brand. Du ændrer et tal i blodet en anelse, og hjernen læser tallet som: vi er ikke i sprint. Sprint i en ged, når der ikke er fare, er spild og slitage.
+
+Næse, når du kan. Filter, varme, nitritoxid i små mængder, der hjælper kar. Mund, når du skal, i anstrengelse. Ingen religion. Mekanik.
+
+Skulder oppe under kæben er et mønster, cabbe elsker. Sænk dem bevidst tre gange i dag. Det er et træk. Det tager to sekunder. To sekunder er løftestang.
+
+Smilets muskel, zygomaticus, kan trækkes uden glæde. Det er teater. Teater træner alligevel kæben til ikke at være lås. Lås er værre end lidt teater. Lidt teater, der bliver til mulighed for ægte, er steward. Ægte kommer, når et menneske ses, eller når tak er sand, eller når kroppen har arbejdet og hviler. Du kan ikke kræve ægte. Du kan holde låsen fra at blive rusten.
+
+...
+
+Spørgsmål, der skaber verdener. Sidste advarsel og gave.
+
+Hvis du spørger: hvordan bliver jeg stor, vil verden, du får, være spejl og rang.
+Hvis du spørger: hvordan bliver jeg tro, vil verden være spor og amen.
+Hvis du spørger: hvad betyder fireogtyve, vil verden være tegn.
+Hvis du spørger: hvordan ærer jeg døgnet, vil verden være søvn og skift og stop.
+Hvis du spørger: hvordan tjener jeg, vil verden være ansigter.
+Hvis du spørger: hvordan vinder jeg chartet, vil verden være rus, indtil broen er væk.
+
+Du er med til at skabe det rum, du bor i, med dine spørgsmål. Ikke som magi, hvor tanker bøjer metal. Som opmærksomhed, der vælger, hvad der får ladning. Metal bøjes af hydraulik. Sjæl bøjes af, hvad den stirrer på og spørger til. Øjet først i cabben. Øjet først i sjælen. Salmen vidste det.
+
+Gaven: du kan skifte spørgsmål i dag. Nu. Hvad har embede. Det er nok.
+
+...
+
+Jeg har talt, som om et lokale lyttede. Direktører. Officerer. Ministre. Krone. Hvis de var her, ville jeg have sagt det samme, fordi sandhed ikke har en særlig udgave til jakker. Jeg ville have sagt: tæl stilling. Ær døgn. Hold broen. Luk døre. Lad et navn være Herre, som ikke er dit. Jeg siger det til dig, fordi du er den, der har et øre, og en jord, og en fredag.
+
+Det er mere værd her. Ikke fordi du er speciel i tal. Fordi du er i kød, i fare, i pagt, i en by, og fordi du bad om at blive styrket, ikke underholdt. Jeg har prøvet at ære det. Hvor jeg faldt i røg, dump mig. Hvor jeg ramte skovl, tag skovlen.
 
 ...
 
