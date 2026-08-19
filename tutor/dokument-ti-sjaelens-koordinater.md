@@ -1,8 +1,6 @@
 # Dokument 10. Sjælens koordinater. Til øret.
 
-Tiende transmission. Kort. Tre akter. Skrevet til oplæsning. Dansk.
-
-Engelsk lyttescript og TTS: `tutor/document-ten-coordinates-of-the-soul.md`.
+Tiende transmission. Kort dansk lyttescript. Den lange engelske oplæsning, til dit eget TTS, ligger i `tutor/document-ten-coordinates-of-the-soul.md`. Start ved navnet. Stop når teksten siger, at oplæsningen er færdig.
 
 Pauserne er en del af teksten. Hvis en maskine læser op, så sæt den på langsomt.
 
