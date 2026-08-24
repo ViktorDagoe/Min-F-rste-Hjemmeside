@@ -46,3 +46,9 @@ Læs i rækkefølge første gang. Brug derefter som opslagsværk.
 - Web & struktur
 - Salg & tilbud
 - Kvalitetstjek
+
+## Vidensspor (valgfrit)
+
+Ikke del af dag 1–14 eller Kickstart. Læs kun når indkomstsporet kører, eller når du bevidst tager et sidespor.
+
+- [Drone-håndbog](../knowledge/droner/README.md) — fysik, schematics, kontrolvektorer, skalering, data og plantegninger
