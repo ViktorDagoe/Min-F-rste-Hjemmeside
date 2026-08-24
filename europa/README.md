@@ -6,10 +6,15 @@ Formålet er ikke at huske landeprofiler. Formålet er at kunne lukke øjnene og
 
 ## Sådan lytter du
 
-1. Åbn episoden i `01-geografi/`.
-2. Læs den højt, eller kør den gennem TTS.
-3. Hold øjnene væk fra kort, hvis du kan. Rumligt sprog er meningen.
+1. Lyt til Polen først (`01-geografi/01-polen.md`). Uden slette er «sandsynligt» gætteri.
+2. Lyt derefter til metode-timen (`02-metode/01-simulering.md`). Tryk start 21.24. Skærmen væk.
+3. Telefon-TTS: åbn `tts/01-simulering.html`, kopiér det hele, indsæt i en dansk mandlig stemme. Rolig, ikke hastig.
 4. Kildenoterne er **ikke** til oplæsning. De er til at tjekke tal.
+
+## Lytteorden
+
+1. Polen — geografi og funktion (~60 min)
+2. Simulér sandsynlighed — metode på Europas flows (~60 min, start 21.24)
 
 ## Mappestruktur
 
@@ -18,6 +23,9 @@ Formålet er ikke at huske landeprofiler. Formålet er at kunne lukke øjnene og
 | `01-geografi/00-oversigt.md` | Serieoversigt |
 | `01-geografi/01-polen.md` | TTS-lektion: Polen (~60 min) |
 | `01-geografi/01-polen-kilder.md` | Kilder til tal i Polen-episoden |
+| `02-metode/01-simulering.md` | TTS-lektion: simulering og forudsigelse (~60 min) |
+| `02-metode/01-simulering-kilder.md` | Kun tal, der allerede står i Polen-kilderne |
+| `tts/01-simulering.html` | Én knap: kopiér prompt + lektion til telefon-TTS |
 
 ## Regel
 
