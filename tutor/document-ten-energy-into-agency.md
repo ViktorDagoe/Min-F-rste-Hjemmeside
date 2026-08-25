@@ -26,6 +26,8 @@ And here is the law I will plant now, and return to until it sits in your bones:
 
 You may understand a thousand systems by the time you are home. You will be judged, quietly, by the one simple thing you actually did.
 
+One more standing law, spoken early so it cannot be forgotten when the tool gets impressive later: the voice in your ear — AI — may be your **professor**, your **mirror**, your **simulator**, and your **builder**. It may not be your master. Professor means it explains and tests. Mirror means it shows you your own thinking. Simulator means you can fail cheaply before the real conversation. Builder means briefs become files, not fog. Master would mean it signs for you. That office stays empty. **Agency stays with you.**
+
 Keep your eyes on the ground. I will carry the pictures.
 
 A picture, first, so the hour has somewhere to live. Imagine a cheap ballpoint pressed to a lined page. The ink only exists where the tip actually travels. A man can think about writing a book for ten years and the page stays white. Another man writes one true line, and the world is different by that line. Your shift is the page. The joysticks are the pen. Agency is ink. Everything else — plans, moods, brilliant inner speeches — is the hand hovering above the paper, convinced that hovering is already writing.
@@ -63,6 +65,10 @@ The **counterweight** is the part of the machine most people never praise. It do
 The **blind spot** is not a moral failure. It is geometry. Every cab has a place you cannot see unless you turn, unless you use the mirror, unless you reverse slower than pride wants. A man without mirrors is not brave. He is uninformed. Your mirrors, in this hour, are: the actual result of the last hour, the face of the person you spoke to, the body after lunch, the quiet after a surge. If you never turn your head, you will keep painting a city that is only the view through the windshield.
 
 And the **idle**. A loader at idle is not dead. It is ready. Many men fear idle in themselves — silence, a pause between trucks, a minute with nothing to scroll. They fill it. Filling idle is often how the day leaks. Practice, when the site allows it, a ten-second idle that is not a hunt: hands still capable, eyes still on the ground, no extra story. Readiness without twitching. That is already a spiritual skill. It is also a safety skill.
+
+One more picture from the workshop, because the body understands pictures faster than lectures. When you float the bucket — that small lift off the ground before you travel — you are not doing nothing. You are making the machine honest: no dragging, no pretending the load is lighter than it is. **Floating the bucket** in a life is the same move: before you carry a mood into the next hour, lift it an inch and see what it actually weighs. Irritation that looked like a boulder is sometimes a pebble. A "small" compromise that looked like nothing is sometimes the whole front end dipping. Float it. Then travel.
+
+The workshop does not flatter you. That is why it can save you. A classroom that only praises you is entertainment. A workshop that tells the truth in steel is formation.
 
 ---
 
@@ -178,6 +184,18 @@ And a word on **marriage and covenant**, so this does not sound like a war on un
 
 If this week is already a recovery week — hash, screens, the old loop — do not stack a second war as a way to feel pure. Simplicity: one front. The pause. The channel. Sleep. The next load. Heroic stacks of disciplines are how men collapse and then call collapse "proof they were never serious." Serious is small and repeated.
 
+Let me walk the four beats once more, slower, with the cab still in the shot, so they are not a slogan you forget at the first heat.
+
+**Notice.** The signal arrives as body first, story second. Heat, tightness, a sudden interest in the pocket, a movie starting behind the eyes. You do not have to like that you noticed. Noticing is already a win. It means the seat is not empty.
+
+**Pause.** Not a dramatic freeze that endangers the work. A longer breath out while the bucket is where it should be, while the path is clear. The pause is a gap. In the gap, the surge is still a proposal. Without the gap, it is already a signature.
+
+**Name.** One word, not a trial. *Fire. Want. Escape. The old deal.* If you skip naming, the story names itself — usually as *I need this* or *I am weak* or *everyone does it*. Those are not names. Those are verdicts. A name is smaller and cleaner.
+
+**Channel.** Prayer, work, training, service — whichever is actually available in the next ten minutes. In the cab, work and a one-line prayer are usually the only two in reach. That is enough. Training and service can take the evening if the evening is still honest. Do not invent a fourth heroic channel as a way to delay the first.
+
+Four beats. Energy into agency. Not a personality transplant. A signed interval.
+
 ---
 
 ## The rising curve — from the bucket to the whole day
@@ -205,6 +223,10 @@ Let me add two more words to the curve, because they earn their keep in a workin
 **Second-order effect.** Definition: what happens after what happens. The first-order of snapping at someone is the snap. The second-order is the hour of tension on the site, the story they tell about you, the story you tell about yourself. The first-order of a clean apology is discomfort. The second-order is a loop closed. Intelligent men learn to spend a little on first-order costs to buy better second-order worlds. That is not overthinking. That is looking past the bumper.
 
 Example, still on site. You rush the last loads because the clock is loud. First-order: you leave on time. Second-order: a sloppy pile for the next crew, a reputation nick, a body still amped at the gate. Sometimes the simple obedience is still to finish clean and be ten minutes late to your own impatience. Sometimes the simple obedience is to stop on time because the body is the counterweight. The point is not a rule for every Thursday. The point is to *see* the second order so the first order is not your only god.
+
+**Agency**, again, at this height of the curve: it is not a feeling of power. It is a signed interval. You can feel small and still have agency. You can feel huge and have none — if the hour was only weather moving through you. The test is not mood. The test is whether a choice can be pointed to: this load, this tone, this refusal, this channel.
+
+If you want a single diagnostic at lunch, here it is, and it takes twenty seconds: *Since I climbed in this morning, where did I sign, and where did I drift?* Do not score it like a schoolmaster. Just see the map. The afternoon is still unwritten ink.
 
 ---
 
@@ -293,6 +315,8 @@ Four: **Where is my ego in this?** Do I want the deal because it is true work, o
 Five: **Can I state their win as clearly as mine?** If not, you are not ready. You are hoping.
 
 Six: **What is the smallest true version?** One weekend job. One page. One delivered pack. Complexity of business models understood later. Simplicity obeyed now: a load you can actually carry.
+
+Those six are enough. If you only remember two, remember the real problem and their win. Offers die on those two more than on price.
 
 No smoke. No ego. Real problems. Real transformation. That is ethics you can take onto a site without embarrassment.
 
