@@ -61,6 +61,14 @@ def maerke(r: dict, koder: dict, laengde: int = 44) -> str:
 MAANEDER = ["jan", "feb", "mar", "apr", "maj", "jun", "jul", "aug", "sep", "okt", "nov", "dec"]
 
 
+def komma(x: float, decimaler: int) -> str:
+    return f"{x:.{decimaler}f}".replace(".", ",")
+
+
+def kommaakse(akse) -> None:
+    akse.set_major_formatter(lambda x, _: f"{x:g}".replace(".", ","))
+
+
 def kilde(fig, tekst: str) -> None:
     # Først pakkes figuren, så akseteksterne ligger inden for den; så kan kilden
     # stå under uden at ramme dem.
@@ -150,7 +158,7 @@ def engagement(tt: list[dict], ud: Path, kildetekst: str) -> None:
         return 100 * sum(r[felt] for r in tt) / i_alt
 
     akser[0].bar(datoer, [r["likes_pr_100"] for r in tt], width=0.9, color=BLAA)
-    akser[0].set_title(f"Likes pr. 100 visninger pr. TikTok-opslag (alle opslag samlet: {samlet('likes'):.1f})")
+    akser[0].set_title(f"Likes pr. 100 visninger pr. TikTok-opslag (alle opslag samlet: {komma(samlet('likes'), 1)})")
     akser[0].set_ylabel("Likes pr. 100 visninger")
     akser[1].bar(datoer, [r["delinger_pr_100"] for r in tt], width=0.9, color=GROEN, label="Delinger")
     akser[1].bar(
@@ -159,9 +167,10 @@ def engagement(tt: list[dict], ud: Path, kildetekst: str) -> None:
     )
     akser[1].set_title(
         "Delinger og gemt pr. 100 visninger pr. TikTok-opslag "
-        f"(samlet: {samlet('delinger'):.2f} og {samlet('gemt'):.2f})"
+        f"(samlet: {komma(samlet('delinger'), 2)} og {komma(samlet('gemt'), 2)})"
     )
     akser[1].set_ylabel("Pr. 100 visninger")
+    kommaakse(akser[1].yaxis)
     akser[1].legend(frameon=False)
     akser[2].bar(datoer, [r["delinger"] for r in tt], width=0.9, color=GROEN, label="Delinger")
     akser[2].bar(datoer, [r["gemt"] for r in tt], width=0.9, bottom=[r["delinger"] for r in tt], color=GUL, label="Gemt")
@@ -220,7 +229,7 @@ def laengde(tt: list[dict], ud: Path, kildetekst: str) -> None:
     rho = rangkorrelation([r["varighed_s"] for r in videoer], [r["visninger"] for r in videoer])
     ax.set_title(
         f"Længde mod visninger, {len(videoer)} TikTok-videoer\n"
-        f"Rangkorrelation (Spearman) {rho:+.2f}; 0 = ingen sammenhæng, ±1 = fuld",
+        f"Rangkorrelation (Spearman) {komma(rho, 2)}; 0 = ingen sammenhæng, ±1 = fuld",
         fontsize=10,
     )
     ax.set_xlabel("Længde (sekunder)")
@@ -271,11 +280,12 @@ def grupper(
     akser[1].set_ylim(akser[0].get_ylim())
     for plads, k, v in zip(pladser, navne, videre):
         i_alt = sum(r["delinger"] + r["gemt"] for r in samlet[k])
-        akser[1].text(v, plads, f" {v:.2f}  ({i_alt} i alt)", va="center", fontsize=8)
+        akser[1].text(v, plads, f" {komma(v, 2)}  ({i_alt} i alt)", va="center", fontsize=8)
     akser[1].set_xlim(0, max(videre) * 1.3)
     akser[1].set_title(f"Delinger + gemt pr. 100 visninger fordelt på {navn} (TikTok)", fontsize=10)
     akser[1].set_xlabel("Delinger + gemt pr. 100 visninger (gruppens sum / gruppens visninger)")
     akser[1].set_yticks(list(pladser), [])
+    kommaakse(akser[1].xaxis)
     for ax in akser:
         ax.grid(axis="y", visible=False)
     note = f" · {udeladt} opslag i grupper under {MIN_GRUPPE} er udeladt" if udeladt else ""
@@ -334,15 +344,19 @@ def main() -> int:
         f"{len(tt)} TikTok-opslag {tt[0]['dato']} til {tt[-1]['dato']}"
     )
 
-    visninger_over_tid(tt, ig, charts, kildetekst)
+    begge = kildetekst + (
+        f" · {len(ig)} Instagram-reels {ig[0]['dato']} til {ig[-1]['dato']}" if ig else ""
+    )
+
+    visninger_over_tid(tt, ig, charts, begge)
     top_og_bund(tt, koder, charts, kildetekst)
     engagement(tt, charts, kildetekst)
-    frekvens(tt, [r for r in raekker if r["platform"] == "instagram"], charts, kildetekst)
+    frekvens(tt, [r for r in raekker if r["platform"] == "instagram"], charts, begge)
     laengde(tt, charts, kildetekst)
     if koder:
         grupper(tt, koder, "tema", "tema", charts, "06_tema.png", kildetekst)
         grupper(tt, koder, "tone", "tone", charts, "07_tone.png", kildetekst)
-    platforme(raekker, koder, charts, kildetekst)
+    platforme(raekker, koder, charts, begge)
     if koder:
         grupper(tt, koder, "ord", "ordenes kilde", charts, "09_egne_ord.png", kildetekst)
     print(f"Charts skrevet til {charts}")
