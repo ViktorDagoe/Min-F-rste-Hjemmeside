@@ -4,13 +4,15 @@
 Brug:
     python3 charts.py --ud ud [--koder ud/koder.json]
 
-koder.json er valgfri og har formen {indhold_id: {"titel": ..., "tema": ..., "tone": ...}}.
-Uden den tegnes kun de charts, der ikke kræver tema og tone.
+koder.json er valgfri og har formen
+{indhold_id: {"titel": ..., "tema": ..., "tone": ..., "ord": ...}}, hvor "ord" siger,
+om ordene er egne, eget manuskript eller oplæst. Uden filen tegnes kun de charts,
+der ikke kræver kodning.
 
 Tallene er små (få hundrede visninger pr. video), så hvert chart viser median og
 antal i stedet for gennemsnit, og grupper med under tre videoer tegnes ikke.
 
-Kræver: matplotlib
+Kræver: matplotlib 3.10 eller nyere
 """
 
 from __future__ import annotations
@@ -28,7 +30,7 @@ matplotlib.use("Agg")
 import matplotlib.dates as mdates  # noqa: E402
 import matplotlib.pyplot as plt  # noqa: E402
 
-BLAA, GRAA, ROED, GROEN = "#2f6fbd", "#9aa0a6", "#c0392b", "#2e8b57"
+BLAA, GRAA, ROED, GROEN, GUL = "#2f6fbd", "#9aa0a6", "#c0392b", "#2e8b57", "#e0a030"
 MIN_GRUPPE = 3
 
 plt.rcParams.update(
@@ -50,14 +52,50 @@ def dag(r: dict) -> date:
 
 def maerke(r: dict, koder: dict, laengde: int = 44) -> str:
     titel = (koder.get(r["indhold_id"]) or {}).get("titel") or r["beskrivelse"] or r["tale"]
-    titel = " ".join(titel.split())
+    titel = " ".join(titel.split()) or f"({r['type']} uden tekst)"
     if len(titel) > laengde:
         titel = titel[: laengde - 1] + "…"
     return f"{r['dato'][2:]}  {titel}"
 
 
+MAANEDER = ["jan", "feb", "mar", "apr", "maj", "jun", "jul", "aug", "sep", "okt", "nov", "dec"]
+
+
 def kilde(fig, tekst: str) -> None:
+    # Først pakkes figuren, så akseteksterne ligger inden for den; så kan kilden
+    # stå under uden at ramme dem.
+    fig.tight_layout()
     fig.text(0.01, -0.02, tekst, fontsize=8, color="#555", ha="left", va="top")
+
+
+def maanedsakse(ax) -> None:
+    ax.xaxis.set_major_locator(mdates.MonthLocator())
+    ax.xaxis.set_major_formatter(
+        lambda x, _: (d := mdates.num2date(x)) and f"{MAANEDER[d.month - 1]} {d.year}"
+    )
+
+
+def rangkorrelation(x: list[float], y: list[float]) -> float:
+    """Spearman: sammenhæng mellem rækkefølgerne, så få høje tal ikke styrer resultatet."""
+
+    def rang(v: list[float]) -> list[float]:
+        orden = sorted(range(len(v)), key=lambda i: v[i])
+        r = [0.0] * len(v)
+        i = 0
+        while i < len(orden):
+            j = i
+            while j + 1 < len(orden) and v[orden[j + 1]] == v[orden[i]]:
+                j += 1
+            for k in range(i, j + 1):
+                r[orden[k]] = (i + j) / 2 + 1
+            i = j + 1
+        return r
+
+    rx, ry = rang(x), rang(y)
+    mx, my = statistics.mean(rx), statistics.mean(ry)
+    taeller = sum((a - mx) * (b - my) for a, b in zip(rx, ry))
+    naevner = (sum((a - mx) ** 2 for a in rx) * sum((b - my) ** 2 for b in ry)) ** 0.5
+    return taeller / naevner if naevner else 0.0
 
 
 def visninger_over_tid(tt: list[dict], ig: list[dict], ud: Path, kildetekst: str) -> None:
@@ -69,14 +107,12 @@ def visninger_over_tid(tt: list[dict], ig: list[dict], ud: Path, kildetekst: str
             s=18, color=ROED, zorder=3, label="Instagram (afspilninger)",
         )
     median = statistics.median(r["visninger"] for r in tt)
-    ax.axhline(median, color=GRAA, linestyle="--", linewidth=1)
-    ax.text(dag(tt[-1]), median, f" median TikTok {median:.0f}", va="bottom", ha="right", fontsize=8, color="#555")
-    ax.set_title("Visninger pr. opslag over tid")
+    ax.axhline(median, color=GRAA, linestyle="--", linewidth=1, label=f"Median TikTok ({median:.0f})")
+    ax.set_title("Visninger pr. opslag over tid: TikTok (visninger) og Instagram (afspilninger)")
     ax.set_xlabel("Dato for opslag")
-    ax.set_ylabel("Visninger (antal)")
-    ax.xaxis.set_major_locator(mdates.MonthLocator())
-    ax.xaxis.set_major_formatter(mdates.DateFormatter("%b %y"))
-    ax.legend(frameon=False, loc="upper right")
+    ax.set_ylabel("Visninger / afspilninger (antal)")
+    maanedsakse(ax)
+    ax.legend(frameon=False, loc="upper right", ncols=3, fontsize=8)
     kilde(fig, kildetekst)
     fig.savefig(ud / "01_visninger_over_tid.png")
     plt.close(fig)
@@ -87,8 +123,8 @@ def top_og_bund(tt: list[dict], koder: dict, ud: Path, kildetekst: str, antal: i
     bund, top = sorteret[:antal], sorteret[-antal:]
     fig, akser = plt.subplots(1, 2, figsize=(13, 4.6))
     for ax, raekker, farve, titel in (
-        (akser[0], top, GROEN, f"De {antal} mest sete (TikTok)"),
-        (akser[1], bund[::-1], ROED, f"De {antal} mindst sete (TikTok)"),
+        (akser[0], top, GROEN, f"De {antal} mest sete TikTok-opslag"),
+        (akser[1], bund[::-1], ROED, f"De {antal} mindst sete TikTok-opslag"),
     ):
         # Pladser som tal: to opslag med samme mærke må ikke smelte sammen til én søjle.
         ax.barh(range(len(raekker)), [r["visninger"] for r in raekker], color=farve)
@@ -100,50 +136,79 @@ def top_og_bund(tt: list[dict], koder: dict, ud: Path, kildetekst: str, antal: i
         ax.set_xlim(0, max(r["visninger"] for r in tt) * 1.12)
         ax.grid(axis="y", visible=False)
         ax.tick_params(axis="y", labelsize=8)
-    fig.tight_layout()
     kilde(fig, kildetekst)
     fig.savefig(ud / "02_top_og_bund.png")
     plt.close(fig)
 
 
 def engagement(tt: list[dict], ud: Path, kildetekst: str) -> None:
-    fig, akser = plt.subplots(2, 1, figsize=(11, 6), sharex=True)
+    fig, akser = plt.subplots(3, 1, figsize=(11, 8), sharex=True)
     datoer = [dag(r) for r in tt]
+    i_alt = sum(r["visninger"] for r in tt)
+
+    def samlet(felt: str) -> float:
+        return 100 * sum(r[felt] for r in tt) / i_alt
+
     akser[0].bar(datoer, [r["likes_pr_100"] for r in tt], width=0.9, color=BLAA)
-    akser[0].set_title("Likes pr. 100 visninger (TikTok)")
+    akser[0].set_title(f"Likes pr. 100 visninger pr. TikTok-opslag (alle opslag samlet: {samlet('likes'):.1f})")
     akser[0].set_ylabel("Likes pr. 100 visninger")
-    videre = [(r["delinger"] + r["gemt"]) for r in tt]
-    akser[1].bar(datoer, [r["delinger"] for r in tt], width=0.9, color=GROEN, label="Delinger")
-    akser[1].bar(datoer, [r["gemt"] for r in tt], width=0.9, bottom=[r["delinger"] for r in tt], color="#e0a030", label="Gemt")
-    akser[1].set_title(f"Delinger og gemt pr. opslag (TikTok), i alt {sum(videre)}")
-    akser[1].set_ylabel("Antal")
-    akser[1].set_xlabel("Dato for opslag")
+    akser[1].bar(datoer, [r["delinger_pr_100"] for r in tt], width=0.9, color=GROEN, label="Delinger")
+    akser[1].bar(
+        datoer, [r["gemt_pr_100"] for r in tt], width=0.9,
+        bottom=[r["delinger_pr_100"] for r in tt], color=GUL, label="Gemt",
+    )
+    akser[1].set_title(
+        "Delinger og gemt pr. 100 visninger pr. TikTok-opslag "
+        f"(samlet: {samlet('delinger'):.2f} og {samlet('gemt'):.2f})"
+    )
+    akser[1].set_ylabel("Pr. 100 visninger")
     akser[1].legend(frameon=False)
-    akser[1].xaxis.set_major_locator(mdates.MonthLocator())
-    akser[1].xaxis.set_major_formatter(mdates.DateFormatter("%b %y"))
-    fig.tight_layout()
-    kilde(fig, kildetekst)
+    akser[2].bar(datoer, [r["delinger"] for r in tt], width=0.9, color=GROEN, label="Delinger")
+    akser[2].bar(datoer, [r["gemt"] for r in tt], width=0.9, bottom=[r["delinger"] for r in tt], color=GUL, label="Gemt")
+    akser[2].set_title(
+        f"De samme i rå antal: {sum(r['delinger'] for r in tt)} delinger og "
+        f"{sum(r['gemt'] for r in tt)} gemt i alt på {len(tt)} opslag"
+    )
+    akser[2].set_ylabel("Antal")
+    akser[2].set_xlabel("Dato for opslag")
+    akser[2].legend(frameon=False)
+    maanedsakse(akser[2])
+    kilde(fig, kildetekst + " · Instagram viser hverken delinger eller gemt offentligt")
     fig.savefig(ud / "03_engagement.png")
     plt.close(fig)
 
 
 def frekvens(tt: list[dict], ig: list[dict], ud: Path, kildetekst: str) -> None:
-    maaneder = sorted({r["dato"][:7] for r in tt + ig})
-    fig, ax = plt.subplots(figsize=(10, 3.6))
+    # Hver måned i TikTok-perioden vises, også de tomme, så en pause ligner en pause.
+    foerste, sidste = tt[0]["dato"][:7], max(r["dato"][:7] for r in tt + ig)
+    aar, maaned = int(foerste[:4]), int(foerste[5:])
+    maaneder = []
+    while f"{aar}-{maaned:02d}" <= sidste:
+        maaneder.append(f"{aar}-{maaned:02d}")
+        aar, maaned = (aar + 1, 1) if maaned == 12 else (aar, maaned + 1)
+    foer = [r for r in ig if r["dato"][:7] < foerste]
+    fig, ax = plt.subplots(figsize=(10, 3.8))
     bredde = 0.4
     for forskydning, raekker, farve, navn in ((-bredde / 2, tt, BLAA, "TikTok"), (bredde / 2, ig, ROED, "Instagram")):
         antal = [sum(r["dato"][:7] == m for r in raekker) for m in maaneder]
         pladser = [i + forskydning for i in range(len(maaneder))]
         ax.bar(pladser, antal, width=bredde, color=farve, label=navn)
         for x, n in zip(pladser, antal):
-            if n:
-                ax.text(x, n, str(n), ha="center", va="bottom", fontsize=8)
-    ax.set_xticks(range(len(maaneder)), maaneder, rotation=45, ha="right")
-    ax.set_title("Opslag pr. måned")
+            ax.text(x, n, str(n), ha="center", va="bottom", fontsize=8)
+    ax.set_xticks(
+        range(len(maaneder)),
+        [f"{MAANEDER[int(m[5:]) - 1]} {m[:4]}" for m in maaneder],
+    )
+    ax.set_title("Opslag pr. måned på TikTok og Instagram")
     ax.set_xlabel("Måned")
     ax.set_ylabel("Opslag (antal)")
+    ax.grid(axis="x", visible=False)
     ax.legend(frameon=False)
-    kilde(fig, kildetekst)
+    note = (
+        f" · {len(foer)} ældre Instagram-opslag ({foer[0]['dato'][:4]}–{foer[-1]['dato'][:4]}) er ikke vist"
+        if foer else ""
+    )
+    kilde(fig, kildetekst + note)
     fig.savefig(ud / "04_opslag_pr_maaned.png")
     plt.close(fig)
 
@@ -152,49 +217,69 @@ def laengde(tt: list[dict], ud: Path, kildetekst: str) -> None:
     videoer = [r for r in tt if r["varighed_s"]]
     fig, ax = plt.subplots(figsize=(7, 4.4))
     ax.scatter([r["varighed_s"] for r in videoer], [r["visninger"] for r in videoer], s=22, color=BLAA, alpha=0.8)
-    ax.set_title("Længde mod visninger (TikTok-videoer)")
+    rho = rangkorrelation([r["varighed_s"] for r in videoer], [r["visninger"] for r in videoer])
+    ax.set_title(
+        f"Længde mod visninger, {len(videoer)} TikTok-videoer\n"
+        f"Rangkorrelation (Spearman) {rho:+.2f}; 0 = ingen sammenhæng, ±1 = fuld",
+        fontsize=10,
+    )
     ax.set_xlabel("Længde (sekunder)")
     ax.set_ylabel("Visninger (antal)")
+    ax.set_xlim(left=0)
+    ax.set_ylim(bottom=0)
     kilde(fig, kildetekst)
     fig.savefig(ud / "05_laengde_mod_visninger.png")
     plt.close(fig)
 
 
-def grupper(tt: list[dict], koder: dict, felt: str, ud: Path, filnavn: str, kildetekst: str) -> None:
+def grupper(
+    tt: list[dict], koder: dict, felt: str, navn: str, ud: Path, filnavn: str, kildetekst: str
+) -> None:
     samlet: dict[str, list[dict]] = defaultdict(list)
     for r in tt:
         vaerdi = (koder.get(r["indhold_id"]) or {}).get(felt)
         if vaerdi:
             samlet[vaerdi].append(r)
+    udeladt = sum(len(v) for v in samlet.values() if len(v) < MIN_GRUPPE)
     samlet = {k: v for k, v in samlet.items() if len(v) >= MIN_GRUPPE}
     if not samlet:
         return
     navne = sorted(samlet, key=lambda k: statistics.median(r["visninger"] for r in samlet[k]))
     etiketter = [f"{k} (n={len(samlet[k])})" for k in navne]
-    fig, akser = plt.subplots(1, 2, figsize=(12, 0.45 * len(navne) + 2.2))
+    pladser = range(1, len(navne) + 1)
+    fig, akser = plt.subplots(1, 2, figsize=(13.5, 0.5 * len(navne) + 2.4))
     akser[0].boxplot(
         [[r["visninger"] for r in samlet[k]] for k in navne],
-        vert=False, labels=etiketter, widths=0.6,
-        medianprops={"color": ROED}, flierprops={"markersize": 3},
+        orientation="horizontal", widths=0.55, showfliers=False,
+        medianprops={"color": ROED, "linewidth": 1.6},
     )
-    akser[0].set_title(f"Visninger pr. {felt} (TikTok)")
-    akser[0].set_xlabel("Visninger (antal); rød streg = median")
+    # Hvert opslag som en prik, så man ser hvor få tal hver kasse hviler på.
+    for plads, k in zip(pladser, navne):
+        akser[0].scatter(
+            [r["visninger"] for r in samlet[k]], [plads] * len(samlet[k]),
+            s=10, color=BLAA, alpha=0.6, zorder=3,
+        )
+    akser[0].set_yticks(list(pladser), etiketter)
+    akser[0].set_title(f"Visninger pr. opslag fordelt på {navn} (TikTok)", fontsize=10)
+    akser[0].set_xlabel("Visninger (antal). Rød streg = median, prik = ét opslag")
+    akser[0].set_xlim(left=0)
     videre = [
         100 * sum(r["delinger"] + r["gemt"] for r in samlet[k]) / sum(r["visninger"] for r in samlet[k])
         for k in navne
     ]
-    # Boxplottet lægger grupperne på plads 1..n, så søjlerne gør det samme.
-    akser[1].barh(range(1, len(navne) + 1), videre, color=GROEN)
+    akser[1].barh(list(pladser), videre, color=GROEN)
     akser[1].set_ylim(akser[0].get_ylim())
-    for nr, v in enumerate(videre, 1):
-        akser[1].text(v, nr, f" {v:.2f}", va="center", fontsize=8)
-    akser[1].set_title(f"Delinger + gemt pr. 100 visninger pr. {felt}")
-    akser[1].set_xlabel("Delinger + gemt pr. 100 visninger (samlet for gruppen)")
-    akser[1].set_yticklabels([])
+    for plads, k, v in zip(pladser, navne, videre):
+        i_alt = sum(r["delinger"] + r["gemt"] for r in samlet[k])
+        akser[1].text(v, plads, f" {v:.2f}  ({i_alt} i alt)", va="center", fontsize=8)
+    akser[1].set_xlim(0, max(videre) * 1.3)
+    akser[1].set_title(f"Delinger + gemt pr. 100 visninger fordelt på {navn} (TikTok)", fontsize=10)
+    akser[1].set_xlabel("Delinger + gemt pr. 100 visninger (gruppens sum / gruppens visninger)")
+    akser[1].set_yticks(list(pladser), [])
     for ax in akser:
         ax.grid(axis="y", visible=False)
-    fig.tight_layout()
-    kilde(fig, kildetekst + f" · grupper under {MIN_GRUPPE} videoer er udeladt")
+    note = f" · {udeladt} opslag i grupper under {MIN_GRUPPE} er udeladt" if udeladt else ""
+    kilde(fig, kildetekst + note)
     fig.savefig(ud / filnavn)
     plt.close(fig)
 
@@ -211,11 +296,16 @@ def platforme(raekker: list[dict], koder: dict, ud: Path, kildetekst: str) -> No
     par.sort(key=lambda p: p[0]["tid_utc"])
     fig, ax = plt.subplots(figsize=(9, 0.32 * len(par) + 1.8))
     pladser = range(len(par))
-    ax.barh([p - 0.2 for p in pladser], [tt["visninger"] for tt, _ in par], height=0.4, color=BLAA, label="TikTok")
-    ax.barh([p + 0.2 for p in pladser], [ig["visninger"] for _, ig in par], height=0.4, color=ROED, label="Instagram")
+    ax.barh([p - 0.2 for p in pladser], [tt["visninger"] for tt, _ in par], height=0.4, color=BLAA, label="TikTok (visninger)")
+    ax.barh([p + 0.2 for p in pladser], [ig["visninger"] for _, ig in par], height=0.4, color=ROED, label="Instagram (afspilninger)")
     ax.set_yticks(list(pladser), [maerke(tt, koder) for tt, _ in par], fontsize=8)
     ax.invert_yaxis()
-    ax.set_title("Samme video på begge platforme")
+    hoejest = sum(tt["visninger"] > ig["visninger"] for tt, ig in par)
+    ax.set_title(
+        f"Samme video på begge platforme, {len(par)} par\n"
+        f"TikTok har flest i {hoejest}, Instagram i {len(par) - hoejest}",
+        fontsize=10,
+    )
     ax.set_xlabel("Visninger på TikTok / afspilninger på Instagram (antal)")
     ax.grid(axis="y", visible=False)
     ax.legend(frameon=False)
@@ -250,9 +340,11 @@ def main() -> int:
     frekvens(tt, [r for r in raekker if r["platform"] == "instagram"], charts, kildetekst)
     laengde(tt, charts, kildetekst)
     if koder:
-        grupper(tt, koder, "tema", charts, "06_tema.png", kildetekst)
-        grupper(tt, koder, "tone", charts, "07_tone.png", kildetekst)
+        grupper(tt, koder, "tema", "tema", charts, "06_tema.png", kildetekst)
+        grupper(tt, koder, "tone", "tone", charts, "07_tone.png", kildetekst)
     platforme(raekker, koder, charts, kildetekst)
+    if koder:
+        grupper(tt, koder, "ord", "ordenes kilde", charts, "09_egne_ord.png", kildetekst)
     print(f"Charts skrevet til {charts}")
     return 0
 
