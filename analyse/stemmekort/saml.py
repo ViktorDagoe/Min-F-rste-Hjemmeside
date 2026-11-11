@@ -2,7 +2,7 @@
 """Samler metadata, tale og skærmtekst til én række pr. opslag.
 
 Brug:
-    python3 saml.py --data data --ud ud --transskription large-v3 large-v3-turbo
+    python3 saml.py --data data --ud ud
 
 Resultat i <ud>/:
     videoer.csv     én række pr. opslag pr. platform, med tal og nøgletal
@@ -269,8 +269,9 @@ def main() -> int:
     p.add_argument(
         "--transskription",
         nargs="+",
-        default=["large-v3", "large-v3-turbo"],
-        help="mapper under <data>/transskription i prioriteret rækkefølge",
+        default=["large-v3-turbo"],
+        help="mapper under <data>/transskription i prioriteret rækkefølge. Standarden er "
+        "én kilde, så en kontrolkørsel med en anden model ikke skifter teksten ud af sig selv",
     )
     a = p.parse_args()
 
