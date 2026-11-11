@@ -20,6 +20,7 @@ import argparse
 import csv
 import json
 import re
+import subprocess
 from datetime import datetime, timezone
 from difflib import SequenceMatcher
 from pathlib import Path
@@ -28,6 +29,9 @@ from zoneinfo import ZoneInfo
 from faelles import find_medier, varighed
 
 TIDSZONE = ZoneInfo("Europe/Copenhagen")
+# Højst så mange af de 64 punkter må afvige, før to billeder regnes for forskellige.
+BILLED_GRAENSE = 6
+DREJNINGER = ("", "transpose=1,", "transpose=1,transpose=1,", "transpose=2,")
 UGEDAGE = ["mandag", "tirsdag", "onsdag", "torsdag", "fredag", "lørdag", "søndag"]
 
 
@@ -160,7 +164,56 @@ def ord(tekst: str) -> list[str]:
     return re.findall(r"\w+", tekst.lower())
 
 
-def par_sammen(raekker: list[dict]) -> None:
+def billedaftryk(fil: Path, drejning: str = "") -> int | None:
+    """64-bit aftryk af et billede (lysere/mørkere end nabopunktet i et 9x8-gitter).
+    Samme billede giver næsten samme aftryk, selv om platformen har komprimeret det om."""
+    ud = subprocess.run(
+        [
+            "ffmpeg", "-v", "error", "-i", str(fil), "-frames:v", "1",
+            "-vf", f"{drejning}scale=9:8:flags=area,format=gray", "-f", "rawvideo", "-",
+        ],
+        capture_output=True,
+    )
+    punkter = ud.stdout
+    if ud.returncode != 0 or len(punkter) != 72:
+        return None
+    aftryk = 0
+    for raekke in range(8):
+        for kolonne in range(8):
+            venstre = punkter[raekke * 9 + kolonne]
+            aftryk = (aftryk << 1) | (venstre > punkter[raekke * 9 + kolonne + 1])
+    return aftryk
+
+
+def par_billeder(raekker: list[dict], medier: dict) -> None:
+    """Billedopslag har hverken længde eller tale, så de pares på selve billedet.
+    Samme billede lagt op to gange på én platform får også samme indhold_id."""
+    opslag = []
+    for r in raekker:
+        medie = medier.get(r["noegle"])
+        if r["type"] == "video" or not medie or not medie.billeder:
+            continue
+        # Samme billede bliver nogle gange lagt op igen drejet en kvart omgang.
+        aftryk = [billedaftryk(medie.billeder[0], drejning) for drejning in DREJNINGER]
+        if None not in aftryk:
+            opslag.append((r, aftryk))
+    opslag.sort(key=lambda par: par[0]["tid_utc"])
+    for nr, (r, aftryk) in enumerate(opslag):
+        for tidligere, tidligere_aftryk in opslag[:nr]:
+            dage = abs(
+                (datetime.fromisoformat(r["tid_utc"]) - datetime.fromisoformat(tidligere["tid_utc"])).days
+            )
+            forskel = min(bin(a ^ tidligere_aftryk[0]).count("1") for a in aftryk)
+            if dage > 7 or forskel > BILLED_GRAENSE:
+                continue
+            r["indhold_id"] = tidligere["indhold_id"]
+            if r["platform"] != tidligere["platform"] and not r["par"] and not tidligere["par"]:
+                r["par"], tidligere["par"] = tidligere["noegle"], r["noegle"]
+                r["par_lighed"] = tidligere["par_lighed"] = round(1 - forskel / 64, 2)
+            break
+
+
+def par_sammen(raekker: list[dict], medier: dict) -> None:
     """Giver krydspostede opslag samme indhold_id. Kravet er samme længde, datoer
     tæt på hinanden og, hvor begge har tale, at ordene ligner hinanden."""
     tiktok = [r for r in raekker if r["platform"] == "tiktok"]
@@ -169,6 +222,7 @@ def par_sammen(raekker: list[dict]) -> None:
         r["indhold_id"] = r["noegle"]
         r["par"] = ""
         r["par_lighed"] = None
+    par_billeder(raekker, medier)
     for ig in (r for r in raekker if r["platform"] == "instagram" and r["type"] == "video"):
         bedste, bedste_lighed = None, 0.0
         for tt in tiktok:
@@ -241,7 +295,7 @@ def main() -> int:
         r["kommentarer_pr_100"] = andel(r["kommentarer"], r["visninger"])
         r["delinger_pr_100"] = andel(r["delinger"], r["visninger"])
         r["gemt_pr_100"] = andel(r["gemt"], r["visninger"])
-    par_sammen(raekker)
+    par_sammen(raekker, medier)
     raekker.sort(key=lambda r: (r["tid_utc"], r["platform"]))
 
     (ud / "opslag.json").write_text(json.dumps(raekker, ensure_ascii=False, indent=1))
