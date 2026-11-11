@@ -8,6 +8,7 @@ Resultat i <ud>/:
     videoer.csv     én række pr. opslag pr. platform, med tal og nøgletal
     opslag.json     samme rækker plus fuld tale, skærmtekst og kommentarer
     indhold.md      læsevenlig gennemgang i tidsrækkefølge, til kodning af tema og tone
+    transskriptioner/<dato>_<nøgle>.md   én fil pr. opslag med tale, linje for linje med tid
 
 Et opslag, der ligger på både TikTok og Instagram, får samme indhold_id, så det
 tælles som ét stykke indhold med to sæt tal.
@@ -301,6 +302,25 @@ def main() -> int:
             linjer.append("- Tale ikke transskriberet endnu")
         linjer.append("")
     (ud / "indhold.md").write_text("\n".join(linjer))
+
+    tekstmappe = ud / "transskriptioner"
+    tekstmappe.mkdir(exist_ok=True)
+    for r in raekker:
+        if not r["tale_segmenter"]:
+            continue
+        hoved = [
+            f"# {r['dato']} {r['klokkeslaet']} · {r['platform']} · {r['id']}",
+            "",
+            r["url"],
+            "",
+            f"Sprog: {r['tale_sprog']} · model: {r['tale_kilde']} · {r['antal_ord']} ord",
+            "",
+        ]
+        krop = [
+            f"[{int(s['start'] // 60):02d}:{int(s['start'] % 60):02d}] {s['tekst']}"
+            for s in r["tale_segmenter"]
+        ]
+        (tekstmappe / f"{r['dato']}_{r['noegle']}.md").write_text("\n".join(hoved + krop) + "\n")
 
     print(f"{len(raekker)} opslag: "
           f"{sum(r['platform'] == 'tiktok' for r in raekker)} TikTok, "
