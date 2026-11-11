@@ -28,6 +28,8 @@ from pathlib import Path
 
 from curl_cffi import requests
 
+from faelles import uden_brugernavne
+
 YT_DLP = [sys.executable, "-m", "yt_dlp", "--no-warnings"]
 REHYDRERING = re.compile(
     r'<script id="__UNIVERSAL_DATA_FOR_REHYDRATION__"[^>]*>(.*?)</script>', re.S
@@ -126,7 +128,8 @@ def hent_billeder(detalje: dict, mappe: Path) -> int:
 
 def hent_kommentarer(profil: str, vid: str) -> list[dict]:
     """Kun tekst, tid, likes og om det er profilens egen kommentar. Andres
-    brugernavne gemmes ikke; analysen har ikke brug for dem."""
+    brugernavne gemmes ikke, heller ikke når de står som @-omtale i teksten;
+    analysen har ikke brug for dem."""
     ud: list[dict] = []
     markoer = 0
     while True:
@@ -141,7 +144,7 @@ def hent_kommentarer(profil: str, vid: str) -> list[dict]:
             ud.append(
                 {
                     "tid": k.get("create_time"),
-                    "tekst": k.get("text"),
+                    "tekst": uden_brugernavne(k.get("text")),
                     "likes": k.get("digg_count"),
                     "svar": k.get("reply_comment_total"),
                     "egen": (k.get("user") or {}).get("unique_id") == profil,

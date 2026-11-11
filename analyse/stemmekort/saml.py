@@ -26,7 +26,7 @@ from difflib import SequenceMatcher
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
-from faelles import find_medier, varighed
+from faelles import find_medier, uden_brugernavne, varighed
 
 TIDSZONE = ZoneInfo("Europe/Copenhagen")
 # Højst så mange af de 64 punkter må afvige, før to billeder regnes for forskellige.
@@ -115,7 +115,8 @@ def tiktok_raekker(data: Path, profil: str) -> list[dict]:
                 "lyd_titel": "" if musik.get("original") else (musik.get("title") or ""),
                 "maerkater": maerkater,
                 "kommentar_tekster": [
-                    k["tekst"] for k in laes(data / "kommentarer" / f"{vid}.json", [])
+                    uden_brugernavne(k["tekst"])
+                    for k in laes(data / "kommentarer" / f"{vid}.json", [])
                 ],
             }
         )
@@ -153,7 +154,9 @@ def instagram_raekker(data: Path, medier: dict) -> list[dict]:
                 "lyd_titel": "" if musik.get("uses_original_audio") else (musik.get("song_name") or ""),
                 "maerkater": [],
                 "kommentar_tekster": [
-                    k.get("text") for k in post.get("latestComments") or [] if k.get("text")
+                    uden_brugernavne(k.get("text"))
+                    for k in post.get("latestComments") or []
+                    if k.get("text")
                 ],
             }
         )

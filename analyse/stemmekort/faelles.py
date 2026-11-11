@@ -6,6 +6,7 @@ En nøgle er "tt_<id>" for TikTok og "ig_<shortcode>" for Instagram.
 from __future__ import annotations
 
 import json
+import re
 import subprocess
 from dataclasses import dataclass
 from pathlib import Path
@@ -19,6 +20,11 @@ class Medie:
     video: Path | None
     lyd: Path | None
     billeder: list[Path]
+
+
+def uden_brugernavne(tekst: str | None) -> str:
+    """Fjerner @-omtaler, så andres brugernavne ikke gemmes sammen med en kommentar."""
+    return re.sub(r"@[\w.]+", "@…", tekst or "")
 
 
 def har_stroem(fil: Path, slags: str) -> bool:
