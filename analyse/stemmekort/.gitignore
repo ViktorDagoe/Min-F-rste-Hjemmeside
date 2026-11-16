@@ -1,0 +1,4 @@
+__pycache__/
+# Hentede videoer, transskriptioner og analyse hører ikke hjemme i et offentligt repo.
+data/
+ud/
